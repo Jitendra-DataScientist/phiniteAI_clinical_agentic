@@ -1,0 +1,103 @@
+trial_alias,country_name,enrollment_level,total_enrolled_forecast,total_enrolled_planned,total_enrolled_actual,enrollment_rate_monthly_actual
+CT-2004-PSX,Zimbabwe,Country,164,175,155,3.11
+CT-2004-PSX,Puerto Rico,Site,153,151,136,2.73
+CT-2004-PSX,Christmas Island,Site,82,97,79,1.58
+CT-2004-PSX,Guinea-Bissau,Study,196,191,192,3.85
+CT-6592-IDY,Paraguay,Study,233,213,216,8.14
+CT-6592-IDY,Barbados,Site,115,98,101,3.81
+CT-8970-PLO,Aruba,Country,224,209,196,3.74
+CT-8970-PLO,Liechtenstein,Country,193,199,192,3.66
+CT-8970-PLO,Mozambique,Study,88,95,102,1.95
+CT-5806-JWO,Papua New Guinea,Country,127,123,132,3.55
+CT-5806-JWO,Algeria,Site,219,215,230,6.18
+CT-5806-JWO,Guyana,Site,182,179,180,4.84
+CT-5806-JWO,Nicaragua,Country,191,181,162,4.35
+CT-5806-JWO,Pakistan,Site,159,162,147,3.95
+CT-5806-JWO,Bulgaria,Site,200,197,189,5.08
+CT-8015-GMQ,Serbia,Study,112,103,93,6.37
+CT-8015-GMQ,Morocco,Site,206,205,196,13.42
+CT-8015-GMQ,Marshall Islands,Country,127,126,135,9.25
+CT-8015-GMQ,Guam,Study,147,138,141,9.66
+CT-8015-GMQ,Anguilla,Study,149,151,159,10.89
+CT-8872-GKR,Philippines,Study,133,140,138,4.19
+CT-8872-GKR,Cambodia,Country,91,87,89,2.7
+CT-8872-GKR,British Virgin Islands,Study,71,85,83,2.52
+CT-1696-SCY,Haiti,Site,230,213,201,11.51
+CT-1696-SCY,Guyana,Study,211,204,202,11.56
+CT-1696-SCY,Dominican Republic,Country,90,94,105,6.01
+CT-1696-SCY,Kazakhstan,Study,72,87,81,4.64
+CT-3228-ZKT,Sudan,Country,142,145,155,6.53
+CT-3228-ZKT,Thailand,Study,125,105,118,4.97
+CT-3228-ZKT,Comoros,Country,141,122,133,5.6
+CT-3228-ZKT,South Georgia and the South Sandwich Islands,Study,86,95,92,3.88
+CT-6910-RDE,Pakistan,Country,132,115,105,2.39
+CT-6910-RDE,Hungary,Site,122,103,103,2.35
+CT-6910-RDE,Russian Federation,Site,194,175,182,4.15
+CT-8742-ECD,Korea,Country,172,152,146,3.45
+CT-8742-ECD,Nauru,Study,133,125,106,2.51
+CT-8742-ECD,San Marino,Study,151,133,129,3.05
+CT-7047-GQC,Japan,Country,130,123,112,2.19
+CT-7047-GQC,India,Country,220,213,215,4.21
+CT-7047-GQC,Tunisia,Country,147,129,136,2.66
+CT-7047-GQC,Indonesia,Country,180,190,183,3.58
+CT-7047-GQC,Czech Republic,Country,179,160,168,3.29
+CT-1816-RCG,United States of America,Study,197,204,192,6.44
+CT-1816-RCG,Barbados,Site,123,136,119,3.99
+CT-6109-EDZ,Guam,Site,184,198,191,9.76
+CT-6109-EDZ,Latvia,Country,194,189,194,9.91
+CT-6109-EDZ,Belize,Study,197,194,189,9.66
+CT-6109-EDZ,Seychelles,Site,144,130,122,6.24
+CT-6109-EDZ,Ecuador,Country,150,136,146,7.46
+CT-6109-EDZ,Cambodia,Country,79,86,91,4.65
+CT-9831-IEW,Azerbaijan,Study,170,155,138,2.59
+CT-9831-IEW,Jersey,Site,87,90,93,1.74
+CT-9831-IEW,Tanzania,Study,79,90,83,1.56
+CT-9831-IEW,Wallis and Futuna,Country,120,102,88,1.65
+CT-9831-IEW,Pitcairn Islands,Site,226,217,219,4.1
+CT-9831-IEW,Turkey,Country,74,87,75,1.41
+CT-3395-UCM,Belize,Country,126,112,93,5.14
+CT-3395-UCM,Comoros,Site,170,175,172,9.5
+CT-3395-UCM,Turkey,Study,232,218,220,12.15
+CT-4229-AWU,Uzbekistan,Country,211,218,217,3.81
+CT-4229-AWU,New Caledonia,Country,181,170,165,2.9
+CT-4229-AWU,Ecuador,Country,176,175,184,3.23
+CT-4229-AWU,Brunei Darussalam,Site,154,156,136,2.39
+CT-4229-AWU,Guyana,Study,71,85,94,1.65
+CT-4229-AWU,Bouvet Island (Bouvetoya),Country,78,88,88,1.54
+CT-9771-CZL,British Virgin Islands,Country,225,218,201,7.65
+CT-9771-CZL,Azerbaijan,Country,116,96,107,4.07
+CT-9771-CZL,Central African Republic,Country,133,148,137,5.22
+CT-5014-EEP,Sudan,Site,130,140,127,4.53
+CT-5014-EEP,Jordan,Study,154,140,146,5.21
+CT-5014-EEP,Azerbaijan,Site,103,94,89,3.17
+CT-5014-EEP,Mauritius,Country,104,105,85,3.03
+CT-3636-AVP,Burundi,Study,174,156,148,5.87
+CT-3636-AVP,Pitcairn Islands,Site,98,84,84,3.33
+CT-3636-AVP,Belize,Study,218,217,212,8.4
+CT-3636-AVP,Nicaragua,Study,181,162,165,6.54
+CT-3636-AVP,Estonia,Country,172,175,187,7.41
+CT-7484-BIH,Belgium,Country,132,117,105,3.86
+CT-7484-BIH,Heard Island and McDonald Islands,Study,228,219,210,7.71
+CT-7484-BIH,Niger,Site,108,115,97,3.56
+CT-7487-KNX,Burundi,Site,177,171,158,2.72
+CT-7487-KNX,Niger,Site,112,106,95,1.63
+CT-7487-KNX,Cyprus,Study,96,105,111,1.91
+CT-7487-KNX,Cuba,Country,101,86,74,1.27
+CT-3230-HFO,Serbia,Study,132,120,135,3.52
+CT-3230-HFO,Gibraltar,Site,118,100,114,2.97
+CT-3230-HFO,Antarctica (the territory South of 60 deg S),Site,106,100,89,2.32
+CT-3230-HFO,Libyan Arab Jamahiriya,Site,235,219,233,6.08
+CT-3230-HFO,Switzerland,Site,200,194,185,4.83
+CT-6551-IBW,Italy,Study,106,90,79,1.65
+CT-6551-IBW,Madagascar,Site,104,107,112,2.34
+CT-6551-IBW,Malaysia,Country,138,145,135,2.82
+CT-3472-PNG,Puerto Rico,Site,179,162,163,4.9
+CT-3472-PNG,Falkland Islands (Malvinas),Country,152,166,179,5.39
+CT-3472-PNG,Trinidad and Tobago,Study,196,210,193,5.81
+CT-3472-PNG,Haiti,Country,188,193,188,5.66
+CT-3472-PNG,Libyan Arab Jamahiriya,Study,189,200,202,6.08
+CT-9781-BYC,Albania,Site,200,201,189,11.43
+CT-9781-BYC,Anguilla,Country,148,162,161,9.74
+CT-9781-BYC,Grenada,Country,181,165,147,8.89
+CT-9781-BYC,Moldova,Study,176,164,171,10.34
+CT-9781-BYC,New Caledonia,Study,209,216,212,12.82

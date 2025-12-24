@@ -1,0 +1,643 @@
+Changed by,Country Key,Last changed on,Material,Material Type,Study Approval comment,Study Approval Status,Study ID_ITM,Valid From,Material ID,Material_Type_ID,Trial Alias,Country ID
+Thomas Crane,ZIM,2025-08-13,Traditional Patch,Ancillary Supply,CT-7487-KNX,Approved,CT-2004-PSX-SITE-101,2025-03-04,MAT-60599,Ancillary Supply,CT-2004-PSX,ZIM
+Jordan Schultz,PUE,2025-10-23,Traditional Patch,Ancillary Supply,CT-6592-IDY,Pending,CT-2004-PSX-SITE-102,2025-06-22,MAT-60599,Ancillary Supply,CT-2004-PSX,PUE
+Robert Hines,PUE,2025-06-21,Traditional Patch,Ancillary Supply,CT-9771-CZL,Pending,CT-2004-PSX-SITE-103,2025-01-18,MAT-60599,Ancillary Supply,CT-2004-PSX,PUE
+Joshua Munoz,CHR,2025-07-22,Traditional Patch,Ancillary Supply,CT-6551-IBW,Pending,CT-2004-PSX-SITE-104,2025-03-29,MAT-60599,Ancillary Supply,CT-2004-PSX,CHR
+Phillip Sweeney,CHR,2025-09-04,Traditional Patch,Ancillary Supply,CT-4229-AWU,Rejected,CT-2004-PSX-SITE-105,2025-07-15,MAT-60599,Ancillary Supply,CT-2004-PSX,CHR
+Edwin Howard,GUI,2025-06-26,Traditional Patch,Ancillary Supply,CT-9831-IEW,Rejected,CT-2004-PSX-SITE-106,2025-01-23,MAT-60599,Ancillary Supply,CT-2004-PSX,GUI
+David Howe,GUI,2025-06-23,Traditional Patch,Ancillary Supply,CT-6109-EDZ,Approved,CT-2004-PSX-SITE-107,2025-05-06,MAT-60599,Ancillary Supply,CT-2004-PSX,GUI
+Sophia Brown,GUI,2025-09-13,Traditional Patch,Ancillary Supply,CT-1816-RCG,Rejected,CT-2004-PSX-SITE-108,2025-08-20,MAT-60599,Ancillary Supply,CT-2004-PSX,GUI
+Tony Moore,ZIM,2025-09-19,Offer Tablet,Comparator,CT-8872-GKR,Rejected,CT-2004-PSX-SITE-101,2025-03-19,MAT-32011,Comparator,CT-2004-PSX,ZIM
+Melissa Williams,PUE,2025-09-14,Offer Tablet,Comparator,CT-3228-ZKT,Rejected,CT-2004-PSX-SITE-102,2025-08-17,MAT-32011,Comparator,CT-2004-PSX,PUE
+Andre Phillips,PUE,2025-06-21,Offer Tablet,Comparator,CT-2004-PSX,Pending,CT-2004-PSX-SITE-103,2025-05-11,MAT-32011,Comparator,CT-2004-PSX,PUE
+Dawn Shannon,CHR,2025-09-10,Offer Tablet,Comparator,CT-4229-AWU,Approved,CT-2004-PSX-SITE-104,2025-09-02,MAT-32011,Comparator,CT-2004-PSX,CHR
+Linda Juarez,CHR,2025-05-21,Offer Tablet,Comparator,CT-3228-ZKT,Pending,CT-2004-PSX-SITE-105,2025-02-07,MAT-32011,Comparator,CT-2004-PSX,CHR
+Jaime Perez,GUI,2025-09-23,Offer Tablet,Comparator,CT-6109-EDZ,Approved,CT-2004-PSX-SITE-106,2025-08-29,MAT-32011,Comparator,CT-2004-PSX,GUI
+Susan Christian,GUI,2025-08-31,Offer Tablet,Comparator,CT-7047-GQC,Pending,CT-2004-PSX-SITE-107,2025-10-16,MAT-32011,Comparator,CT-2004-PSX,GUI
+Danny Wilson,GUI,2025-07-06,Offer Tablet,Comparator,CT-7047-GQC,Approved,CT-2004-PSX-SITE-108,2024-12-30,MAT-32011,Comparator,CT-2004-PSX,GUI
+Dana Castro,ZIM,2025-06-28,Common Patch,Comparator,CT-2004-PSX,Pending,CT-2004-PSX-SITE-101,2025-09-09,MAT-97442,Comparator,CT-2004-PSX,ZIM
+Heather Turner,PUE,2025-10-14,Common Patch,Comparator,CT-7487-KNX,Approved,CT-2004-PSX-SITE-102,2025-10-08,MAT-97442,Comparator,CT-2004-PSX,PUE
+Janet Jackson,PUE,2025-11-09,Common Patch,Comparator,CT-3636-AVP,Pending,CT-2004-PSX-SITE-103,2025-10-31,MAT-97442,Comparator,CT-2004-PSX,PUE
+Julie Lindsey,CHR,2025-08-04,Common Patch,Comparator,CT-7487-KNX,Pending,CT-2004-PSX-SITE-104,2025-06-08,MAT-97442,Comparator,CT-2004-PSX,CHR
+Joseph Cox,CHR,2025-07-21,Common Patch,Comparator,CT-9781-BYC,Pending,CT-2004-PSX-SITE-105,2025-04-17,MAT-97442,Comparator,CT-2004-PSX,CHR
+Stephanie Barber,GUI,2025-07-26,Common Patch,Comparator,CT-3636-AVP,Approved,CT-2004-PSX-SITE-106,2025-03-24,MAT-97442,Comparator,CT-2004-PSX,GUI
+Molly Atkinson,GUI,2025-08-17,Common Patch,Comparator,CT-3636-AVP,Approved,CT-2004-PSX-SITE-107,2025-03-30,MAT-97442,Comparator,CT-2004-PSX,GUI
+Kenneth May,GUI,2025-10-24,Common Patch,Comparator,CT-3472-PNG,Rejected,CT-2004-PSX-SITE-108,2025-09-24,MAT-97442,Comparator,CT-2004-PSX,GUI
+John Fields,PAR,2025-08-23,Able Patch,Ancillary Supply,CT-2004-PSX,Rejected,CT-6592-IDY-SITE-109,2025-09-16,MAT-49508,Ancillary Supply,CT-6592-IDY,PAR
+James White,BAR,2025-09-22,Able Patch,Ancillary Supply,CT-6910-RDE,Pending,CT-6592-IDY-SITE-110,2025-05-19,MAT-49508,Ancillary Supply,CT-6592-IDY,BAR
+Michelle Chandler,PAR,2025-07-03,Myself Capsule,Investigational Product,CT-8970-PLO,Approved,CT-6592-IDY-SITE-109,2025-06-22,MAT-17085,Investigational Product,CT-6592-IDY,PAR
+Robert Diaz,BAR,2025-08-31,Myself Capsule,Investigational Product,CT-6592-IDY,Rejected,CT-6592-IDY-SITE-110,2025-10-02,MAT-17085,Investigational Product,CT-6592-IDY,BAR
+Kiara Luna,ARU,2025-08-22,Help Solution,Ancillary Supply,CT-4229-AWU,Pending,CT-8970-PLO-SITE-111,2025-08-03,MAT-84265,Ancillary Supply,CT-8970-PLO,ARU
+Kyle Morales,ARU,2025-06-30,Help Solution,Ancillary Supply,CT-4229-AWU,Rejected,CT-8970-PLO-SITE-112,2025-01-26,MAT-84265,Ancillary Supply,CT-8970-PLO,ARU
+Timothy Wood,LIE,2025-08-31,Help Solution,Ancillary Supply,CT-2004-PSX,Pending,CT-8970-PLO-SITE-113,2025-07-01,MAT-84265,Ancillary Supply,CT-8970-PLO,LIE
+Joshua Bradley,LIE,2025-08-23,Help Solution,Ancillary Supply,CT-8015-GMQ,Rejected,CT-8970-PLO-SITE-114,2025-05-12,MAT-84265,Ancillary Supply,CT-8970-PLO,LIE
+Darryl Roberts,LIE,2025-06-23,Help Solution,Ancillary Supply,CT-6109-EDZ,Pending,CT-8970-PLO-SITE-115,2025-08-08,MAT-84265,Ancillary Supply,CT-8970-PLO,LIE
+Monica Bell,MOZ,2025-08-19,Help Solution,Ancillary Supply,CT-5014-EEP,Rejected,CT-8970-PLO-SITE-116,2025-05-28,MAT-84265,Ancillary Supply,CT-8970-PLO,MOZ
+Brenda Kirby,MOZ,2025-07-05,Help Solution,Ancillary Supply,CT-8970-PLO,Pending,CT-8970-PLO-SITE-117,2025-04-28,MAT-84265,Ancillary Supply,CT-8970-PLO,MOZ
+Amy Green,MOZ,2025-06-30,Help Solution,Ancillary Supply,CT-9781-BYC,Rejected,CT-8970-PLO-SITE-118,2025-08-05,MAT-84265,Ancillary Supply,CT-8970-PLO,MOZ
+Denise Perez,ARU,2025-05-20,Range Solution,Investigational Product,CT-8742-ECD,Approved,CT-8970-PLO-SITE-111,2025-02-04,MAT-82398,Investigational Product,CT-8970-PLO,ARU
+Joshua Sullivan,ARU,2025-06-17,Range Solution,Investigational Product,CT-7487-KNX,Approved,CT-8970-PLO-SITE-112,2024-12-15,MAT-82398,Investigational Product,CT-8970-PLO,ARU
+Kevin Reeves,LIE,2025-07-21,Range Solution,Investigational Product,CT-3228-ZKT,Rejected,CT-8970-PLO-SITE-113,2024-12-17,MAT-82398,Investigational Product,CT-8970-PLO,LIE
+James Fowler,LIE,2025-06-11,Range Solution,Investigational Product,CT-8015-GMQ,Rejected,CT-8970-PLO-SITE-114,2025-05-05,MAT-82398,Investigational Product,CT-8970-PLO,LIE
+Monique Yoder,LIE,2025-08-21,Range Solution,Investigational Product,CT-6551-IBW,Rejected,CT-8970-PLO-SITE-115,2025-09-21,MAT-82398,Investigational Product,CT-8970-PLO,LIE
+Daniel Porter,MOZ,2025-06-05,Range Solution,Investigational Product,CT-6551-IBW,Approved,CT-8970-PLO-SITE-116,2025-03-08,MAT-82398,Investigational Product,CT-8970-PLO,MOZ
+Robert Stewart,MOZ,2025-06-23,Range Solution,Investigational Product,CT-3636-AVP,Approved,CT-8970-PLO-SITE-117,2024-12-12,MAT-82398,Investigational Product,CT-8970-PLO,MOZ
+Daniel Gonzales,MOZ,2025-05-28,Range Solution,Investigational Product,CT-8742-ECD,Pending,CT-8970-PLO-SITE-118,2025-01-01,MAT-82398,Investigational Product,CT-8970-PLO,MOZ
+Christian Johnson,ARU,2025-05-28,Artist Solution,Ancillary Supply,CT-3395-UCM,Rejected,CT-8970-PLO-SITE-111,2024-12-10,MAT-85304,Ancillary Supply,CT-8970-PLO,ARU
+Jacqueline Hurley,ARU,2025-09-30,Artist Solution,Ancillary Supply,CT-3395-UCM,Rejected,CT-8970-PLO-SITE-112,2025-09-12,MAT-85304,Ancillary Supply,CT-8970-PLO,ARU
+Michael Flores,LIE,2025-10-24,Artist Solution,Ancillary Supply,CT-7487-KNX,Pending,CT-8970-PLO-SITE-113,2025-04-30,MAT-85304,Ancillary Supply,CT-8970-PLO,LIE
+Courtney Blair,LIE,2025-07-18,Artist Solution,Ancillary Supply,CT-8742-ECD,Rejected,CT-8970-PLO-SITE-114,2025-06-28,MAT-85304,Ancillary Supply,CT-8970-PLO,LIE
+Sheila Clark,LIE,2025-06-14,Artist Solution,Ancillary Supply,CT-5014-EEP,Rejected,CT-8970-PLO-SITE-115,2024-12-29,MAT-85304,Ancillary Supply,CT-8970-PLO,LIE
+David Young,MOZ,2025-10-21,Artist Solution,Ancillary Supply,CT-1696-SCY,Rejected,CT-8970-PLO-SITE-116,2025-08-01,MAT-85304,Ancillary Supply,CT-8970-PLO,MOZ
+George Hurst,MOZ,2025-09-28,Artist Solution,Ancillary Supply,CT-8970-PLO,Pending,CT-8970-PLO-SITE-117,2025-11-04,MAT-85304,Ancillary Supply,CT-8970-PLO,MOZ
+Bradley Delacruz,MOZ,2025-08-31,Artist Solution,Ancillary Supply,CT-6109-EDZ,Approved,CT-8970-PLO-SITE-118,2025-04-18,MAT-85304,Ancillary Supply,CT-8970-PLO,MOZ
+Madison Leblanc,ARU,2025-06-22,Various Solution,Investigational Product,CT-6910-RDE,Rejected,CT-8970-PLO-SITE-111,2024-12-27,MAT-86920,Investigational Product,CT-8970-PLO,ARU
+Gary Arroyo,ARU,2025-07-23,Various Solution,Investigational Product,CT-8872-GKR,Approved,CT-8970-PLO-SITE-112,2025-06-02,MAT-86920,Investigational Product,CT-8970-PLO,ARU
+Kevin Robinson,LIE,2025-10-03,Various Solution,Investigational Product,CT-3636-AVP,Pending,CT-8970-PLO-SITE-113,2025-08-29,MAT-86920,Investigational Product,CT-8970-PLO,LIE
+Lorraine Gould,LIE,2025-06-08,Various Solution,Investigational Product,CT-3472-PNG,Pending,CT-8970-PLO-SITE-114,2025-08-27,MAT-86920,Investigational Product,CT-8970-PLO,LIE
+Jennifer Weeks,LIE,2025-10-10,Various Solution,Investigational Product,CT-2004-PSX,Rejected,CT-8970-PLO-SITE-115,2025-09-12,MAT-86920,Investigational Product,CT-8970-PLO,LIE
+Amber Beard,MOZ,2025-10-16,Various Solution,Investigational Product,CT-7047-GQC,Approved,CT-8970-PLO-SITE-116,2025-08-31,MAT-86920,Investigational Product,CT-8970-PLO,MOZ
+Scott West,MOZ,2025-07-02,Various Solution,Investigational Product,CT-3395-UCM,Rejected,CT-8970-PLO-SITE-117,2025-06-26,MAT-86920,Investigational Product,CT-8970-PLO,MOZ
+James Prince,MOZ,2025-06-23,Various Solution,Investigational Product,CT-8872-GKR,Rejected,CT-8970-PLO-SITE-118,2025-10-08,MAT-86920,Investigational Product,CT-8970-PLO,MOZ
+Luis Thomas,PAP,2025-10-28,Figure Capsule,Comparator,CT-6910-RDE,Approved,CT-5806-JWO-SITE-119,2025-05-14,MAT-42350,Comparator,CT-5806-JWO,PAP
+James Villegas,ALG,2025-05-24,Figure Capsule,Comparator,CT-8742-ECD,Rejected,CT-5806-JWO-SITE-120,2025-07-19,MAT-42350,Comparator,CT-5806-JWO,ALG
+Benjamin Snyder,ALG,2025-08-18,Figure Capsule,Comparator,CT-6910-RDE,Pending,CT-5806-JWO-SITE-121,2025-04-07,MAT-42350,Comparator,CT-5806-JWO,ALG
+Samantha Hall,ALG,2025-10-08,Figure Capsule,Comparator,CT-5014-EEP,Pending,CT-5806-JWO-SITE-122,2025-10-17,MAT-42350,Comparator,CT-5806-JWO,ALG
+William Bullock,GUY,2025-05-23,Figure Capsule,Comparator,CT-8015-GMQ,Pending,CT-5806-JWO-SITE-123,2025-10-23,MAT-42350,Comparator,CT-5806-JWO,GUY
+Julie Chaney,GUY,2025-05-23,Figure Capsule,Comparator,CT-5806-JWO,Pending,CT-5806-JWO-SITE-124,2024-12-04,MAT-42350,Comparator,CT-5806-JWO,GUY
+Ashlee Vega,NIC,2025-08-23,Figure Capsule,Comparator,CT-4229-AWU,Rejected,CT-5806-JWO-SITE-125,2025-04-28,MAT-42350,Comparator,CT-5806-JWO,NIC
+Kenneth Davis,NIC,2025-10-01,Figure Capsule,Comparator,CT-9771-CZL,Rejected,CT-5806-JWO-SITE-126,2025-07-15,MAT-42350,Comparator,CT-5806-JWO,NIC
+Chase Weaver,PAK,2025-11-06,Figure Capsule,Comparator,CT-4229-AWU,Approved,CT-5806-JWO-SITE-127,2025-03-28,MAT-42350,Comparator,CT-5806-JWO,PAK
+Megan Walters,BUL,2025-10-25,Figure Capsule,Comparator,CT-1696-SCY,Rejected,CT-5806-JWO-SITE-128,2024-11-28,MAT-42350,Comparator,CT-5806-JWO,BUL
+Leah Johnson,BUL,2025-09-09,Figure Capsule,Comparator,CT-7487-KNX,Rejected,CT-5806-JWO-SITE-129,2025-09-01,MAT-42350,Comparator,CT-5806-JWO,BUL
+Lori Shaw,PAP,2025-10-02,Set Solution,Comparator,CT-7487-KNX,Pending,CT-5806-JWO-SITE-119,2025-07-07,MAT-81584,Comparator,CT-5806-JWO,PAP
+Sandra Marks,ALG,2025-06-09,Set Solution,Comparator,CT-1816-RCG,Approved,CT-5806-JWO-SITE-120,2024-11-19,MAT-81584,Comparator,CT-5806-JWO,ALG
+Natalie Petty,ALG,2025-09-12,Set Solution,Comparator,CT-2004-PSX,Approved,CT-5806-JWO-SITE-121,2025-05-14,MAT-81584,Comparator,CT-5806-JWO,ALG
+Hannah Brown,ALG,2025-11-08,Set Solution,Comparator,CT-6109-EDZ,Approved,CT-5806-JWO-SITE-122,2025-01-01,MAT-81584,Comparator,CT-5806-JWO,ALG
+Thomas Burke,GUY,2025-08-04,Set Solution,Comparator,CT-6109-EDZ,Rejected,CT-5806-JWO-SITE-123,2024-12-04,MAT-81584,Comparator,CT-5806-JWO,GUY
+Lori Hunt,GUY,2025-10-18,Set Solution,Comparator,CT-1696-SCY,Rejected,CT-5806-JWO-SITE-124,2025-05-21,MAT-81584,Comparator,CT-5806-JWO,GUY
+Jose Morales,NIC,2025-09-11,Set Solution,Comparator,CT-5806-JWO,Rejected,CT-5806-JWO-SITE-125,2025-06-25,MAT-81584,Comparator,CT-5806-JWO,NIC
+Jacqueline Parker,NIC,2025-07-05,Set Solution,Comparator,CT-6551-IBW,Rejected,CT-5806-JWO-SITE-126,2025-01-31,MAT-81584,Comparator,CT-5806-JWO,NIC
+Michael Casey,PAK,2025-09-14,Set Solution,Comparator,CT-8015-GMQ,Approved,CT-5806-JWO-SITE-127,2025-04-08,MAT-81584,Comparator,CT-5806-JWO,PAK
+Michael Massey,BUL,2025-09-28,Set Solution,Comparator,CT-3472-PNG,Approved,CT-5806-JWO-SITE-128,2025-01-30,MAT-81584,Comparator,CT-5806-JWO,BUL
+Ashley Torres,BUL,2025-09-29,Set Solution,Comparator,CT-2004-PSX,Approved,CT-5806-JWO-SITE-129,2025-08-04,MAT-81584,Comparator,CT-5806-JWO,BUL
+Rhonda Dawson,PAP,2025-07-28,Shake Tablet,Investigational Product,CT-8742-ECD,Pending,CT-5806-JWO-SITE-119,2025-03-01,MAT-26378,Investigational Product,CT-5806-JWO,PAP
+Danielle Benjamin,ALG,2025-08-24,Shake Tablet,Investigational Product,CT-8970-PLO,Pending,CT-5806-JWO-SITE-120,2025-01-25,MAT-26378,Investigational Product,CT-5806-JWO,ALG
+Jennifer Cohen,ALG,2025-09-26,Shake Tablet,Investigational Product,CT-8015-GMQ,Approved,CT-5806-JWO-SITE-121,2025-06-13,MAT-26378,Investigational Product,CT-5806-JWO,ALG
+Lauren Cook,ALG,2025-05-28,Shake Tablet,Investigational Product,CT-9831-IEW,Approved,CT-5806-JWO-SITE-122,2025-05-23,MAT-26378,Investigational Product,CT-5806-JWO,ALG
+Anthony Ramirez,GUY,2025-09-19,Shake Tablet,Investigational Product,CT-4229-AWU,Pending,CT-5806-JWO-SITE-123,2025-02-25,MAT-26378,Investigational Product,CT-5806-JWO,GUY
+Matthew Allen,GUY,2025-06-20,Shake Tablet,Investigational Product,CT-7047-GQC,Pending,CT-5806-JWO-SITE-124,2025-05-17,MAT-26378,Investigational Product,CT-5806-JWO,GUY
+Allison Foley,NIC,2025-09-20,Shake Tablet,Investigational Product,CT-7047-GQC,Rejected,CT-5806-JWO-SITE-125,2025-03-11,MAT-26378,Investigational Product,CT-5806-JWO,NIC
+Brenda Atkinson,NIC,2025-05-25,Shake Tablet,Investigational Product,CT-2004-PSX,Rejected,CT-5806-JWO-SITE-126,2025-02-07,MAT-26378,Investigational Product,CT-5806-JWO,NIC
+Kara Brown,PAK,2025-06-29,Shake Tablet,Investigational Product,CT-8970-PLO,Approved,CT-5806-JWO-SITE-127,2025-10-24,MAT-26378,Investigational Product,CT-5806-JWO,PAK
+Stephen Rogers,BUL,2025-08-14,Shake Tablet,Investigational Product,CT-4229-AWU,Pending,CT-5806-JWO-SITE-128,2024-12-13,MAT-26378,Investigational Product,CT-5806-JWO,BUL
+William Moore,BUL,2025-09-27,Shake Tablet,Investigational Product,CT-7484-BIH,Rejected,CT-5806-JWO-SITE-129,2025-10-14,MAT-26378,Investigational Product,CT-5806-JWO,BUL
+Brenda Hamilton,PAP,2025-11-08,Age Tablet,Ancillary Supply,CT-6910-RDE,Pending,CT-5806-JWO-SITE-119,2025-09-19,MAT-39857,Ancillary Supply,CT-5806-JWO,PAP
+Drew Simmons,ALG,2025-10-14,Age Tablet,Ancillary Supply,CT-9771-CZL,Pending,CT-5806-JWO-SITE-120,2024-12-31,MAT-39857,Ancillary Supply,CT-5806-JWO,ALG
+Andrea Valentine,ALG,2025-08-24,Age Tablet,Ancillary Supply,CT-8015-GMQ,Approved,CT-5806-JWO-SITE-121,2025-07-25,MAT-39857,Ancillary Supply,CT-5806-JWO,ALG
+Rachael Valdez,ALG,2025-06-06,Age Tablet,Ancillary Supply,CT-5806-JWO,Rejected,CT-5806-JWO-SITE-122,2025-01-16,MAT-39857,Ancillary Supply,CT-5806-JWO,ALG
+Dawn York,GUY,2025-08-06,Age Tablet,Ancillary Supply,CT-5014-EEP,Pending,CT-5806-JWO-SITE-123,2024-12-04,MAT-39857,Ancillary Supply,CT-5806-JWO,GUY
+Angela Schwartz,GUY,2025-07-03,Age Tablet,Ancillary Supply,CT-7484-BIH,Pending,CT-5806-JWO-SITE-124,2025-06-27,MAT-39857,Ancillary Supply,CT-5806-JWO,GUY
+Kim Mitchell,NIC,2025-10-01,Age Tablet,Ancillary Supply,CT-9771-CZL,Pending,CT-5806-JWO-SITE-125,2025-02-10,MAT-39857,Ancillary Supply,CT-5806-JWO,NIC
+Kristi Phillips,NIC,2025-08-06,Age Tablet,Ancillary Supply,CT-9771-CZL,Rejected,CT-5806-JWO-SITE-126,2025-03-26,MAT-39857,Ancillary Supply,CT-5806-JWO,NIC
+Christopher Good,PAK,2025-09-30,Age Tablet,Ancillary Supply,CT-6592-IDY,Pending,CT-5806-JWO-SITE-127,2025-03-30,MAT-39857,Ancillary Supply,CT-5806-JWO,PAK
+Kimberly Martin,BUL,2025-09-07,Age Tablet,Ancillary Supply,CT-7484-BIH,Rejected,CT-5806-JWO-SITE-128,2025-02-27,MAT-39857,Ancillary Supply,CT-5806-JWO,BUL
+Colin Young,BUL,2025-08-23,Age Tablet,Ancillary Supply,CT-3472-PNG,Approved,CT-5806-JWO-SITE-129,2025-11-02,MAT-39857,Ancillary Supply,CT-5806-JWO,BUL
+Lori Krause,SER,2025-05-18,Simply Injection,Comparator,CT-3636-AVP,Approved,CT-8015-GMQ-SITE-130,2025-03-29,MAT-91309,Comparator,CT-8015-GMQ,SER
+Cindy Huang,SER,2025-06-14,Simply Injection,Comparator,CT-3636-AVP,Pending,CT-8015-GMQ-SITE-131,2025-04-19,MAT-91309,Comparator,CT-8015-GMQ,SER
+Regina Vargas,MOR,2025-10-27,Simply Injection,Comparator,CT-8970-PLO,Approved,CT-8015-GMQ-SITE-132,2024-12-19,MAT-91309,Comparator,CT-8015-GMQ,MOR
+Robert Adams,MOR,2025-10-18,Simply Injection,Comparator,CT-9781-BYC,Pending,CT-8015-GMQ-SITE-133,2025-10-01,MAT-91309,Comparator,CT-8015-GMQ,MOR
+Breanna Edwards,MAR,2025-08-26,Simply Injection,Comparator,CT-1696-SCY,Approved,CT-8015-GMQ-SITE-134,2025-03-19,MAT-91309,Comparator,CT-8015-GMQ,MAR
+Brett Howell DDS,MAR,2025-06-14,Simply Injection,Comparator,CT-6910-RDE,Pending,CT-8015-GMQ-SITE-135,2025-04-20,MAT-91309,Comparator,CT-8015-GMQ,MAR
+Patrick Ramos,MAR,2025-07-31,Simply Injection,Comparator,CT-5014-EEP,Approved,CT-8015-GMQ-SITE-136,2025-04-21,MAT-91309,Comparator,CT-8015-GMQ,MAR
+Scott Aguilar,GUA,2025-10-09,Simply Injection,Comparator,CT-8970-PLO,Rejected,CT-8015-GMQ-SITE-137,2024-11-13,MAT-91309,Comparator,CT-8015-GMQ,GUA
+Eric Smith,ANG,2025-05-25,Simply Injection,Comparator,CT-6592-IDY,Rejected,CT-8015-GMQ-SITE-138,2025-04-17,MAT-91309,Comparator,CT-8015-GMQ,ANG
+Melissa Tran,ANG,2025-07-19,Simply Injection,Comparator,CT-8872-GKR,Approved,CT-8015-GMQ-SITE-139,2025-09-06,MAT-91309,Comparator,CT-8015-GMQ,ANG
+Joshua Schneider,ANG,2025-10-11,Simply Injection,Comparator,CT-1696-SCY,Rejected,CT-8015-GMQ-SITE-140,2025-07-18,MAT-91309,Comparator,CT-8015-GMQ,ANG
+Cynthia Walker,SER,2025-07-05,Memory Solution,Investigational Product,CT-3395-UCM,Pending,CT-8015-GMQ-SITE-130,2025-02-04,MAT-74459,Investigational Product,CT-8015-GMQ,SER
+Donna Summers,SER,2025-05-27,Memory Solution,Investigational Product,CT-4229-AWU,Rejected,CT-8015-GMQ-SITE-131,2025-10-22,MAT-74459,Investigational Product,CT-8015-GMQ,SER
+Travis Turner,MOR,2025-09-17,Memory Solution,Investigational Product,CT-3395-UCM,Pending,CT-8015-GMQ-SITE-132,2025-01-01,MAT-74459,Investigational Product,CT-8015-GMQ,MOR
+Jacob Jones,MOR,2025-05-19,Memory Solution,Investigational Product,CT-3230-HFO,Pending,CT-8015-GMQ-SITE-133,2024-11-12,MAT-74459,Investigational Product,CT-8015-GMQ,MOR
+Jeffrey Smith,MAR,2025-09-04,Memory Solution,Investigational Product,CT-8970-PLO,Approved,CT-8015-GMQ-SITE-134,2025-02-27,MAT-74459,Investigational Product,CT-8015-GMQ,MAR
+Teresa Roberts,MAR,2025-05-30,Memory Solution,Investigational Product,CT-8742-ECD,Approved,CT-8015-GMQ-SITE-135,2025-03-08,MAT-74459,Investigational Product,CT-8015-GMQ,MAR
+Nicole Ross,MAR,2025-09-14,Memory Solution,Investigational Product,CT-7047-GQC,Rejected,CT-8015-GMQ-SITE-136,2025-07-25,MAT-74459,Investigational Product,CT-8015-GMQ,MAR
+Hayley West,GUA,2025-07-24,Memory Solution,Investigational Product,CT-1696-SCY,Pending,CT-8015-GMQ-SITE-137,2025-05-01,MAT-74459,Investigational Product,CT-8015-GMQ,GUA
+Ryan Conner,ANG,2025-05-24,Memory Solution,Investigational Product,CT-8970-PLO,Approved,CT-8015-GMQ-SITE-138,2024-11-26,MAT-74459,Investigational Product,CT-8015-GMQ,ANG
+Wanda Rhodes,ANG,2025-09-06,Memory Solution,Investigational Product,CT-7487-KNX,Pending,CT-8015-GMQ-SITE-139,2025-03-12,MAT-74459,Investigational Product,CT-8015-GMQ,ANG
+Brandi Carter,ANG,2025-10-05,Memory Solution,Investigational Product,CT-1696-SCY,Pending,CT-8015-GMQ-SITE-140,2025-02-19,MAT-74459,Investigational Product,CT-8015-GMQ,ANG
+Jacob Arias,PHI,2025-09-21,Step Solution,Investigational Product,CT-9771-CZL,Rejected,CT-8872-GKR-SITE-141,2025-02-11,MAT-66331,Investigational Product,CT-8872-GKR,PHI
+Brenda Roberts,PHI,2025-06-30,Step Solution,Investigational Product,CT-8872-GKR,Approved,CT-8872-GKR-SITE-142,2025-04-10,MAT-66331,Investigational Product,CT-8872-GKR,PHI
+Joseph West,PHI,2025-08-01,Step Solution,Investigational Product,CT-4229-AWU,Rejected,CT-8872-GKR-SITE-143,2025-10-27,MAT-66331,Investigational Product,CT-8872-GKR,PHI
+Jessica Gonzalez,CAM,2025-05-19,Step Solution,Investigational Product,CT-8970-PLO,Approved,CT-8872-GKR-SITE-144,2025-02-15,MAT-66331,Investigational Product,CT-8872-GKR,CAM
+Robert Cross,CAM,2025-06-08,Step Solution,Investigational Product,CT-6109-EDZ,Approved,CT-8872-GKR-SITE-145,2024-11-15,MAT-66331,Investigational Product,CT-8872-GKR,CAM
+Brooke Fowler,BRI,2025-05-23,Step Solution,Investigational Product,CT-8742-ECD,Pending,CT-8872-GKR-SITE-146,2025-01-17,MAT-66331,Investigational Product,CT-8872-GKR,BRI
+Katie Kelly,PHI,2025-07-16,Type Injection,Comparator,CT-3230-HFO,Rejected,CT-8872-GKR-SITE-141,2025-02-28,MAT-23246,Comparator,CT-8872-GKR,PHI
+Stephanie Holt,PHI,2025-08-01,Type Injection,Comparator,CT-2004-PSX,Pending,CT-8872-GKR-SITE-142,2025-08-10,MAT-23246,Comparator,CT-8872-GKR,PHI
+Casey Marshall,PHI,2025-10-27,Type Injection,Comparator,CT-1816-RCG,Pending,CT-8872-GKR-SITE-143,2025-05-27,MAT-23246,Comparator,CT-8872-GKR,PHI
+Randy Nelson,CAM,2025-11-11,Type Injection,Comparator,CT-3228-ZKT,Approved,CT-8872-GKR-SITE-144,2025-01-17,MAT-23246,Comparator,CT-8872-GKR,CAM
+Michele Gibbs,CAM,2025-06-29,Type Injection,Comparator,CT-4229-AWU,Rejected,CT-8872-GKR-SITE-145,2025-09-19,MAT-23246,Comparator,CT-8872-GKR,CAM
+Kaitlyn Valdez,BRI,2025-08-18,Type Injection,Comparator,CT-8742-ECD,Pending,CT-8872-GKR-SITE-146,2025-07-02,MAT-23246,Comparator,CT-8872-GKR,BRI
+Brittney Clark,PHI,2025-08-06,Sense Tablet,Investigational Product,CT-1696-SCY,Pending,CT-8872-GKR-SITE-141,2024-12-06,MAT-58804,Investigational Product,CT-8872-GKR,PHI
+Charles Smith,PHI,2025-07-25,Sense Tablet,Investigational Product,CT-3228-ZKT,Pending,CT-8872-GKR-SITE-142,2025-06-27,MAT-58804,Investigational Product,CT-8872-GKR,PHI
+Ethan Wilson,PHI,2025-07-01,Sense Tablet,Investigational Product,CT-8970-PLO,Rejected,CT-8872-GKR-SITE-143,2025-05-06,MAT-58804,Investigational Product,CT-8872-GKR,PHI
+Veronica Hughes,CAM,2025-06-04,Sense Tablet,Investigational Product,CT-1816-RCG,Pending,CT-8872-GKR-SITE-144,2024-11-28,MAT-58804,Investigational Product,CT-8872-GKR,CAM
+Ashley Garcia,CAM,2025-08-14,Sense Tablet,Investigational Product,CT-3230-HFO,Rejected,CT-8872-GKR-SITE-145,2025-02-13,MAT-58804,Investigational Product,CT-8872-GKR,CAM
+Taylor Mcdaniel,BRI,2025-08-31,Sense Tablet,Investigational Product,CT-6592-IDY,Approved,CT-8872-GKR-SITE-146,2024-12-05,MAT-58804,Investigational Product,CT-8872-GKR,BRI
+Kimberly Thompson,HAI,2025-06-08,Property Tablet,Comparator,CT-6592-IDY,Rejected,CT-1696-SCY-SITE-147,2025-08-06,MAT-14115,Comparator,CT-1696-SCY,HAI
+Aaron Taylor,HAI,2025-06-22,Property Tablet,Comparator,CT-1696-SCY,Approved,CT-1696-SCY-SITE-148,2025-06-23,MAT-14115,Comparator,CT-1696-SCY,HAI
+Samantha Alvarez,GUY,2025-09-07,Property Tablet,Comparator,CT-7047-GQC,Rejected,CT-1696-SCY-SITE-149,2025-06-07,MAT-14115,Comparator,CT-1696-SCY,GUY
+Allison Perez,GUY,2025-10-05,Property Tablet,Comparator,CT-5806-JWO,Approved,CT-1696-SCY-SITE-150,2025-02-14,MAT-14115,Comparator,CT-1696-SCY,GUY
+Emily Davis,GUY,2025-07-30,Property Tablet,Comparator,CT-8872-GKR,Pending,CT-1696-SCY-SITE-151,2025-09-05,MAT-14115,Comparator,CT-1696-SCY,GUY
+Sherry Maldonado,DOM,2025-06-11,Property Tablet,Comparator,CT-8970-PLO,Approved,CT-1696-SCY-SITE-152,2025-06-28,MAT-14115,Comparator,CT-1696-SCY,DOM
+Laurie Hobbs,DOM,2025-11-10,Property Tablet,Comparator,CT-9781-BYC,Pending,CT-1696-SCY-SITE-153,2025-04-24,MAT-14115,Comparator,CT-1696-SCY,DOM
+Edward Mcdonald,KAZ,2025-07-04,Property Tablet,Comparator,CT-5806-JWO,Approved,CT-1696-SCY-SITE-154,2024-12-09,MAT-14115,Comparator,CT-1696-SCY,KAZ
+Walter Bailey,HAI,2025-08-10,Expect Tablet,Ancillary Supply,CT-3636-AVP,Pending,CT-1696-SCY-SITE-147,2025-04-27,MAT-78401,Ancillary Supply,CT-1696-SCY,HAI
+Trevor Weaver,HAI,2025-10-28,Expect Tablet,Ancillary Supply,CT-1816-RCG,Pending,CT-1696-SCY-SITE-148,2025-04-25,MAT-78401,Ancillary Supply,CT-1696-SCY,HAI
+Kevin Garner,GUY,2025-11-07,Expect Tablet,Ancillary Supply,CT-3636-AVP,Rejected,CT-1696-SCY-SITE-149,2025-01-13,MAT-78401,Ancillary Supply,CT-1696-SCY,GUY
+James Mckinney,GUY,2025-10-06,Expect Tablet,Ancillary Supply,CT-3228-ZKT,Rejected,CT-1696-SCY-SITE-150,2025-05-19,MAT-78401,Ancillary Supply,CT-1696-SCY,GUY
+Melissa Schultz,GUY,2025-07-08,Expect Tablet,Ancillary Supply,CT-8872-GKR,Pending,CT-1696-SCY-SITE-151,2025-08-01,MAT-78401,Ancillary Supply,CT-1696-SCY,GUY
+Tasha Thomas,DOM,2025-08-16,Expect Tablet,Ancillary Supply,CT-3228-ZKT,Pending,CT-1696-SCY-SITE-152,2025-09-27,MAT-78401,Ancillary Supply,CT-1696-SCY,DOM
+James Brown,DOM,2025-08-18,Expect Tablet,Ancillary Supply,CT-4229-AWU,Rejected,CT-1696-SCY-SITE-153,2025-05-16,MAT-78401,Ancillary Supply,CT-1696-SCY,DOM
+Jason Hawkins,KAZ,2025-08-30,Expect Tablet,Ancillary Supply,CT-2004-PSX,Rejected,CT-1696-SCY-SITE-154,2025-09-24,MAT-78401,Ancillary Supply,CT-1696-SCY,KAZ
+Logan Logan,SUD,2025-07-07,Cold Injection,Investigational Product,CT-4229-AWU,Pending,CT-3228-ZKT-SITE-155,2025-01-04,MAT-30703,Investigational Product,CT-3228-ZKT,SUD
+Jennifer Miller,SUD,2025-10-29,Cold Injection,Investigational Product,CT-3636-AVP,Rejected,CT-3228-ZKT-SITE-156,2025-07-22,MAT-30703,Investigational Product,CT-3228-ZKT,SUD
+Julie Meyer,SUD,2025-09-26,Cold Injection,Investigational Product,CT-8872-GKR,Pending,CT-3228-ZKT-SITE-157,2025-07-27,MAT-30703,Investigational Product,CT-3228-ZKT,SUD
+Paul Freeman,THA,2025-11-10,Cold Injection,Investigational Product,CT-3636-AVP,Approved,CT-3228-ZKT-SITE-158,2024-11-26,MAT-30703,Investigational Product,CT-3228-ZKT,THA
+Jay Torres,THA,2025-07-17,Cold Injection,Investigational Product,CT-2004-PSX,Pending,CT-3228-ZKT-SITE-159,2024-12-15,MAT-30703,Investigational Product,CT-3228-ZKT,THA
+Daniel Morales,COM,2025-09-28,Cold Injection,Investigational Product,CT-3636-AVP,Pending,CT-3228-ZKT-SITE-160,2025-03-24,MAT-30703,Investigational Product,CT-3228-ZKT,COM
+Anthony Buchanan,COM,2025-10-20,Cold Injection,Investigational Product,CT-3472-PNG,Approved,CT-3228-ZKT-SITE-161,2024-11-16,MAT-30703,Investigational Product,CT-3228-ZKT,COM
+Joann Owen,COM,2025-08-20,Cold Injection,Investigational Product,CT-6109-EDZ,Pending,CT-3228-ZKT-SITE-162,2025-10-18,MAT-30703,Investigational Product,CT-3228-ZKT,COM
+Ryan Murphy,SOU,2025-10-02,Cold Injection,Investigational Product,CT-7487-KNX,Approved,CT-3228-ZKT-SITE-163,2024-12-21,MAT-30703,Investigational Product,CT-3228-ZKT,SOU
+Bryan Singh,SOU,2025-08-12,Cold Injection,Investigational Product,CT-1816-RCG,Approved,CT-3228-ZKT-SITE-164,2025-04-04,MAT-30703,Investigational Product,CT-3228-ZKT,SOU
+Carl Olson,SUD,2025-10-29,Better Tablet,Ancillary Supply,CT-5806-JWO,Approved,CT-3228-ZKT-SITE-155,2025-01-13,MAT-61362,Ancillary Supply,CT-3228-ZKT,SUD
+Teresa Miller,SUD,2025-08-24,Better Tablet,Ancillary Supply,CT-8742-ECD,Rejected,CT-3228-ZKT-SITE-156,2025-01-03,MAT-61362,Ancillary Supply,CT-3228-ZKT,SUD
+Wendy Wise,SUD,2025-06-17,Better Tablet,Ancillary Supply,CT-6551-IBW,Rejected,CT-3228-ZKT-SITE-157,2025-03-23,MAT-61362,Ancillary Supply,CT-3228-ZKT,SUD
+Yvonne Anderson,THA,2025-10-27,Better Tablet,Ancillary Supply,CT-5014-EEP,Pending,CT-3228-ZKT-SITE-158,2024-12-18,MAT-61362,Ancillary Supply,CT-3228-ZKT,THA
+Timothy Phillips,THA,2025-07-31,Better Tablet,Ancillary Supply,CT-1816-RCG,Pending,CT-3228-ZKT-SITE-159,2025-04-29,MAT-61362,Ancillary Supply,CT-3228-ZKT,THA
+Jocelyn Ware,COM,2025-08-07,Better Tablet,Ancillary Supply,CT-1816-RCG,Pending,CT-3228-ZKT-SITE-160,2025-08-06,MAT-61362,Ancillary Supply,CT-3228-ZKT,COM
+Jack Williams,COM,2025-10-16,Better Tablet,Ancillary Supply,CT-3636-AVP,Pending,CT-3228-ZKT-SITE-161,2025-04-14,MAT-61362,Ancillary Supply,CT-3228-ZKT,COM
+Randall Murphy,COM,2025-08-10,Better Tablet,Ancillary Supply,CT-6109-EDZ,Pending,CT-3228-ZKT-SITE-162,2025-06-16,MAT-61362,Ancillary Supply,CT-3228-ZKT,COM
+David Taylor,SOU,2025-05-28,Better Tablet,Ancillary Supply,CT-7487-KNX,Rejected,CT-3228-ZKT-SITE-163,2024-11-28,MAT-61362,Ancillary Supply,CT-3228-ZKT,SOU
+Duane Wagner,SOU,2025-09-11,Better Tablet,Ancillary Supply,CT-9781-BYC,Rejected,CT-3228-ZKT-SITE-164,2025-06-24,MAT-61362,Ancillary Supply,CT-3228-ZKT,SOU
+Kevin Melton,SUD,2025-07-10,Commercial Tablet,Investigational Product,CT-8970-PLO,Rejected,CT-3228-ZKT-SITE-155,2025-02-27,MAT-18409,Investigational Product,CT-3228-ZKT,SUD
+Debra Clements,SUD,2025-10-28,Commercial Tablet,Investigational Product,CT-3472-PNG,Rejected,CT-3228-ZKT-SITE-156,2025-02-22,MAT-18409,Investigational Product,CT-3228-ZKT,SUD
+Adrienne Williams,SUD,2025-07-08,Commercial Tablet,Investigational Product,CT-9771-CZL,Approved,CT-3228-ZKT-SITE-157,2025-03-22,MAT-18409,Investigational Product,CT-3228-ZKT,SUD
+Veronica Saunders,THA,2025-06-11,Commercial Tablet,Investigational Product,CT-8970-PLO,Rejected,CT-3228-ZKT-SITE-158,2025-07-21,MAT-18409,Investigational Product,CT-3228-ZKT,THA
+Alyssa Rodriguez,THA,2025-08-30,Commercial Tablet,Investigational Product,CT-8970-PLO,Approved,CT-3228-ZKT-SITE-159,2025-09-01,MAT-18409,Investigational Product,CT-3228-ZKT,THA
+Jennifer Brewer,COM,2025-07-22,Commercial Tablet,Investigational Product,CT-1816-RCG,Rejected,CT-3228-ZKT-SITE-160,2025-01-31,MAT-18409,Investigational Product,CT-3228-ZKT,COM
+Gloria Oliver,COM,2025-08-22,Commercial Tablet,Investigational Product,CT-3228-ZKT,Rejected,CT-3228-ZKT-SITE-161,2024-11-14,MAT-18409,Investigational Product,CT-3228-ZKT,COM
+Michelle Preston,COM,2025-06-01,Commercial Tablet,Investigational Product,CT-1696-SCY,Pending,CT-3228-ZKT-SITE-162,2025-10-14,MAT-18409,Investigational Product,CT-3228-ZKT,COM
+Erik Collins MD,SOU,2025-10-09,Commercial Tablet,Investigational Product,CT-3636-AVP,Rejected,CT-3228-ZKT-SITE-163,2025-09-03,MAT-18409,Investigational Product,CT-3228-ZKT,SOU
+Lawrence Brown,SOU,2025-08-21,Commercial Tablet,Investigational Product,CT-8970-PLO,Rejected,CT-3228-ZKT-SITE-164,2025-10-31,MAT-18409,Investigational Product,CT-3228-ZKT,SOU
+Renee Cruz,SUD,2025-09-06,Tree Injection,Ancillary Supply,CT-8015-GMQ,Pending,CT-3228-ZKT-SITE-155,2025-04-29,MAT-58266,Ancillary Supply,CT-3228-ZKT,SUD
+Hannah Henson,SUD,2025-10-25,Tree Injection,Ancillary Supply,CT-6592-IDY,Pending,CT-3228-ZKT-SITE-156,2024-12-30,MAT-58266,Ancillary Supply,CT-3228-ZKT,SUD
+Nicholas Reese,SUD,2025-10-14,Tree Injection,Ancillary Supply,CT-8015-GMQ,Pending,CT-3228-ZKT-SITE-157,2025-03-05,MAT-58266,Ancillary Supply,CT-3228-ZKT,SUD
+Elizabeth Stewart,THA,2025-06-28,Tree Injection,Ancillary Supply,CT-9771-CZL,Pending,CT-3228-ZKT-SITE-158,2025-06-16,MAT-58266,Ancillary Supply,CT-3228-ZKT,THA
+Willie Graves,THA,2025-08-19,Tree Injection,Ancillary Supply,CT-2004-PSX,Approved,CT-3228-ZKT-SITE-159,2025-06-23,MAT-58266,Ancillary Supply,CT-3228-ZKT,THA
+Julia Hurley,COM,2025-10-09,Tree Injection,Ancillary Supply,CT-7484-BIH,Rejected,CT-3228-ZKT-SITE-160,2025-03-12,MAT-58266,Ancillary Supply,CT-3228-ZKT,COM
+Crystal Arnold,COM,2025-06-13,Tree Injection,Ancillary Supply,CT-5014-EEP,Approved,CT-3228-ZKT-SITE-161,2024-12-24,MAT-58266,Ancillary Supply,CT-3228-ZKT,COM
+Trevor Lawrence,COM,2025-09-27,Tree Injection,Ancillary Supply,CT-3230-HFO,Pending,CT-3228-ZKT-SITE-162,2025-04-17,MAT-58266,Ancillary Supply,CT-3228-ZKT,COM
+Kathleen Lane,SOU,2025-11-03,Tree Injection,Ancillary Supply,CT-3636-AVP,Pending,CT-3228-ZKT-SITE-163,2025-09-16,MAT-58266,Ancillary Supply,CT-3228-ZKT,SOU
+Joseph Nichols,SOU,2025-10-23,Tree Injection,Ancillary Supply,CT-8970-PLO,Rejected,CT-3228-ZKT-SITE-164,2025-01-24,MAT-58266,Ancillary Supply,CT-3228-ZKT,SOU
+Robert Jimenez,PAK,2025-10-30,Toward Injection,Comparator,CT-3230-HFO,Approved,CT-6910-RDE-SITE-165,2025-02-28,MAT-23465,Comparator,CT-6910-RDE,PAK
+Anthony Johnson,HUN,2025-10-31,Toward Injection,Comparator,CT-8872-GKR,Approved,CT-6910-RDE-SITE-166,2025-08-03,MAT-23465,Comparator,CT-6910-RDE,HUN
+Virginia Massey,HUN,2025-09-22,Toward Injection,Comparator,CT-5014-EEP,Pending,CT-6910-RDE-SITE-167,2025-01-07,MAT-23465,Comparator,CT-6910-RDE,HUN
+Kristin James,HUN,2025-08-02,Toward Injection,Comparator,CT-5014-EEP,Pending,CT-6910-RDE-SITE-168,2025-08-09,MAT-23465,Comparator,CT-6910-RDE,HUN
+Julie Raymond,RUS,2025-10-27,Toward Injection,Comparator,CT-3395-UCM,Rejected,CT-6910-RDE-SITE-169,2025-04-13,MAT-23465,Comparator,CT-6910-RDE,RUS
+Sean Gilbert,RUS,2025-07-18,Toward Injection,Comparator,CT-8970-PLO,Approved,CT-6910-RDE-SITE-170,2025-08-09,MAT-23465,Comparator,CT-6910-RDE,RUS
+Theodore Waters,RUS,2025-09-26,Toward Injection,Comparator,CT-6109-EDZ,Pending,CT-6910-RDE-SITE-171,2025-03-22,MAT-23465,Comparator,CT-6910-RDE,RUS
+Tanner Lane,PAK,2025-09-24,South Capsule,Ancillary Supply,CT-2004-PSX,Rejected,CT-6910-RDE-SITE-165,2025-06-20,MAT-33689,Ancillary Supply,CT-6910-RDE,PAK
+Kevin Gutierrez,HUN,2025-07-08,South Capsule,Ancillary Supply,CT-1696-SCY,Approved,CT-6910-RDE-SITE-166,2025-02-01,MAT-33689,Ancillary Supply,CT-6910-RDE,HUN
+Raymond Smith,HUN,2025-07-27,South Capsule,Ancillary Supply,CT-5806-JWO,Pending,CT-6910-RDE-SITE-167,2025-05-30,MAT-33689,Ancillary Supply,CT-6910-RDE,HUN
+Michelle Torres,HUN,2025-07-12,South Capsule,Ancillary Supply,CT-9831-IEW,Approved,CT-6910-RDE-SITE-168,2025-05-21,MAT-33689,Ancillary Supply,CT-6910-RDE,HUN
+Erin Smith,RUS,2025-08-06,South Capsule,Ancillary Supply,CT-3228-ZKT,Pending,CT-6910-RDE-SITE-169,2024-12-15,MAT-33689,Ancillary Supply,CT-6910-RDE,RUS
+Daniel Anderson,RUS,2025-07-09,South Capsule,Ancillary Supply,CT-5806-JWO,Pending,CT-6910-RDE-SITE-170,2025-05-25,MAT-33689,Ancillary Supply,CT-6910-RDE,RUS
+Richard Green,RUS,2025-07-11,South Capsule,Ancillary Supply,CT-9831-IEW,Approved,CT-6910-RDE-SITE-171,2025-06-26,MAT-33689,Ancillary Supply,CT-6910-RDE,RUS
+Monica Mccoy,PAK,2025-09-01,Win Injection,Comparator,CT-7487-KNX,Approved,CT-6910-RDE-SITE-165,2025-09-05,MAT-22108,Comparator,CT-6910-RDE,PAK
+Heather Holloway,HUN,2025-05-22,Win Injection,Comparator,CT-3636-AVP,Rejected,CT-6910-RDE-SITE-166,2025-08-10,MAT-22108,Comparator,CT-6910-RDE,HUN
+John Hensley,HUN,2025-10-10,Win Injection,Comparator,CT-7047-GQC,Approved,CT-6910-RDE-SITE-167,2025-11-11,MAT-22108,Comparator,CT-6910-RDE,HUN
+Miguel Martinez,HUN,2025-10-07,Win Injection,Comparator,CT-3636-AVP,Rejected,CT-6910-RDE-SITE-168,2025-10-15,MAT-22108,Comparator,CT-6910-RDE,HUN
+Michael Garrett,RUS,2025-08-03,Win Injection,Comparator,CT-8872-GKR,Pending,CT-6910-RDE-SITE-169,2025-02-22,MAT-22108,Comparator,CT-6910-RDE,RUS
+Jonathan Fisher,RUS,2025-05-26,Win Injection,Comparator,CT-1816-RCG,Rejected,CT-6910-RDE-SITE-170,2024-11-23,MAT-22108,Comparator,CT-6910-RDE,RUS
+Russell Murphy,RUS,2025-09-29,Win Injection,Comparator,CT-7484-BIH,Approved,CT-6910-RDE-SITE-171,2025-02-16,MAT-22108,Comparator,CT-6910-RDE,RUS
+Joseph Meyer,PAK,2025-10-08,Dog Patch,Investigational Product,CT-6551-IBW,Approved,CT-6910-RDE-SITE-165,2025-07-26,MAT-93657,Investigational Product,CT-6910-RDE,PAK
+Keith Murphy,HUN,2025-07-31,Dog Patch,Investigational Product,CT-7487-KNX,Rejected,CT-6910-RDE-SITE-166,2025-07-10,MAT-93657,Investigational Product,CT-6910-RDE,HUN
+Benjamin Boone,HUN,2025-09-02,Dog Patch,Investigational Product,CT-2004-PSX,Approved,CT-6910-RDE-SITE-167,2025-04-15,MAT-93657,Investigational Product,CT-6910-RDE,HUN
+Angela Baker,HUN,2025-10-07,Dog Patch,Investigational Product,CT-1696-SCY,Approved,CT-6910-RDE-SITE-168,2024-12-05,MAT-93657,Investigational Product,CT-6910-RDE,HUN
+Brandi Rodriguez,RUS,2025-06-27,Dog Patch,Investigational Product,CT-3228-ZKT,Approved,CT-6910-RDE-SITE-169,2025-06-05,MAT-93657,Investigational Product,CT-6910-RDE,RUS
+Maurice Moore,RUS,2025-07-06,Dog Patch,Investigational Product,CT-7487-KNX,Approved,CT-6910-RDE-SITE-170,2025-03-11,MAT-93657,Investigational Product,CT-6910-RDE,RUS
+Paul Townsend,RUS,2025-07-25,Dog Patch,Investigational Product,CT-8970-PLO,Approved,CT-6910-RDE-SITE-171,2025-10-04,MAT-93657,Investigational Product,CT-6910-RDE,RUS
+Barbara Harper,KOR,2025-07-07,Blue Patch,Comparator,CT-1816-RCG,Rejected,CT-8742-ECD-SITE-172,2025-03-09,MAT-16848,Comparator,CT-8742-ECD,KOR
+Sarah Gonzalez,KOR,2025-09-26,Blue Patch,Comparator,CT-6910-RDE,Pending,CT-8742-ECD-SITE-173,2025-01-05,MAT-16848,Comparator,CT-8742-ECD,KOR
+Chris Brown,NAU,2025-07-20,Blue Patch,Comparator,CT-7047-GQC,Approved,CT-8742-ECD-SITE-174,2025-02-26,MAT-16848,Comparator,CT-8742-ECD,NAU
+Joshua Kim,NAU,2025-07-07,Blue Patch,Comparator,CT-3395-UCM,Pending,CT-8742-ECD-SITE-175,2025-02-22,MAT-16848,Comparator,CT-8742-ECD,NAU
+Kayla Melton,SAN,2025-06-14,Blue Patch,Comparator,CT-6910-RDE,Rejected,CT-8742-ECD-SITE-176,2025-09-02,MAT-16848,Comparator,CT-8742-ECD,SAN
+Rebecca Aguirre,SAN,2025-10-22,Blue Patch,Comparator,CT-3230-HFO,Rejected,CT-8742-ECD-SITE-177,2025-03-23,MAT-16848,Comparator,CT-8742-ECD,SAN
+Angel Smith,SAN,2025-09-12,Blue Patch,Comparator,CT-7484-BIH,Approved,CT-8742-ECD-SITE-178,2025-05-08,MAT-16848,Comparator,CT-8742-ECD,SAN
+Austin Tyler,KOR,2025-07-01,Article Tablet,Comparator,CT-4229-AWU,Approved,CT-8742-ECD-SITE-172,2025-10-04,MAT-47254,Comparator,CT-8742-ECD,KOR
+Holly Stone,KOR,2025-07-17,Article Tablet,Comparator,CT-7047-GQC,Approved,CT-8742-ECD-SITE-173,2025-05-24,MAT-47254,Comparator,CT-8742-ECD,KOR
+Christopher Coleman,NAU,2025-08-26,Article Tablet,Comparator,CT-3228-ZKT,Rejected,CT-8742-ECD-SITE-174,2025-01-29,MAT-47254,Comparator,CT-8742-ECD,NAU
+Richard Mathis,NAU,2025-07-26,Article Tablet,Comparator,CT-8970-PLO,Pending,CT-8742-ECD-SITE-175,2025-08-22,MAT-47254,Comparator,CT-8742-ECD,NAU
+Jeffrey Dennis,SAN,2025-10-29,Article Tablet,Comparator,CT-3230-HFO,Rejected,CT-8742-ECD-SITE-176,2025-05-27,MAT-47254,Comparator,CT-8742-ECD,SAN
+Samantha Peterson,SAN,2025-06-18,Article Tablet,Comparator,CT-6551-IBW,Rejected,CT-8742-ECD-SITE-177,2025-09-23,MAT-47254,Comparator,CT-8742-ECD,SAN
+Stephen Bond,SAN,2025-07-23,Article Tablet,Comparator,CT-1696-SCY,Rejected,CT-8742-ECD-SITE-178,2025-06-27,MAT-47254,Comparator,CT-8742-ECD,SAN
+Joel Downs,KOR,2025-06-27,Happy Solution,Ancillary Supply,CT-3395-UCM,Pending,CT-8742-ECD-SITE-172,2025-08-04,MAT-15875,Ancillary Supply,CT-8742-ECD,KOR
+Melissa Scott,KOR,2025-07-29,Happy Solution,Ancillary Supply,CT-3395-UCM,Rejected,CT-8742-ECD-SITE-173,2024-12-19,MAT-15875,Ancillary Supply,CT-8742-ECD,KOR
+Edgar Burton,NAU,2025-07-18,Happy Solution,Ancillary Supply,CT-8970-PLO,Pending,CT-8742-ECD-SITE-174,2025-08-24,MAT-15875,Ancillary Supply,CT-8742-ECD,NAU
+Dorothy Lopez,NAU,2025-06-01,Happy Solution,Ancillary Supply,CT-9831-IEW,Approved,CT-8742-ECD-SITE-175,2025-05-23,MAT-15875,Ancillary Supply,CT-8742-ECD,NAU
+Sophia Bennett,SAN,2025-08-29,Happy Solution,Ancillary Supply,CT-3472-PNG,Pending,CT-8742-ECD-SITE-176,2025-02-01,MAT-15875,Ancillary Supply,CT-8742-ECD,SAN
+David Clark,SAN,2025-06-21,Happy Solution,Ancillary Supply,CT-7487-KNX,Pending,CT-8742-ECD-SITE-177,2025-08-23,MAT-15875,Ancillary Supply,CT-8742-ECD,SAN
+Jeff Tyler,SAN,2025-06-06,Happy Solution,Ancillary Supply,CT-8742-ECD,Pending,CT-8742-ECD-SITE-178,2025-06-18,MAT-15875,Ancillary Supply,CT-8742-ECD,SAN
+Dr. Andrew Lamb Jr.,KOR,2025-06-19,Side Capsule,Comparator,CT-4229-AWU,Pending,CT-8742-ECD-SITE-172,2025-02-08,MAT-47140,Comparator,CT-8742-ECD,KOR
+Shannon Padilla,KOR,2025-05-18,Side Capsule,Comparator,CT-3230-HFO,Pending,CT-8742-ECD-SITE-173,2025-03-17,MAT-47140,Comparator,CT-8742-ECD,KOR
+Joel Jennings,NAU,2025-11-06,Side Capsule,Comparator,CT-9771-CZL,Pending,CT-8742-ECD-SITE-174,2025-03-13,MAT-47140,Comparator,CT-8742-ECD,NAU
+Tonya Gaines,NAU,2025-08-09,Side Capsule,Comparator,CT-8872-GKR,Pending,CT-8742-ECD-SITE-175,2025-07-09,MAT-47140,Comparator,CT-8742-ECD,NAU
+John Lopez,SAN,2025-06-12,Side Capsule,Comparator,CT-7047-GQC,Rejected,CT-8742-ECD-SITE-176,2025-08-02,MAT-47140,Comparator,CT-8742-ECD,SAN
+Karen Moran,SAN,2025-11-12,Side Capsule,Comparator,CT-7484-BIH,Rejected,CT-8742-ECD-SITE-177,2024-11-20,MAT-47140,Comparator,CT-8742-ECD,SAN
+Cynthia Simmons,SAN,2025-06-20,Side Capsule,Comparator,CT-8872-GKR,Pending,CT-8742-ECD-SITE-178,2025-01-26,MAT-47140,Comparator,CT-8742-ECD,SAN
+Jonathan Lane,JAP,2025-06-05,Impact Patch,Ancillary Supply,CT-9831-IEW,Rejected,CT-7047-GQC-SITE-179,2025-06-04,MAT-58634,Ancillary Supply,CT-7047-GQC,JAP
+Justin Black,IND,2025-07-10,Impact Patch,Ancillary Supply,CT-3636-AVP,Pending,CT-7047-GQC-SITE-180,2025-06-18,MAT-58634,Ancillary Supply,CT-7047-GQC,IND
+Greg Harris,IND,2025-10-23,Impact Patch,Ancillary Supply,CT-8970-PLO,Rejected,CT-7047-GQC-SITE-181,2025-02-18,MAT-58634,Ancillary Supply,CT-7047-GQC,IND
+Maria Alexander,IND,2025-06-21,Impact Patch,Ancillary Supply,CT-7487-KNX,Approved,CT-7047-GQC-SITE-182,2025-05-12,MAT-58634,Ancillary Supply,CT-7047-GQC,IND
+Sarah Jensen,TUN,2025-07-06,Impact Patch,Ancillary Supply,CT-4229-AWU,Rejected,CT-7047-GQC-SITE-183,2025-10-11,MAT-58634,Ancillary Supply,CT-7047-GQC,TUN
+Benjamin Edwards,TUN,2025-10-03,Impact Patch,Ancillary Supply,CT-6910-RDE,Approved,CT-7047-GQC-SITE-184,2025-06-12,MAT-58634,Ancillary Supply,CT-7047-GQC,TUN
+Mark Lee,IND,2025-10-11,Impact Patch,Ancillary Supply,CT-8970-PLO,Approved,CT-7047-GQC-SITE-185,2025-09-19,MAT-58634,Ancillary Supply,CT-7047-GQC,IND
+David Prince,IND,2025-08-01,Impact Patch,Ancillary Supply,CT-8872-GKR,Pending,CT-7047-GQC-SITE-186,2025-09-07,MAT-58634,Ancillary Supply,CT-7047-GQC,IND
+Timothy Clark,CZE,2025-10-14,Impact Patch,Ancillary Supply,CT-1696-SCY,Rejected,CT-7047-GQC-SITE-187,2025-05-07,MAT-58634,Ancillary Supply,CT-7047-GQC,CZE
+Amy Fisher,CZE,2025-11-09,Impact Patch,Ancillary Supply,CT-7047-GQC,Pending,CT-7047-GQC-SITE-188,2025-07-01,MAT-58634,Ancillary Supply,CT-7047-GQC,CZE
+Eric Maldonado,CZE,2025-06-06,Impact Patch,Ancillary Supply,CT-6910-RDE,Approved,CT-7047-GQC-SITE-189,2025-06-23,MAT-58634,Ancillary Supply,CT-7047-GQC,CZE
+William Reyes,JAP,2025-09-13,Enter Capsule,Investigational Product,CT-8872-GKR,Approved,CT-7047-GQC-SITE-179,2025-02-07,MAT-18097,Investigational Product,CT-7047-GQC,JAP
+Samantha Wright,IND,2025-06-22,Enter Capsule,Investigational Product,CT-9781-BYC,Rejected,CT-7047-GQC-SITE-180,2025-03-08,MAT-18097,Investigational Product,CT-7047-GQC,IND
+Samuel Greer,IND,2025-08-05,Enter Capsule,Investigational Product,CT-2004-PSX,Approved,CT-7047-GQC-SITE-181,2025-09-18,MAT-18097,Investigational Product,CT-7047-GQC,IND
+Tina Krueger,IND,2025-09-28,Enter Capsule,Investigational Product,CT-3395-UCM,Approved,CT-7047-GQC-SITE-182,2025-02-22,MAT-18097,Investigational Product,CT-7047-GQC,IND
+Jonathan Allen,TUN,2025-07-25,Enter Capsule,Investigational Product,CT-4229-AWU,Rejected,CT-7047-GQC-SITE-183,2025-07-22,MAT-18097,Investigational Product,CT-7047-GQC,TUN
+Joseph Holmes,TUN,2025-08-28,Enter Capsule,Investigational Product,CT-8872-GKR,Pending,CT-7047-GQC-SITE-184,2025-09-06,MAT-18097,Investigational Product,CT-7047-GQC,TUN
+Jose Walker,IND,2025-09-12,Enter Capsule,Investigational Product,CT-5014-EEP,Pending,CT-7047-GQC-SITE-185,2025-09-06,MAT-18097,Investigational Product,CT-7047-GQC,IND
+Jason Davis,IND,2025-08-24,Enter Capsule,Investigational Product,CT-8970-PLO,Pending,CT-7047-GQC-SITE-186,2025-10-09,MAT-18097,Investigational Product,CT-7047-GQC,IND
+Kyle Daniel,CZE,2025-09-27,Enter Capsule,Investigational Product,CT-6592-IDY,Rejected,CT-7047-GQC-SITE-187,2025-08-13,MAT-18097,Investigational Product,CT-7047-GQC,CZE
+Carolyn Warren,CZE,2025-08-01,Enter Capsule,Investigational Product,CT-7484-BIH,Rejected,CT-7047-GQC-SITE-188,2025-05-05,MAT-18097,Investigational Product,CT-7047-GQC,CZE
+Tina Weiss,CZE,2025-09-09,Enter Capsule,Investigational Product,CT-8970-PLO,Rejected,CT-7047-GQC-SITE-189,2025-01-28,MAT-18097,Investigational Product,CT-7047-GQC,CZE
+Latoya Cooper,JAP,2025-06-08,Beyond Solution,Investigational Product,CT-7047-GQC,Rejected,CT-7047-GQC-SITE-179,2025-01-21,MAT-92337,Investigational Product,CT-7047-GQC,JAP
+Tyler Kirk,IND,2025-06-25,Beyond Solution,Investigational Product,CT-6910-RDE,Approved,CT-7047-GQC-SITE-180,2025-02-09,MAT-92337,Investigational Product,CT-7047-GQC,IND
+Ian Escobar,IND,2025-09-14,Beyond Solution,Investigational Product,CT-7047-GQC,Pending,CT-7047-GQC-SITE-181,2025-07-22,MAT-92337,Investigational Product,CT-7047-GQC,IND
+William Jones,IND,2025-10-29,Beyond Solution,Investigational Product,CT-3636-AVP,Pending,CT-7047-GQC-SITE-182,2025-07-16,MAT-92337,Investigational Product,CT-7047-GQC,IND
+Michelle Jacobson,TUN,2025-07-18,Beyond Solution,Investigational Product,CT-3472-PNG,Rejected,CT-7047-GQC-SITE-183,2025-08-13,MAT-92337,Investigational Product,CT-7047-GQC,TUN
+Patrick Cannon,TUN,2025-06-23,Beyond Solution,Investigational Product,CT-2004-PSX,Pending,CT-7047-GQC-SITE-184,2025-10-22,MAT-92337,Investigational Product,CT-7047-GQC,TUN
+Jennifer Miranda,IND,2025-07-18,Beyond Solution,Investigational Product,CT-3472-PNG,Approved,CT-7047-GQC-SITE-185,2025-03-17,MAT-92337,Investigational Product,CT-7047-GQC,IND
+James Beltran,IND,2025-09-24,Beyond Solution,Investigational Product,CT-6592-IDY,Pending,CT-7047-GQC-SITE-186,2025-04-30,MAT-92337,Investigational Product,CT-7047-GQC,IND
+Ashley Richards,CZE,2025-10-13,Beyond Solution,Investigational Product,CT-8015-GMQ,Approved,CT-7047-GQC-SITE-187,2025-06-20,MAT-92337,Investigational Product,CT-7047-GQC,CZE
+Susan Harris,CZE,2025-10-24,Beyond Solution,Investigational Product,CT-6910-RDE,Pending,CT-7047-GQC-SITE-188,2025-01-10,MAT-92337,Investigational Product,CT-7047-GQC,CZE
+Richard Nicholson,CZE,2025-10-14,Beyond Solution,Investigational Product,CT-6910-RDE,Rejected,CT-7047-GQC-SITE-189,2024-12-13,MAT-92337,Investigational Product,CT-7047-GQC,CZE
+Stephanie Blanchard,UNI,2025-07-18,Effort Capsule,Comparator,CT-1696-SCY,Rejected,CT-1816-RCG-SITE-190,2025-07-11,MAT-37872,Comparator,CT-1816-RCG,UNI
+Brittany Brown,BAR,2025-08-31,Effort Capsule,Comparator,CT-3395-UCM,Pending,CT-1816-RCG-SITE-191,2024-11-13,MAT-37872,Comparator,CT-1816-RCG,BAR
+John Lee,BAR,2025-06-28,Effort Capsule,Comparator,CT-8015-GMQ,Pending,CT-1816-RCG-SITE-192,2024-12-28,MAT-37872,Comparator,CT-1816-RCG,BAR
+Tyler Carlson,UNI,2025-09-18,New Solution,Comparator,CT-8970-PLO,Rejected,CT-1816-RCG-SITE-190,2025-06-03,MAT-55297,Comparator,CT-1816-RCG,UNI
+Patricia Jones,BAR,2025-10-16,New Solution,Comparator,CT-6592-IDY,Approved,CT-1816-RCG-SITE-191,2025-01-18,MAT-55297,Comparator,CT-1816-RCG,BAR
+Mike Morris,BAR,2025-06-27,New Solution,Comparator,CT-6109-EDZ,Pending,CT-1816-RCG-SITE-192,2025-07-22,MAT-55297,Comparator,CT-1816-RCG,BAR
+Patrick Ryan,GUA,2025-06-23,Should Tablet,Investigational Product,CT-3636-AVP,Rejected,CT-6109-EDZ-SITE-193,2025-08-26,MAT-14039,Investigational Product,CT-6109-EDZ,GUA
+Ann Estrada,GUA,2025-09-28,Should Tablet,Investigational Product,CT-5806-JWO,Pending,CT-6109-EDZ-SITE-194,2024-11-23,MAT-14039,Investigational Product,CT-6109-EDZ,GUA
+Craig Watkins,GUA,2025-09-17,Should Tablet,Investigational Product,CT-9781-BYC,Approved,CT-6109-EDZ-SITE-195,2025-03-14,MAT-14039,Investigational Product,CT-6109-EDZ,GUA
+Dan Spencer,LAT,2025-09-15,Should Tablet,Investigational Product,CT-6592-IDY,Rejected,CT-6109-EDZ-SITE-196,2025-09-19,MAT-14039,Investigational Product,CT-6109-EDZ,LAT
+Melvin Harvey,LAT,2025-09-13,Should Tablet,Investigational Product,CT-7047-GQC,Pending,CT-6109-EDZ-SITE-197,2025-01-18,MAT-14039,Investigational Product,CT-6109-EDZ,LAT
+David Jackson,BEL,2025-10-14,Should Tablet,Investigational Product,CT-9771-CZL,Pending,CT-6109-EDZ-SITE-198,2025-02-27,MAT-14039,Investigational Product,CT-6109-EDZ,BEL
+Erin White,SEY,2025-10-11,Should Tablet,Investigational Product,CT-8872-GKR,Approved,CT-6109-EDZ-SITE-199,2024-12-19,MAT-14039,Investigational Product,CT-6109-EDZ,SEY
+Nicole Keller,SEY,2025-06-28,Should Tablet,Investigational Product,CT-5806-JWO,Rejected,CT-6109-EDZ-SITE-200,2025-06-03,MAT-14039,Investigational Product,CT-6109-EDZ,SEY
+Jenna Peters,SEY,2025-10-16,Should Tablet,Investigational Product,CT-3230-HFO,Rejected,CT-6109-EDZ-SITE-201,2025-04-28,MAT-14039,Investigational Product,CT-6109-EDZ,SEY
+Suzanne Sanchez,ECU,2025-10-30,Should Tablet,Investigational Product,CT-8970-PLO,Rejected,CT-6109-EDZ-SITE-202,2024-11-30,MAT-14039,Investigational Product,CT-6109-EDZ,ECU
+Tyler Brown,ECU,2025-08-17,Should Tablet,Investigational Product,CT-2004-PSX,Pending,CT-6109-EDZ-SITE-203,2025-07-12,MAT-14039,Investigational Product,CT-6109-EDZ,ECU
+Alexandra Lin,ECU,2025-07-22,Should Tablet,Investigational Product,CT-2004-PSX,Approved,CT-6109-EDZ-SITE-204,2025-02-24,MAT-14039,Investigational Product,CT-6109-EDZ,ECU
+Alex Castillo,CAM,2025-06-27,Should Tablet,Investigational Product,CT-4229-AWU,Rejected,CT-6109-EDZ-SITE-205,2024-11-17,MAT-14039,Investigational Product,CT-6109-EDZ,CAM
+Ernest Duncan,GUA,2025-08-20,Run Solution,Investigational Product,CT-3472-PNG,Rejected,CT-6109-EDZ-SITE-193,2025-05-11,MAT-86168,Investigational Product,CT-6109-EDZ,GUA
+Robert Walters,GUA,2025-10-24,Run Solution,Investigational Product,CT-1816-RCG,Pending,CT-6109-EDZ-SITE-194,2025-03-23,MAT-86168,Investigational Product,CT-6109-EDZ,GUA
+Leslie Lopez,GUA,2025-07-27,Run Solution,Investigational Product,CT-3636-AVP,Pending,CT-6109-EDZ-SITE-195,2025-09-22,MAT-86168,Investigational Product,CT-6109-EDZ,GUA
+Dr. Jeffrey Clark,LAT,2025-11-11,Run Solution,Investigational Product,CT-8015-GMQ,Pending,CT-6109-EDZ-SITE-196,2025-10-13,MAT-86168,Investigational Product,CT-6109-EDZ,LAT
+Kaitlin Berg,LAT,2025-07-01,Run Solution,Investigational Product,CT-3472-PNG,Pending,CT-6109-EDZ-SITE-197,2025-11-06,MAT-86168,Investigational Product,CT-6109-EDZ,LAT
+Vickie James,BEL,2025-09-23,Run Solution,Investigational Product,CT-3228-ZKT,Pending,CT-6109-EDZ-SITE-198,2025-09-17,MAT-86168,Investigational Product,CT-6109-EDZ,BEL
+Michele Hall,SEY,2025-09-03,Run Solution,Investigational Product,CT-3395-UCM,Pending,CT-6109-EDZ-SITE-199,2025-10-20,MAT-86168,Investigational Product,CT-6109-EDZ,SEY
+Michael Klein,SEY,2025-08-17,Run Solution,Investigational Product,CT-7487-KNX,Pending,CT-6109-EDZ-SITE-200,2025-07-23,MAT-86168,Investigational Product,CT-6109-EDZ,SEY
+Dr. Dorothy Simon,SEY,2025-09-09,Run Solution,Investigational Product,CT-8015-GMQ,Approved,CT-6109-EDZ-SITE-201,2025-03-05,MAT-86168,Investigational Product,CT-6109-EDZ,SEY
+Rebecca Proctor,ECU,2025-07-20,Run Solution,Investigational Product,CT-6910-RDE,Rejected,CT-6109-EDZ-SITE-202,2024-12-24,MAT-86168,Investigational Product,CT-6109-EDZ,ECU
+Stephen Thomas,ECU,2025-07-16,Run Solution,Investigational Product,CT-3395-UCM,Rejected,CT-6109-EDZ-SITE-203,2025-05-28,MAT-86168,Investigational Product,CT-6109-EDZ,ECU
+Jon Lang,ECU,2025-05-22,Run Solution,Investigational Product,CT-8015-GMQ,Rejected,CT-6109-EDZ-SITE-204,2025-10-17,MAT-86168,Investigational Product,CT-6109-EDZ,ECU
+Spencer Scott,CAM,2025-08-29,Run Solution,Investigational Product,CT-8742-ECD,Approved,CT-6109-EDZ-SITE-205,2025-04-27,MAT-86168,Investigational Product,CT-6109-EDZ,CAM
+Tara Thomas,AZE,2025-06-29,Receive Patch,Investigational Product,CT-7487-KNX,Approved,CT-9831-IEW-SITE-206,2025-01-14,MAT-16627,Investigational Product,CT-9831-IEW,AZE
+Lisa Barker,JER,2025-06-16,Receive Patch,Investigational Product,CT-3230-HFO,Pending,CT-9831-IEW-SITE-207,2025-05-31,MAT-16627,Investigational Product,CT-9831-IEW,JER
+Gina Sims,TAN,2025-10-27,Receive Patch,Investigational Product,CT-9781-BYC,Rejected,CT-9831-IEW-SITE-208,2025-09-12,MAT-16627,Investigational Product,CT-9831-IEW,TAN
+John Lee,WAL,2025-09-20,Receive Patch,Investigational Product,CT-7047-GQC,Approved,CT-9831-IEW-SITE-209,2024-11-14,MAT-16627,Investigational Product,CT-9831-IEW,WAL
+Scott Wilson,WAL,2025-08-16,Receive Patch,Investigational Product,CT-3636-AVP,Pending,CT-9831-IEW-SITE-210,2024-11-25,MAT-16627,Investigational Product,CT-9831-IEW,WAL
+Edward Howell,PIT,2025-10-14,Receive Patch,Investigational Product,CT-5806-JWO,Rejected,CT-9831-IEW-SITE-211,2024-12-09,MAT-16627,Investigational Product,CT-9831-IEW,PIT
+Lauren Deleon,TUR,2025-10-12,Receive Patch,Investigational Product,CT-1816-RCG,Pending,CT-9831-IEW-SITE-212,2024-11-28,MAT-16627,Investigational Product,CT-9831-IEW,TUR
+Taylor Farmer,AZE,2025-07-13,Something Patch,Ancillary Supply,CT-5014-EEP,Pending,CT-9831-IEW-SITE-206,2024-12-12,MAT-33775,Ancillary Supply,CT-9831-IEW,AZE
+Sabrina Davis,JER,2025-07-29,Something Patch,Ancillary Supply,CT-7484-BIH,Approved,CT-9831-IEW-SITE-207,2025-08-31,MAT-33775,Ancillary Supply,CT-9831-IEW,JER
+Carrie Adams,TAN,2025-08-16,Something Patch,Ancillary Supply,CT-1816-RCG,Approved,CT-9831-IEW-SITE-208,2025-06-19,MAT-33775,Ancillary Supply,CT-9831-IEW,TAN
+Timothy Walter,WAL,2025-07-16,Something Patch,Ancillary Supply,CT-8970-PLO,Approved,CT-9831-IEW-SITE-209,2025-04-01,MAT-33775,Ancillary Supply,CT-9831-IEW,WAL
+Jessica Vaughn,WAL,2025-09-10,Something Patch,Ancillary Supply,CT-3230-HFO,Pending,CT-9831-IEW-SITE-210,2024-12-19,MAT-33775,Ancillary Supply,CT-9831-IEW,WAL
+Stephanie Brennan,PIT,2025-10-28,Something Patch,Ancillary Supply,CT-6551-IBW,Approved,CT-9831-IEW-SITE-211,2025-10-23,MAT-33775,Ancillary Supply,CT-9831-IEW,PIT
+Sheila Underwood,TUR,2025-09-13,Something Patch,Ancillary Supply,CT-2004-PSX,Rejected,CT-9831-IEW-SITE-212,2025-02-10,MAT-33775,Ancillary Supply,CT-9831-IEW,TUR
+Martin Johnson,AZE,2025-10-06,Stock Patch,Comparator,CT-3472-PNG,Pending,CT-9831-IEW-SITE-206,2025-07-10,MAT-16078,Comparator,CT-9831-IEW,AZE
+Peter Dudley,JER,2025-07-19,Stock Patch,Comparator,CT-7047-GQC,Pending,CT-9831-IEW-SITE-207,2025-03-22,MAT-16078,Comparator,CT-9831-IEW,JER
+David Snyder,TAN,2025-10-02,Stock Patch,Comparator,CT-2004-PSX,Rejected,CT-9831-IEW-SITE-208,2024-11-27,MAT-16078,Comparator,CT-9831-IEW,TAN
+Corey Lindsey,WAL,2025-09-09,Stock Patch,Comparator,CT-4229-AWU,Pending,CT-9831-IEW-SITE-209,2025-08-26,MAT-16078,Comparator,CT-9831-IEW,WAL
+Christopher Singleton,WAL,2025-07-07,Stock Patch,Comparator,CT-1816-RCG,Approved,CT-9831-IEW-SITE-210,2025-05-30,MAT-16078,Comparator,CT-9831-IEW,WAL
+Robin Galvan,PIT,2025-08-10,Stock Patch,Comparator,CT-5806-JWO,Rejected,CT-9831-IEW-SITE-211,2024-11-13,MAT-16078,Comparator,CT-9831-IEW,PIT
+Jon Dickerson,TUR,2025-07-03,Stock Patch,Comparator,CT-5014-EEP,Approved,CT-9831-IEW-SITE-212,2025-09-01,MAT-16078,Comparator,CT-9831-IEW,TUR
+Carly Rowland,AZE,2025-10-05,High Injection,Investigational Product,CT-3230-HFO,Rejected,CT-9831-IEW-SITE-206,2024-12-26,MAT-49651,Investigational Product,CT-9831-IEW,AZE
+Richard Doyle,JER,2025-08-03,High Injection,Investigational Product,CT-8015-GMQ,Pending,CT-9831-IEW-SITE-207,2025-08-30,MAT-49651,Investigational Product,CT-9831-IEW,JER
+William Zamora,TAN,2025-06-08,High Injection,Investigational Product,CT-7487-KNX,Rejected,CT-9831-IEW-SITE-208,2025-08-18,MAT-49651,Investigational Product,CT-9831-IEW,TAN
+Catherine Anderson,WAL,2025-07-23,High Injection,Investigational Product,CT-3472-PNG,Rejected,CT-9831-IEW-SITE-209,2025-05-30,MAT-49651,Investigational Product,CT-9831-IEW,WAL
+Samantha Davis,WAL,2025-10-17,High Injection,Investigational Product,CT-9781-BYC,Rejected,CT-9831-IEW-SITE-210,2025-05-21,MAT-49651,Investigational Product,CT-9831-IEW,WAL
+Jaime Reynolds,PIT,2025-05-23,High Injection,Investigational Product,CT-2004-PSX,Pending,CT-9831-IEW-SITE-211,2025-08-08,MAT-49651,Investigational Product,CT-9831-IEW,PIT
+Monica Osborne,TUR,2025-07-27,High Injection,Investigational Product,CT-4229-AWU,Pending,CT-9831-IEW-SITE-212,2025-08-25,MAT-49651,Investigational Product,CT-9831-IEW,TUR
+Denise Phillips,BEL,2025-09-07,Continue Capsule,Investigational Product,CT-7047-GQC,Rejected,CT-3395-UCM-SITE-213,2025-04-20,MAT-34899,Investigational Product,CT-3395-UCM,BEL
+Samantha Russell,BEL,2025-05-25,Continue Capsule,Investigational Product,CT-2004-PSX,Pending,CT-3395-UCM-SITE-214,2025-06-19,MAT-34899,Investigational Product,CT-3395-UCM,BEL
+Erika Randall,COM,2025-10-13,Continue Capsule,Investigational Product,CT-6910-RDE,Rejected,CT-3395-UCM-SITE-215,2025-08-26,MAT-34899,Investigational Product,CT-3395-UCM,COM
+Jacqueline Sanford,COM,2025-09-12,Continue Capsule,Investigational Product,CT-6592-IDY,Rejected,CT-3395-UCM-SITE-216,2025-10-21,MAT-34899,Investigational Product,CT-3395-UCM,COM
+Nancy Brock,TUR,2025-09-20,Continue Capsule,Investigational Product,CT-1696-SCY,Pending,CT-3395-UCM-SITE-217,2025-09-02,MAT-34899,Investigational Product,CT-3395-UCM,TUR
+Amanda Hudson,TUR,2025-06-21,Continue Capsule,Investigational Product,CT-9781-BYC,Pending,CT-3395-UCM-SITE-218,2025-03-07,MAT-34899,Investigational Product,CT-3395-UCM,TUR
+Brenda Adams,TUR,2025-09-08,Continue Capsule,Investigational Product,CT-9831-IEW,Rejected,CT-3395-UCM-SITE-219,2024-12-11,MAT-34899,Investigational Product,CT-3395-UCM,TUR
+Sarah Singh,BEL,2025-09-04,Keep Capsule,Investigational Product,CT-7047-GQC,Pending,CT-3395-UCM-SITE-213,2025-03-29,MAT-40706,Investigational Product,CT-3395-UCM,BEL
+Terry Mccarthy,BEL,2025-06-03,Keep Capsule,Investigational Product,CT-7484-BIH,Pending,CT-3395-UCM-SITE-214,2024-12-22,MAT-40706,Investigational Product,CT-3395-UCM,BEL
+Chad Wolfe,COM,2025-09-07,Keep Capsule,Investigational Product,CT-9781-BYC,Approved,CT-3395-UCM-SITE-215,2025-03-12,MAT-40706,Investigational Product,CT-3395-UCM,COM
+Jeremiah Adams,COM,2025-06-19,Keep Capsule,Investigational Product,CT-8015-GMQ,Rejected,CT-3395-UCM-SITE-216,2025-08-25,MAT-40706,Investigational Product,CT-3395-UCM,COM
+Danielle Murphy,TUR,2025-07-15,Keep Capsule,Investigational Product,CT-1816-RCG,Approved,CT-3395-UCM-SITE-217,2025-01-17,MAT-40706,Investigational Product,CT-3395-UCM,TUR
+Michael Weaver,TUR,2025-10-12,Keep Capsule,Investigational Product,CT-6551-IBW,Pending,CT-3395-UCM-SITE-218,2024-11-23,MAT-40706,Investigational Product,CT-3395-UCM,TUR
+Katherine Luna,TUR,2025-07-14,Keep Capsule,Investigational Product,CT-9831-IEW,Pending,CT-3395-UCM-SITE-219,2025-08-15,MAT-40706,Investigational Product,CT-3395-UCM,TUR
+Christopher Massey,BEL,2025-09-10,Reduce Solution,Investigational Product,CT-3228-ZKT,Approved,CT-3395-UCM-SITE-213,2025-01-30,MAT-82814,Investigational Product,CT-3395-UCM,BEL
+James Thomas,BEL,2025-05-19,Reduce Solution,Investigational Product,CT-8742-ECD,Approved,CT-3395-UCM-SITE-214,2025-04-27,MAT-82814,Investigational Product,CT-3395-UCM,BEL
+Kathryn Olson,COM,2025-11-03,Reduce Solution,Investigational Product,CT-9781-BYC,Pending,CT-3395-UCM-SITE-215,2025-01-22,MAT-82814,Investigational Product,CT-3395-UCM,COM
+Michael Moore,COM,2025-09-02,Reduce Solution,Investigational Product,CT-5014-EEP,Pending,CT-3395-UCM-SITE-216,2025-08-08,MAT-82814,Investigational Product,CT-3395-UCM,COM
+Pamela Romero,TUR,2025-09-18,Reduce Solution,Investigational Product,CT-3472-PNG,Approved,CT-3395-UCM-SITE-217,2025-01-31,MAT-82814,Investigational Product,CT-3395-UCM,TUR
+Matthew Knight,TUR,2025-07-28,Reduce Solution,Investigational Product,CT-5806-JWO,Approved,CT-3395-UCM-SITE-218,2025-10-01,MAT-82814,Investigational Product,CT-3395-UCM,TUR
+Stacey Johnson,TUR,2025-07-09,Reduce Solution,Investigational Product,CT-8015-GMQ,Rejected,CT-3395-UCM-SITE-219,2025-06-28,MAT-82814,Investigational Product,CT-3395-UCM,TUR
+Jonathan Cooper,UZB,2025-10-29,Pull Patch,Investigational Product,CT-8742-ECD,Pending,CT-4229-AWU-SITE-220,2025-02-26,MAT-40089,Investigational Product,CT-4229-AWU,UZB
+Sheri Howard,UZB,2025-06-04,Pull Patch,Investigational Product,CT-1696-SCY,Pending,CT-4229-AWU-SITE-221,2024-12-12,MAT-40089,Investigational Product,CT-4229-AWU,UZB
+Andrea Gonzalez,UZB,2025-09-02,Pull Patch,Investigational Product,CT-8015-GMQ,Approved,CT-4229-AWU-SITE-222,2025-10-05,MAT-40089,Investigational Product,CT-4229-AWU,UZB
+Janet Larsen,NEW,2025-08-25,Pull Patch,Investigational Product,CT-4229-AWU,Approved,CT-4229-AWU-SITE-223,2025-05-16,MAT-40089,Investigational Product,CT-4229-AWU,NEW
+Jaime Anthony DDS,NEW,2025-07-31,Pull Patch,Investigational Product,CT-5806-JWO,Rejected,CT-4229-AWU-SITE-224,2025-01-01,MAT-40089,Investigational Product,CT-4229-AWU,NEW
+Barbara Ramos,ECU,2025-08-03,Pull Patch,Investigational Product,CT-6109-EDZ,Pending,CT-4229-AWU-SITE-225,2025-08-15,MAT-40089,Investigational Product,CT-4229-AWU,ECU
+Kathleen Barnes,ECU,2025-06-14,Pull Patch,Investigational Product,CT-4229-AWU,Pending,CT-4229-AWU-SITE-226,2024-11-21,MAT-40089,Investigational Product,CT-4229-AWU,ECU
+Ryan Jimenez,ECU,2025-05-31,Pull Patch,Investigational Product,CT-5806-JWO,Pending,CT-4229-AWU-SITE-227,2025-06-01,MAT-40089,Investigational Product,CT-4229-AWU,ECU
+Adam Chapman,BRU,2025-10-17,Pull Patch,Investigational Product,CT-5014-EEP,Pending,CT-4229-AWU-SITE-228,2025-01-08,MAT-40089,Investigational Product,CT-4229-AWU,BRU
+Adrian Strong,GUY,2025-06-05,Pull Patch,Investigational Product,CT-6592-IDY,Rejected,CT-4229-AWU-SITE-229,2024-12-23,MAT-40089,Investigational Product,CT-4229-AWU,GUY
+Frank Walsh,GUY,2025-10-02,Pull Patch,Investigational Product,CT-6910-RDE,Approved,CT-4229-AWU-SITE-230,2025-01-15,MAT-40089,Investigational Product,CT-4229-AWU,GUY
+Bailey Holmes,BOU,2025-10-23,Pull Patch,Investigational Product,CT-8742-ECD,Rejected,CT-4229-AWU-SITE-231,2025-01-27,MAT-40089,Investigational Product,CT-4229-AWU,BOU
+Aaron Perez,BOU,2025-08-28,Pull Patch,Investigational Product,CT-7047-GQC,Approved,CT-4229-AWU-SITE-232,2025-08-19,MAT-40089,Investigational Product,CT-4229-AWU,BOU
+Melissa Meyer,BOU,2025-11-09,Pull Patch,Investigational Product,CT-6592-IDY,Pending,CT-4229-AWU-SITE-233,2025-07-17,MAT-40089,Investigational Product,CT-4229-AWU,BOU
+William Medina,UZB,2025-07-10,Experience Tablet,Investigational Product,CT-6910-RDE,Approved,CT-4229-AWU-SITE-220,2025-04-13,MAT-47986,Investigational Product,CT-4229-AWU,UZB
+Angela Pineda,UZB,2025-08-22,Experience Tablet,Investigational Product,CT-1696-SCY,Rejected,CT-4229-AWU-SITE-221,2025-05-25,MAT-47986,Investigational Product,CT-4229-AWU,UZB
+Charles Smith,UZB,2025-09-22,Experience Tablet,Investigational Product,CT-6551-IBW,Pending,CT-4229-AWU-SITE-222,2025-01-14,MAT-47986,Investigational Product,CT-4229-AWU,UZB
+Timothy Caldwell,NEW,2025-06-04,Experience Tablet,Investigational Product,CT-7487-KNX,Approved,CT-4229-AWU-SITE-223,2025-10-17,MAT-47986,Investigational Product,CT-4229-AWU,NEW
+Carol Green,NEW,2025-09-16,Experience Tablet,Investigational Product,CT-4229-AWU,Rejected,CT-4229-AWU-SITE-224,2025-08-10,MAT-47986,Investigational Product,CT-4229-AWU,NEW
+Gina Wright,ECU,2025-05-28,Experience Tablet,Investigational Product,CT-3228-ZKT,Pending,CT-4229-AWU-SITE-225,2025-07-16,MAT-47986,Investigational Product,CT-4229-AWU,ECU
+Elizabeth Perez,ECU,2025-09-12,Experience Tablet,Investigational Product,CT-8872-GKR,Pending,CT-4229-AWU-SITE-226,2025-08-16,MAT-47986,Investigational Product,CT-4229-AWU,ECU
+Chelsea Rodriguez,ECU,2025-07-15,Experience Tablet,Investigational Product,CT-7487-KNX,Approved,CT-4229-AWU-SITE-227,2025-10-10,MAT-47986,Investigational Product,CT-4229-AWU,ECU
+Victor Pruitt,BRU,2025-08-14,Experience Tablet,Investigational Product,CT-7487-KNX,Rejected,CT-4229-AWU-SITE-228,2025-08-04,MAT-47986,Investigational Product,CT-4229-AWU,BRU
+Kathy Davis,GUY,2025-09-27,Experience Tablet,Investigational Product,CT-5014-EEP,Pending,CT-4229-AWU-SITE-229,2025-05-22,MAT-47986,Investigational Product,CT-4229-AWU,GUY
+Jennifer Moody,GUY,2025-11-10,Experience Tablet,Investigational Product,CT-9831-IEW,Pending,CT-4229-AWU-SITE-230,2025-06-19,MAT-47986,Investigational Product,CT-4229-AWU,GUY
+Jessica Jimenez,BOU,2025-11-01,Experience Tablet,Investigational Product,CT-4229-AWU,Pending,CT-4229-AWU-SITE-231,2024-12-09,MAT-47986,Investigational Product,CT-4229-AWU,BOU
+Kelsey Camacho,BOU,2025-07-16,Experience Tablet,Investigational Product,CT-3395-UCM,Approved,CT-4229-AWU-SITE-232,2025-10-08,MAT-47986,Investigational Product,CT-4229-AWU,BOU
+Monica Bentley,BOU,2025-09-01,Experience Tablet,Investigational Product,CT-5014-EEP,Approved,CT-4229-AWU-SITE-233,2025-08-30,MAT-47986,Investigational Product,CT-4229-AWU,BOU
+Michelle Benson,UZB,2025-07-17,Indicate Patch,Comparator,CT-5014-EEP,Approved,CT-4229-AWU-SITE-220,2025-01-30,MAT-30745,Comparator,CT-4229-AWU,UZB
+Jose Williams,UZB,2025-08-23,Indicate Patch,Comparator,CT-9771-CZL,Rejected,CT-4229-AWU-SITE-221,2025-09-27,MAT-30745,Comparator,CT-4229-AWU,UZB
+Meagan Zamora,UZB,2025-08-03,Indicate Patch,Comparator,CT-8742-ECD,Approved,CT-4229-AWU-SITE-222,2025-10-31,MAT-30745,Comparator,CT-4229-AWU,UZB
+Paul Barrett,NEW,2025-07-25,Indicate Patch,Comparator,CT-7484-BIH,Rejected,CT-4229-AWU-SITE-223,2025-11-03,MAT-30745,Comparator,CT-4229-AWU,NEW
+Timothy Valencia,NEW,2025-07-19,Indicate Patch,Comparator,CT-6910-RDE,Pending,CT-4229-AWU-SITE-224,2025-04-07,MAT-30745,Comparator,CT-4229-AWU,NEW
+Walter Warren,ECU,2025-08-06,Indicate Patch,Comparator,CT-9781-BYC,Pending,CT-4229-AWU-SITE-225,2025-05-11,MAT-30745,Comparator,CT-4229-AWU,ECU
+Justin Nixon,ECU,2025-10-30,Indicate Patch,Comparator,CT-8015-GMQ,Pending,CT-4229-AWU-SITE-226,2025-07-05,MAT-30745,Comparator,CT-4229-AWU,ECU
+Maria Lopez,ECU,2025-07-14,Indicate Patch,Comparator,CT-6910-RDE,Approved,CT-4229-AWU-SITE-227,2025-07-02,MAT-30745,Comparator,CT-4229-AWU,ECU
+Billy Johnson,BRU,2025-05-30,Indicate Patch,Comparator,CT-6910-RDE,Pending,CT-4229-AWU-SITE-228,2025-07-12,MAT-30745,Comparator,CT-4229-AWU,BRU
+Ashley Bell,GUY,2025-08-30,Indicate Patch,Comparator,CT-9781-BYC,Approved,CT-4229-AWU-SITE-229,2025-11-11,MAT-30745,Comparator,CT-4229-AWU,GUY
+Timothy Tate,GUY,2025-08-05,Indicate Patch,Comparator,CT-4229-AWU,Rejected,CT-4229-AWU-SITE-230,2025-08-11,MAT-30745,Comparator,CT-4229-AWU,GUY
+Chris Bowers,BOU,2025-08-31,Indicate Patch,Comparator,CT-3472-PNG,Pending,CT-4229-AWU-SITE-231,2025-04-20,MAT-30745,Comparator,CT-4229-AWU,BOU
+Edward Wells,BOU,2025-09-02,Indicate Patch,Comparator,CT-7047-GQC,Pending,CT-4229-AWU-SITE-232,2025-07-31,MAT-30745,Comparator,CT-4229-AWU,BOU
+Grace Jenkins,BOU,2025-08-08,Indicate Patch,Comparator,CT-3395-UCM,Pending,CT-4229-AWU-SITE-233,2025-02-19,MAT-30745,Comparator,CT-4229-AWU,BOU
+Dylan Martinez,UZB,2025-10-19,Light Tablet,Investigational Product,CT-3636-AVP,Pending,CT-4229-AWU-SITE-220,2025-04-09,MAT-22354,Investigational Product,CT-4229-AWU,UZB
+Rachel Jones,UZB,2025-07-15,Light Tablet,Investigational Product,CT-8015-GMQ,Approved,CT-4229-AWU-SITE-221,2025-09-30,MAT-22354,Investigational Product,CT-4229-AWU,UZB
+Bruce Vazquez,UZB,2025-08-21,Light Tablet,Investigational Product,CT-8970-PLO,Pending,CT-4229-AWU-SITE-222,2025-03-30,MAT-22354,Investigational Product,CT-4229-AWU,UZB
+Sandra Freeman,NEW,2025-08-25,Light Tablet,Investigational Product,CT-9771-CZL,Pending,CT-4229-AWU-SITE-223,2025-09-29,MAT-22354,Investigational Product,CT-4229-AWU,NEW
+Michael Bernard,NEW,2025-10-16,Light Tablet,Investigational Product,CT-8742-ECD,Rejected,CT-4229-AWU-SITE-224,2025-03-12,MAT-22354,Investigational Product,CT-4229-AWU,NEW
+Phillip Golden,ECU,2025-10-03,Light Tablet,Investigational Product,CT-2004-PSX,Approved,CT-4229-AWU-SITE-225,2025-05-20,MAT-22354,Investigational Product,CT-4229-AWU,ECU
+Matthew Choi,ECU,2025-10-11,Light Tablet,Investigational Product,CT-7047-GQC,Rejected,CT-4229-AWU-SITE-226,2025-02-22,MAT-22354,Investigational Product,CT-4229-AWU,ECU
+Scott Rodgers,ECU,2025-09-23,Light Tablet,Investigational Product,CT-1696-SCY,Approved,CT-4229-AWU-SITE-227,2025-03-14,MAT-22354,Investigational Product,CT-4229-AWU,ECU
+Cathy Grant,BRU,2025-08-04,Light Tablet,Investigational Product,CT-5014-EEP,Rejected,CT-4229-AWU-SITE-228,2025-07-28,MAT-22354,Investigational Product,CT-4229-AWU,BRU
+Kelly Jenkins,GUY,2025-07-16,Light Tablet,Investigational Product,CT-5806-JWO,Pending,CT-4229-AWU-SITE-229,2025-06-07,MAT-22354,Investigational Product,CT-4229-AWU,GUY
+Tammy Moody,GUY,2025-07-18,Light Tablet,Investigational Product,CT-3636-AVP,Rejected,CT-4229-AWU-SITE-230,2025-10-13,MAT-22354,Investigational Product,CT-4229-AWU,GUY
+Shannon Sutton,BOU,2025-09-02,Light Tablet,Investigational Product,CT-4229-AWU,Rejected,CT-4229-AWU-SITE-231,2025-08-28,MAT-22354,Investigational Product,CT-4229-AWU,BOU
+Brian Ramirez,BOU,2025-11-10,Light Tablet,Investigational Product,CT-8742-ECD,Pending,CT-4229-AWU-SITE-232,2025-06-27,MAT-22354,Investigational Product,CT-4229-AWU,BOU
+Kelli Martin,BOU,2025-08-19,Light Tablet,Investigational Product,CT-5014-EEP,Pending,CT-4229-AWU-SITE-233,2025-07-19,MAT-22354,Investigational Product,CT-4229-AWU,BOU
+Nathaniel Klein,BRI,2025-08-13,Us Solution,Ancillary Supply,CT-8872-GKR,Rejected,CT-9771-CZL-SITE-234,2025-03-18,MAT-22610,Ancillary Supply,CT-9771-CZL,BRI
+David Conley,BRI,2025-10-07,Us Solution,Ancillary Supply,CT-6910-RDE,Rejected,CT-9771-CZL-SITE-235,2025-08-26,MAT-22610,Ancillary Supply,CT-9771-CZL,BRI
+Ian Archer,BRI,2025-10-14,Us Solution,Ancillary Supply,CT-3472-PNG,Approved,CT-9771-CZL-SITE-236,2025-02-17,MAT-22610,Ancillary Supply,CT-9771-CZL,BRI
+Michelle Hicks,AZE,2025-11-04,Us Solution,Ancillary Supply,CT-3228-ZKT,Approved,CT-9771-CZL-SITE-237,2024-12-04,MAT-22610,Ancillary Supply,CT-9771-CZL,AZE
+Megan Zuniga,AZE,2025-05-29,Us Solution,Ancillary Supply,CT-3636-AVP,Pending,CT-9771-CZL-SITE-238,2025-08-14,MAT-22610,Ancillary Supply,CT-9771-CZL,AZE
+Jill Butler,CEN,2025-08-02,Us Solution,Ancillary Supply,CT-8872-GKR,Pending,CT-9771-CZL-SITE-239,2024-12-27,MAT-22610,Ancillary Supply,CT-9771-CZL,CEN
+Kylie Mays,CEN,2025-06-11,Us Solution,Ancillary Supply,CT-8970-PLO,Pending,CT-9771-CZL-SITE-240,2025-06-13,MAT-22610,Ancillary Supply,CT-9771-CZL,CEN
+Lee Freeman,CEN,2025-07-27,Us Solution,Ancillary Supply,CT-6592-IDY,Approved,CT-9771-CZL-SITE-241,2025-07-11,MAT-22610,Ancillary Supply,CT-9771-CZL,CEN
+Connor Bell,BRI,2025-10-08,Player Solution,Investigational Product,CT-1696-SCY,Rejected,CT-9771-CZL-SITE-234,2025-01-10,MAT-93544,Investigational Product,CT-9771-CZL,BRI
+Brenda Perez,BRI,2025-10-10,Player Solution,Investigational Product,CT-8742-ECD,Pending,CT-9771-CZL-SITE-235,2025-02-22,MAT-93544,Investigational Product,CT-9771-CZL,BRI
+Jonathan Barr,BRI,2025-11-05,Player Solution,Investigational Product,CT-1696-SCY,Rejected,CT-9771-CZL-SITE-236,2025-07-05,MAT-93544,Investigational Product,CT-9771-CZL,BRI
+Aaron Wiley,AZE,2025-11-07,Player Solution,Investigational Product,CT-7484-BIH,Rejected,CT-9771-CZL-SITE-237,2024-12-08,MAT-93544,Investigational Product,CT-9771-CZL,AZE
+John Rivers,AZE,2025-06-30,Player Solution,Investigational Product,CT-8742-ECD,Pending,CT-9771-CZL-SITE-238,2025-02-23,MAT-93544,Investigational Product,CT-9771-CZL,AZE
+Mrs. Kimberly Moore MD,CEN,2025-09-09,Player Solution,Investigational Product,CT-4229-AWU,Pending,CT-9771-CZL-SITE-239,2025-11-11,MAT-93544,Investigational Product,CT-9771-CZL,CEN
+Derek Bernard,CEN,2025-08-01,Player Solution,Investigational Product,CT-6910-RDE,Rejected,CT-9771-CZL-SITE-240,2025-07-17,MAT-93544,Investigational Product,CT-9771-CZL,CEN
+William Underwood,CEN,2025-07-30,Player Solution,Investigational Product,CT-8970-PLO,Rejected,CT-9771-CZL-SITE-241,2025-03-11,MAT-93544,Investigational Product,CT-9771-CZL,CEN
+Gloria Norton,SUD,2025-07-23,Fund Tablet,Comparator,CT-9771-CZL,Rejected,CT-5014-EEP-SITE-242,2025-02-25,MAT-39627,Comparator,CT-5014-EEP,SUD
+Craig Flores,SUD,2025-09-10,Fund Tablet,Comparator,CT-2004-PSX,Pending,CT-5014-EEP-SITE-243,2024-11-17,MAT-39627,Comparator,CT-5014-EEP,SUD
+Nicholas Crosby,JOR,2025-06-17,Fund Tablet,Comparator,CT-7484-BIH,Rejected,CT-5014-EEP-SITE-244,2025-08-12,MAT-39627,Comparator,CT-5014-EEP,JOR
+James Palmer,JOR,2025-06-18,Fund Tablet,Comparator,CT-4229-AWU,Rejected,CT-5014-EEP-SITE-245,2025-02-13,MAT-39627,Comparator,CT-5014-EEP,JOR
+Max Powers,JOR,2025-05-27,Fund Tablet,Comparator,CT-6551-IBW,Pending,CT-5014-EEP-SITE-246,2025-09-16,MAT-39627,Comparator,CT-5014-EEP,JOR
+Tony Rivera,AZE,2025-05-30,Fund Tablet,Comparator,CT-3228-ZKT,Rejected,CT-5014-EEP-SITE-247,2025-02-23,MAT-39627,Comparator,CT-5014-EEP,AZE
+Tina Hill,AZE,2025-09-08,Fund Tablet,Comparator,CT-8872-GKR,Rejected,CT-5014-EEP-SITE-248,2025-10-17,MAT-39627,Comparator,CT-5014-EEP,AZE
+Melinda Robinson,AZE,2025-07-19,Fund Tablet,Comparator,CT-9781-BYC,Rejected,CT-5014-EEP-SITE-249,2025-07-08,MAT-39627,Comparator,CT-5014-EEP,AZE
+Lisa Mason,MAU,2025-10-08,Fund Tablet,Comparator,CT-6551-IBW,Rejected,CT-5014-EEP-SITE-250,2025-02-14,MAT-39627,Comparator,CT-5014-EEP,MAU
+Robert Mcclain,MAU,2025-06-14,Fund Tablet,Comparator,CT-5806-JWO,Pending,CT-5014-EEP-SITE-251,2025-09-19,MAT-39627,Comparator,CT-5014-EEP,MAU
+Joseph Evans,SUD,2025-06-20,They Capsule,Ancillary Supply,CT-9831-IEW,Approved,CT-5014-EEP-SITE-242,2025-09-28,MAT-53554,Ancillary Supply,CT-5014-EEP,SUD
+Timothy Henry,SUD,2025-09-01,They Capsule,Ancillary Supply,CT-3395-UCM,Approved,CT-5014-EEP-SITE-243,2025-05-23,MAT-53554,Ancillary Supply,CT-5014-EEP,SUD
+Hannah Stewart,JOR,2025-07-21,They Capsule,Ancillary Supply,CT-3636-AVP,Approved,CT-5014-EEP-SITE-244,2025-04-13,MAT-53554,Ancillary Supply,CT-5014-EEP,JOR
+Paul Griffin,JOR,2025-09-04,They Capsule,Ancillary Supply,CT-9831-IEW,Approved,CT-5014-EEP-SITE-245,2025-08-10,MAT-53554,Ancillary Supply,CT-5014-EEP,JOR
+William Bradford,JOR,2025-06-10,They Capsule,Ancillary Supply,CT-3228-ZKT,Pending,CT-5014-EEP-SITE-246,2024-12-12,MAT-53554,Ancillary Supply,CT-5014-EEP,JOR
+Adrian Evans,AZE,2025-06-24,They Capsule,Ancillary Supply,CT-1816-RCG,Pending,CT-5014-EEP-SITE-247,2025-02-17,MAT-53554,Ancillary Supply,CT-5014-EEP,AZE
+Keith Powell,AZE,2025-10-28,They Capsule,Ancillary Supply,CT-1696-SCY,Rejected,CT-5014-EEP-SITE-248,2025-07-17,MAT-53554,Ancillary Supply,CT-5014-EEP,AZE
+Kendra Leblanc,AZE,2025-11-03,They Capsule,Ancillary Supply,CT-6551-IBW,Pending,CT-5014-EEP-SITE-249,2025-05-31,MAT-53554,Ancillary Supply,CT-5014-EEP,AZE
+April Gonzalez,MAU,2025-09-13,They Capsule,Ancillary Supply,CT-1816-RCG,Approved,CT-5014-EEP-SITE-250,2025-03-31,MAT-53554,Ancillary Supply,CT-5014-EEP,MAU
+Alyssa Reed,MAU,2025-09-06,They Capsule,Ancillary Supply,CT-4229-AWU,Pending,CT-5014-EEP-SITE-251,2025-10-15,MAT-53554,Ancillary Supply,CT-5014-EEP,MAU
+Amy Walters,BUR,2025-11-04,Though Solution,Ancillary Supply,CT-6109-EDZ,Rejected,CT-3636-AVP-SITE-252,2025-09-08,MAT-46171,Ancillary Supply,CT-3636-AVP,BUR
+Jason Moore,BUR,2025-09-25,Though Solution,Ancillary Supply,CT-1816-RCG,Pending,CT-3636-AVP-SITE-253,2025-05-08,MAT-46171,Ancillary Supply,CT-3636-AVP,BUR
+Mathew Humphrey,PIT,2025-09-24,Though Solution,Ancillary Supply,CT-9831-IEW,Pending,CT-3636-AVP-SITE-254,2025-04-05,MAT-46171,Ancillary Supply,CT-3636-AVP,PIT
+Alexander Peterson,PIT,2025-09-27,Though Solution,Ancillary Supply,CT-3472-PNG,Approved,CT-3636-AVP-SITE-255,2025-05-08,MAT-46171,Ancillary Supply,CT-3636-AVP,PIT
+Victoria Ellison,BEL,2025-06-15,Though Solution,Ancillary Supply,CT-8015-GMQ,Approved,CT-3636-AVP-SITE-256,2024-11-26,MAT-46171,Ancillary Supply,CT-3636-AVP,BEL
+Denise Hall,NIC,2025-06-28,Though Solution,Ancillary Supply,CT-8970-PLO,Approved,CT-3636-AVP-SITE-257,2025-04-25,MAT-46171,Ancillary Supply,CT-3636-AVP,NIC
+Alyssa Reyes,NIC,2025-09-10,Though Solution,Ancillary Supply,CT-9771-CZL,Rejected,CT-3636-AVP-SITE-258,2025-06-01,MAT-46171,Ancillary Supply,CT-3636-AVP,NIC
+Karen Cuevas,EST,2025-05-23,Though Solution,Ancillary Supply,CT-1816-RCG,Pending,CT-3636-AVP-SITE-259,2025-07-18,MAT-46171,Ancillary Supply,CT-3636-AVP,EST
+William Valenzuela,EST,2025-08-03,Though Solution,Ancillary Supply,CT-6551-IBW,Rejected,CT-3636-AVP-SITE-260,2025-10-09,MAT-46171,Ancillary Supply,CT-3636-AVP,EST
+Gail Ellison,EST,2025-10-26,Though Solution,Ancillary Supply,CT-3395-UCM,Pending,CT-3636-AVP-SITE-261,2024-12-29,MAT-46171,Ancillary Supply,CT-3636-AVP,EST
+Patrick James,BUR,2025-05-29,Agency Injection,Comparator,CT-2004-PSX,Rejected,CT-3636-AVP-SITE-252,2025-08-20,MAT-54383,Comparator,CT-3636-AVP,BUR
+Alexandria Wright,BUR,2025-06-02,Agency Injection,Comparator,CT-6551-IBW,Approved,CT-3636-AVP-SITE-253,2025-10-24,MAT-54383,Comparator,CT-3636-AVP,BUR
+Kimberly Mckinney,PIT,2025-07-18,Agency Injection,Comparator,CT-7047-GQC,Rejected,CT-3636-AVP-SITE-254,2025-09-26,MAT-54383,Comparator,CT-3636-AVP,PIT
+Crystal Anderson,PIT,2025-05-29,Agency Injection,Comparator,CT-6910-RDE,Pending,CT-3636-AVP-SITE-255,2025-10-24,MAT-54383,Comparator,CT-3636-AVP,PIT
+Linda Adams,BEL,2025-09-02,Agency Injection,Comparator,CT-3395-UCM,Pending,CT-3636-AVP-SITE-256,2025-11-04,MAT-54383,Comparator,CT-3636-AVP,BEL
+Matthew Moore,NIC,2025-07-17,Agency Injection,Comparator,CT-5806-JWO,Approved,CT-3636-AVP-SITE-257,2025-05-04,MAT-54383,Comparator,CT-3636-AVP,NIC
+Kim Lawson,NIC,2025-07-02,Agency Injection,Comparator,CT-9781-BYC,Approved,CT-3636-AVP-SITE-258,2025-06-13,MAT-54383,Comparator,CT-3636-AVP,NIC
+Amy Barrett,EST,2025-10-09,Agency Injection,Comparator,CT-3228-ZKT,Rejected,CT-3636-AVP-SITE-259,2024-12-16,MAT-54383,Comparator,CT-3636-AVP,EST
+Sarah Lawrence,EST,2025-10-30,Agency Injection,Comparator,CT-3395-UCM,Rejected,CT-3636-AVP-SITE-260,2025-10-22,MAT-54383,Comparator,CT-3636-AVP,EST
+Maria Bailey,EST,2025-11-08,Agency Injection,Comparator,CT-6592-IDY,Rejected,CT-3636-AVP-SITE-261,2024-11-13,MAT-54383,Comparator,CT-3636-AVP,EST
+Crystal Neal,BEL,2025-07-14,Hundred Solution,Comparator,CT-8015-GMQ,Approved,CT-7484-BIH-SITE-262,2025-07-23,MAT-66257,Comparator,CT-7484-BIH,BEL
+Emily Rose,BEL,2025-08-31,Hundred Solution,Comparator,CT-7047-GQC,Pending,CT-7484-BIH-SITE-263,2025-04-08,MAT-66257,Comparator,CT-7484-BIH,BEL
+Ronald Stevenson DDS,BEL,2025-06-05,Hundred Solution,Comparator,CT-3395-UCM,Rejected,CT-7484-BIH-SITE-264,2025-06-01,MAT-66257,Comparator,CT-7484-BIH,BEL
+Zoe Fisher,HEA,2025-07-03,Hundred Solution,Comparator,CT-3472-PNG,Approved,CT-7484-BIH-SITE-265,2025-08-20,MAT-66257,Comparator,CT-7484-BIH,HEA
+Mary Morgan,HEA,2025-06-01,Hundred Solution,Comparator,CT-1696-SCY,Rejected,CT-7484-BIH-SITE-266,2025-05-26,MAT-66257,Comparator,CT-7484-BIH,HEA
+Lori Vega,NIG,2025-08-24,Hundred Solution,Comparator,CT-9831-IEW,Rejected,CT-7484-BIH-SITE-267,2025-04-22,MAT-66257,Comparator,CT-7484-BIH,NIG
+Jason Jones,NIG,2025-08-21,Hundred Solution,Comparator,CT-6910-RDE,Pending,CT-7484-BIH-SITE-268,2025-07-05,MAT-66257,Comparator,CT-7484-BIH,NIG
+Richard Brown,NIG,2025-06-29,Hundred Solution,Comparator,CT-1816-RCG,Approved,CT-7484-BIH-SITE-269,2024-12-09,MAT-66257,Comparator,CT-7484-BIH,NIG
+James King,BEL,2025-07-12,Oil Tablet,Ancillary Supply,CT-9831-IEW,Rejected,CT-7484-BIH-SITE-262,2025-09-06,MAT-66374,Ancillary Supply,CT-7484-BIH,BEL
+Scott Hunt,BEL,2025-07-28,Oil Tablet,Ancillary Supply,CT-9781-BYC,Pending,CT-7484-BIH-SITE-263,2025-04-18,MAT-66374,Ancillary Supply,CT-7484-BIH,BEL
+Martin Robinson,BEL,2025-06-14,Oil Tablet,Ancillary Supply,CT-6592-IDY,Approved,CT-7484-BIH-SITE-264,2025-10-11,MAT-66374,Ancillary Supply,CT-7484-BIH,BEL
+Danny Wolf DDS,HEA,2025-08-09,Oil Tablet,Ancillary Supply,CT-3472-PNG,Rejected,CT-7484-BIH-SITE-265,2025-09-11,MAT-66374,Ancillary Supply,CT-7484-BIH,HEA
+Lauren Norton,HEA,2025-09-26,Oil Tablet,Ancillary Supply,CT-9781-BYC,Pending,CT-7484-BIH-SITE-266,2025-11-12,MAT-66374,Ancillary Supply,CT-7484-BIH,HEA
+Christina Rasmussen,NIG,2025-09-23,Oil Tablet,Ancillary Supply,CT-1696-SCY,Approved,CT-7484-BIH-SITE-267,2025-06-05,MAT-66374,Ancillary Supply,CT-7484-BIH,NIG
+Felicia Snyder,NIG,2025-08-01,Oil Tablet,Ancillary Supply,CT-3636-AVP,Approved,CT-7484-BIH-SITE-268,2025-09-22,MAT-66374,Ancillary Supply,CT-7484-BIH,NIG
+Nicholas Salas,NIG,2025-06-21,Oil Tablet,Ancillary Supply,CT-7484-BIH,Rejected,CT-7484-BIH-SITE-269,2024-11-20,MAT-66374,Ancillary Supply,CT-7484-BIH,NIG
+Kenneth Morris,BEL,2025-10-07,Great Patch,Investigational Product,CT-6109-EDZ,Rejected,CT-7484-BIH-SITE-262,2025-03-11,MAT-74247,Investigational Product,CT-7484-BIH,BEL
+Rebecca Walker,BEL,2025-08-25,Great Patch,Investigational Product,CT-3230-HFO,Rejected,CT-7484-BIH-SITE-263,2024-11-18,MAT-74247,Investigational Product,CT-7484-BIH,BEL
+Melissa Henderson,BEL,2025-06-24,Great Patch,Investigational Product,CT-8742-ECD,Approved,CT-7484-BIH-SITE-264,2025-06-03,MAT-74247,Investigational Product,CT-7484-BIH,BEL
+Joseph Miller,HEA,2025-10-06,Great Patch,Investigational Product,CT-3472-PNG,Pending,CT-7484-BIH-SITE-265,2025-09-29,MAT-74247,Investigational Product,CT-7484-BIH,HEA
+James French,HEA,2025-08-21,Great Patch,Investigational Product,CT-7487-KNX,Approved,CT-7484-BIH-SITE-266,2025-08-05,MAT-74247,Investigational Product,CT-7484-BIH,HEA
+Harry Booker,NIG,2025-11-01,Great Patch,Investigational Product,CT-8015-GMQ,Approved,CT-7484-BIH-SITE-267,2025-03-14,MAT-74247,Investigational Product,CT-7484-BIH,NIG
+Patricia Lawrence,NIG,2025-08-25,Great Patch,Investigational Product,CT-7487-KNX,Pending,CT-7484-BIH-SITE-268,2025-01-16,MAT-74247,Investigational Product,CT-7484-BIH,NIG
+Christopher Powell,NIG,2025-07-19,Great Patch,Investigational Product,CT-7487-KNX,Approved,CT-7484-BIH-SITE-269,2025-10-29,MAT-74247,Investigational Product,CT-7484-BIH,NIG
+Jasmin Allen,BUR,2025-06-30,Reason Tablet,Ancillary Supply,CT-7484-BIH,Approved,CT-7487-KNX-SITE-270,2025-04-11,MAT-18458,Ancillary Supply,CT-7487-KNX,BUR
+Joseph Todd,BUR,2025-09-07,Reason Tablet,Ancillary Supply,CT-3636-AVP,Approved,CT-7487-KNX-SITE-271,2025-10-01,MAT-18458,Ancillary Supply,CT-7487-KNX,BUR
+Charles Harris,BUR,2025-07-09,Reason Tablet,Ancillary Supply,CT-3228-ZKT,Rejected,CT-7487-KNX-SITE-272,2025-11-09,MAT-18458,Ancillary Supply,CT-7487-KNX,BUR
+Terry Taylor,NIG,2025-09-03,Reason Tablet,Ancillary Supply,CT-6910-RDE,Approved,CT-7487-KNX-SITE-273,2024-12-18,MAT-18458,Ancillary Supply,CT-7487-KNX,NIG
+James Padilla,NIG,2025-08-26,Reason Tablet,Ancillary Supply,CT-7484-BIH,Rejected,CT-7487-KNX-SITE-274,2025-09-06,MAT-18458,Ancillary Supply,CT-7487-KNX,NIG
+Douglas Smith,NIG,2025-07-19,Reason Tablet,Ancillary Supply,CT-9831-IEW,Pending,CT-7487-KNX-SITE-275,2024-12-19,MAT-18458,Ancillary Supply,CT-7487-KNX,NIG
+Marissa Norton,CYP,2025-10-30,Reason Tablet,Ancillary Supply,CT-9771-CZL,Rejected,CT-7487-KNX-SITE-276,2025-08-02,MAT-18458,Ancillary Supply,CT-7487-KNX,CYP
+Brandi Blanchard,CYP,2025-09-29,Reason Tablet,Ancillary Supply,CT-3230-HFO,Approved,CT-7487-KNX-SITE-277,2025-01-05,MAT-18458,Ancillary Supply,CT-7487-KNX,CYP
+Gary Hopkins,CUB,2025-06-03,Reason Tablet,Ancillary Supply,CT-6109-EDZ,Approved,CT-7487-KNX-SITE-278,2025-04-16,MAT-18458,Ancillary Supply,CT-7487-KNX,CUB
+Michael Hartman,CUB,2025-08-29,Reason Tablet,Ancillary Supply,CT-8742-ECD,Pending,CT-7487-KNX-SITE-279,2024-12-13,MAT-18458,Ancillary Supply,CT-7487-KNX,CUB
+Michelle Williams,BUR,2025-09-29,Contain Solution,Comparator,CT-3395-UCM,Approved,CT-7487-KNX-SITE-270,2024-11-15,MAT-56157,Comparator,CT-7487-KNX,BUR
+Alexander Carey,BUR,2025-05-26,Contain Solution,Comparator,CT-6109-EDZ,Pending,CT-7487-KNX-SITE-271,2025-06-08,MAT-56157,Comparator,CT-7487-KNX,BUR
+Morgan Adams,BUR,2025-05-29,Contain Solution,Comparator,CT-8970-PLO,Approved,CT-7487-KNX-SITE-272,2025-06-29,MAT-56157,Comparator,CT-7487-KNX,BUR
+Gabrielle Nelson,NIG,2025-08-15,Contain Solution,Comparator,CT-3472-PNG,Pending,CT-7487-KNX-SITE-273,2025-03-29,MAT-56157,Comparator,CT-7487-KNX,NIG
+Emily Burns,NIG,2025-06-14,Contain Solution,Comparator,CT-7487-KNX,Approved,CT-7487-KNX-SITE-274,2024-11-13,MAT-56157,Comparator,CT-7487-KNX,NIG
+Laura Ortega,NIG,2025-05-30,Contain Solution,Comparator,CT-8015-GMQ,Pending,CT-7487-KNX-SITE-275,2025-09-29,MAT-56157,Comparator,CT-7487-KNX,NIG
+Beth Martin,CYP,2025-10-06,Contain Solution,Comparator,CT-5014-EEP,Pending,CT-7487-KNX-SITE-276,2025-02-24,MAT-56157,Comparator,CT-7487-KNX,CYP
+Victor Hancock,CYP,2025-08-16,Contain Solution,Comparator,CT-6592-IDY,Pending,CT-7487-KNX-SITE-277,2025-04-17,MAT-56157,Comparator,CT-7487-KNX,CYP
+Joe Thomas,CUB,2025-05-18,Contain Solution,Comparator,CT-8015-GMQ,Approved,CT-7487-KNX-SITE-278,2025-01-13,MAT-56157,Comparator,CT-7487-KNX,CUB
+Eric Horton,CUB,2025-05-31,Contain Solution,Comparator,CT-6551-IBW,Pending,CT-7487-KNX-SITE-279,2025-07-24,MAT-56157,Comparator,CT-7487-KNX,CUB
+Kylie Mcdonald,BUR,2025-05-21,Issue Patch,Ancillary Supply,CT-8742-ECD,Pending,CT-7487-KNX-SITE-270,2025-01-29,MAT-59372,Ancillary Supply,CT-7487-KNX,BUR
+Barbara Meyers,BUR,2025-10-21,Issue Patch,Ancillary Supply,CT-6551-IBW,Approved,CT-7487-KNX-SITE-271,2025-06-07,MAT-59372,Ancillary Supply,CT-7487-KNX,BUR
+Dawn Garcia,BUR,2025-05-21,Issue Patch,Ancillary Supply,CT-7487-KNX,Approved,CT-7487-KNX-SITE-272,2025-04-18,MAT-59372,Ancillary Supply,CT-7487-KNX,BUR
+Devin Johnson,NIG,2025-08-28,Issue Patch,Ancillary Supply,CT-2004-PSX,Pending,CT-7487-KNX-SITE-273,2025-03-07,MAT-59372,Ancillary Supply,CT-7487-KNX,NIG
+Jeffery Hill,NIG,2025-07-31,Issue Patch,Ancillary Supply,CT-5014-EEP,Pending,CT-7487-KNX-SITE-274,2025-07-17,MAT-59372,Ancillary Supply,CT-7487-KNX,NIG
+Eric Harrison,NIG,2025-09-15,Issue Patch,Ancillary Supply,CT-7487-KNX,Approved,CT-7487-KNX-SITE-275,2025-03-24,MAT-59372,Ancillary Supply,CT-7487-KNX,NIG
+Timothy Davis,CYP,2025-05-21,Issue Patch,Ancillary Supply,CT-6592-IDY,Pending,CT-7487-KNX-SITE-276,2025-06-08,MAT-59372,Ancillary Supply,CT-7487-KNX,CYP
+Jessica Sanchez,CYP,2025-10-11,Issue Patch,Ancillary Supply,CT-7047-GQC,Rejected,CT-7487-KNX-SITE-277,2025-06-10,MAT-59372,Ancillary Supply,CT-7487-KNX,CYP
+Hector Mathis,CUB,2025-05-30,Issue Patch,Ancillary Supply,CT-4229-AWU,Pending,CT-7487-KNX-SITE-278,2025-11-01,MAT-59372,Ancillary Supply,CT-7487-KNX,CUB
+Jeanette Patrick,CUB,2025-08-10,Issue Patch,Ancillary Supply,CT-2004-PSX,Pending,CT-7487-KNX-SITE-279,2025-01-16,MAT-59372,Ancillary Supply,CT-7487-KNX,CUB
+Julia Vang,SER,2025-10-31,Health Solution,Ancillary Supply,CT-4229-AWU,Approved,CT-3230-HFO-SITE-280,2025-02-16,MAT-73628,Ancillary Supply,CT-3230-HFO,SER
+Steven Rodriguez,GIB,2025-06-05,Health Solution,Ancillary Supply,CT-1696-SCY,Approved,CT-3230-HFO-SITE-281,2025-06-23,MAT-73628,Ancillary Supply,CT-3230-HFO,GIB
+Jennifer Williamson,GIB,2025-06-04,Health Solution,Ancillary Supply,CT-1696-SCY,Pending,CT-3230-HFO-SITE-282,2025-06-26,MAT-73628,Ancillary Supply,CT-3230-HFO,GIB
+Christina Anderson,ANT,2025-05-26,Health Solution,Ancillary Supply,CT-1816-RCG,Rejected,CT-3230-HFO-SITE-283,2025-10-11,MAT-73628,Ancillary Supply,CT-3230-HFO,ANT
+Mark Williams,ANT,2025-08-15,Health Solution,Ancillary Supply,CT-5014-EEP,Approved,CT-3230-HFO-SITE-284,2025-01-27,MAT-73628,Ancillary Supply,CT-3230-HFO,ANT
+Samantha Russell,LIB,2025-06-04,Health Solution,Ancillary Supply,CT-4229-AWU,Rejected,CT-3230-HFO-SITE-285,2025-03-24,MAT-73628,Ancillary Supply,CT-3230-HFO,LIB
+Regina Jones,LIB,2025-05-29,Health Solution,Ancillary Supply,CT-3230-HFO,Rejected,CT-3230-HFO-SITE-286,2024-12-15,MAT-73628,Ancillary Supply,CT-3230-HFO,LIB
+Timothy Kelly,LIB,2025-09-15,Health Solution,Ancillary Supply,CT-4229-AWU,Rejected,CT-3230-HFO-SITE-287,2025-04-15,MAT-73628,Ancillary Supply,CT-3230-HFO,LIB
+Timothy Briggs,SWI,2025-08-12,Health Solution,Ancillary Supply,CT-3636-AVP,Pending,CT-3230-HFO-SITE-288,2025-01-09,MAT-73628,Ancillary Supply,CT-3230-HFO,SWI
+Anthony Patterson,SWI,2025-09-04,Health Solution,Ancillary Supply,CT-8742-ECD,Approved,CT-3230-HFO-SITE-289,2025-08-25,MAT-73628,Ancillary Supply,CT-3230-HFO,SWI
+Jeffrey Walker,SWI,2025-05-18,Health Solution,Ancillary Supply,CT-7484-BIH,Rejected,CT-3230-HFO-SITE-290,2025-04-16,MAT-73628,Ancillary Supply,CT-3230-HFO,SWI
+Michael Ortiz,SER,2025-05-20,Treat Tablet,Comparator,CT-9771-CZL,Rejected,CT-3230-HFO-SITE-280,2025-01-05,MAT-68176,Comparator,CT-3230-HFO,SER
+Roger Haley,GIB,2025-06-15,Treat Tablet,Comparator,CT-8742-ECD,Approved,CT-3230-HFO-SITE-281,2025-04-16,MAT-68176,Comparator,CT-3230-HFO,GIB
+Jaime Mcintosh,GIB,2025-07-21,Treat Tablet,Comparator,CT-8742-ECD,Approved,CT-3230-HFO-SITE-282,2025-11-09,MAT-68176,Comparator,CT-3230-HFO,GIB
+Kenneth Bailey,ANT,2025-09-29,Treat Tablet,Comparator,CT-3228-ZKT,Approved,CT-3230-HFO-SITE-283,2025-05-02,MAT-68176,Comparator,CT-3230-HFO,ANT
+David Smith,ANT,2025-07-09,Treat Tablet,Comparator,CT-9771-CZL,Pending,CT-3230-HFO-SITE-284,2025-03-22,MAT-68176,Comparator,CT-3230-HFO,ANT
+Christopher Hubbard,LIB,2025-08-21,Treat Tablet,Comparator,CT-6910-RDE,Rejected,CT-3230-HFO-SITE-285,2025-06-02,MAT-68176,Comparator,CT-3230-HFO,LIB
+Linda James,LIB,2025-09-01,Treat Tablet,Comparator,CT-8970-PLO,Rejected,CT-3230-HFO-SITE-286,2025-03-30,MAT-68176,Comparator,CT-3230-HFO,LIB
+Andrew Adams,LIB,2025-07-16,Treat Tablet,Comparator,CT-7484-BIH,Rejected,CT-3230-HFO-SITE-287,2025-08-18,MAT-68176,Comparator,CT-3230-HFO,LIB
+Jeffrey Hoover,SWI,2025-07-30,Treat Tablet,Comparator,CT-3230-HFO,Rejected,CT-3230-HFO-SITE-288,2025-03-19,MAT-68176,Comparator,CT-3230-HFO,SWI
+Andrea Dickson,SWI,2025-06-08,Treat Tablet,Comparator,CT-8015-GMQ,Approved,CT-3230-HFO-SITE-289,2025-03-09,MAT-68176,Comparator,CT-3230-HFO,SWI
+Ashley Yu,SWI,2025-10-25,Treat Tablet,Comparator,CT-9831-IEW,Approved,CT-3230-HFO-SITE-290,2025-06-03,MAT-68176,Comparator,CT-3230-HFO,SWI
+Peter Franklin,SER,2025-07-03,Free Solution,Ancillary Supply,CT-8015-GMQ,Pending,CT-3230-HFO-SITE-280,2025-05-18,MAT-54713,Ancillary Supply,CT-3230-HFO,SER
+Lauren Ford,GIB,2025-10-09,Free Solution,Ancillary Supply,CT-6592-IDY,Rejected,CT-3230-HFO-SITE-281,2024-11-18,MAT-54713,Ancillary Supply,CT-3230-HFO,GIB
+Edward Jones,GIB,2025-06-10,Free Solution,Ancillary Supply,CT-4229-AWU,Rejected,CT-3230-HFO-SITE-282,2025-05-07,MAT-54713,Ancillary Supply,CT-3230-HFO,GIB
+Denise Ryan,ANT,2025-09-18,Free Solution,Ancillary Supply,CT-7487-KNX,Rejected,CT-3230-HFO-SITE-283,2025-05-02,MAT-54713,Ancillary Supply,CT-3230-HFO,ANT
+Jose Smith,ANT,2025-07-31,Free Solution,Ancillary Supply,CT-9771-CZL,Approved,CT-3230-HFO-SITE-284,2024-12-25,MAT-54713,Ancillary Supply,CT-3230-HFO,ANT
+Ann Murillo,LIB,2025-05-29,Free Solution,Ancillary Supply,CT-9771-CZL,Approved,CT-3230-HFO-SITE-285,2025-08-19,MAT-54713,Ancillary Supply,CT-3230-HFO,LIB
+Pam Brown,LIB,2025-10-20,Free Solution,Ancillary Supply,CT-1696-SCY,Pending,CT-3230-HFO-SITE-286,2025-08-26,MAT-54713,Ancillary Supply,CT-3230-HFO,LIB
+Gregory Dixon,LIB,2025-06-11,Free Solution,Ancillary Supply,CT-3636-AVP,Pending,CT-3230-HFO-SITE-287,2024-12-22,MAT-54713,Ancillary Supply,CT-3230-HFO,LIB
+Matthew Thompson,SWI,2025-09-10,Free Solution,Ancillary Supply,CT-6592-IDY,Approved,CT-3230-HFO-SITE-288,2025-10-06,MAT-54713,Ancillary Supply,CT-3230-HFO,SWI
+Sara Jones,SWI,2025-10-15,Free Solution,Ancillary Supply,CT-9831-IEW,Rejected,CT-3230-HFO-SITE-289,2025-03-22,MAT-54713,Ancillary Supply,CT-3230-HFO,SWI
+Kenneth Decker,SWI,2025-07-14,Free Solution,Ancillary Supply,CT-6910-RDE,Pending,CT-3230-HFO-SITE-290,2025-05-02,MAT-54713,Ancillary Supply,CT-3230-HFO,SWI
+Cynthia Bernard,ITA,2025-09-14,Member Solution,Ancillary Supply,CT-3228-ZKT,Rejected,CT-6551-IBW-SITE-291,2025-06-10,MAT-75647,Ancillary Supply,CT-6551-IBW,ITA
+Amber Pena,MAD,2025-08-19,Member Solution,Ancillary Supply,CT-6109-EDZ,Pending,CT-6551-IBW-SITE-292,2025-03-07,MAT-75647,Ancillary Supply,CT-6551-IBW,MAD
+Christopher Tate MD,MAD,2025-10-12,Member Solution,Ancillary Supply,CT-9781-BYC,Approved,CT-6551-IBW-SITE-293,2025-08-03,MAT-75647,Ancillary Supply,CT-6551-IBW,MAD
+Pamela Dixon,MAL,2025-10-07,Member Solution,Ancillary Supply,CT-3636-AVP,Rejected,CT-6551-IBW-SITE-294,2025-10-21,MAT-75647,Ancillary Supply,CT-6551-IBW,MAL
+Lisa Nichols,ITA,2025-07-13,Anyone Tablet,Ancillary Supply,CT-6910-RDE,Approved,CT-6551-IBW-SITE-291,2025-01-30,MAT-79992,Ancillary Supply,CT-6551-IBW,ITA
+Linda Mcdonald,MAD,2025-08-31,Anyone Tablet,Ancillary Supply,CT-6551-IBW,Rejected,CT-6551-IBW-SITE-292,2025-08-27,MAT-79992,Ancillary Supply,CT-6551-IBW,MAD
+Robert Peterson,MAD,2025-09-25,Anyone Tablet,Ancillary Supply,CT-2004-PSX,Rejected,CT-6551-IBW-SITE-293,2025-08-12,MAT-79992,Ancillary Supply,CT-6551-IBW,MAD
+Ashley Perez,MAL,2025-08-16,Anyone Tablet,Ancillary Supply,CT-4229-AWU,Pending,CT-6551-IBW-SITE-294,2025-09-05,MAT-79992,Ancillary Supply,CT-6551-IBW,MAL
+Brittany Powell,ITA,2025-07-06,Cell Tablet,Comparator,CT-9781-BYC,Approved,CT-6551-IBW-SITE-291,2025-03-09,MAT-52579,Comparator,CT-6551-IBW,ITA
+Douglas Tate,MAD,2025-09-21,Cell Tablet,Comparator,CT-8872-GKR,Rejected,CT-6551-IBW-SITE-292,2025-02-22,MAT-52579,Comparator,CT-6551-IBW,MAD
+Jose Medina,MAD,2025-06-22,Cell Tablet,Comparator,CT-9771-CZL,Rejected,CT-6551-IBW-SITE-293,2025-07-24,MAT-52579,Comparator,CT-6551-IBW,MAD
+Kerry Oliver,MAL,2025-06-19,Cell Tablet,Comparator,CT-3395-UCM,Approved,CT-6551-IBW-SITE-294,2025-02-23,MAT-52579,Comparator,CT-6551-IBW,MAL
+Joshua Rice,PUE,2025-07-30,Culture Solution,Ancillary Supply,CT-4229-AWU,Pending,CT-3472-PNG-SITE-295,2025-09-29,MAT-22152,Ancillary Supply,CT-3472-PNG,PUE
+Erin Robles,PUE,2025-11-11,Culture Solution,Ancillary Supply,CT-8970-PLO,Rejected,CT-3472-PNG-SITE-296,2025-07-15,MAT-22152,Ancillary Supply,CT-3472-PNG,PUE
+Shelby Baker,PUE,2025-10-09,Culture Solution,Ancillary Supply,CT-3636-AVP,Rejected,CT-3472-PNG-SITE-297,2025-07-19,MAT-22152,Ancillary Supply,CT-3472-PNG,PUE
+Alexis Wilson,FAL,2025-10-17,Culture Solution,Ancillary Supply,CT-8872-GKR,Approved,CT-3472-PNG-SITE-298,2025-07-02,MAT-22152,Ancillary Supply,CT-3472-PNG,FAL
+Alison Jennings,FAL,2025-11-04,Culture Solution,Ancillary Supply,CT-3228-ZKT,Pending,CT-3472-PNG-SITE-299,2025-10-17,MAT-22152,Ancillary Supply,CT-3472-PNG,FAL
+Michael Johnson,TRI,2025-08-15,Culture Solution,Ancillary Supply,CT-9771-CZL,Approved,CT-3472-PNG-SITE-300,2025-10-04,MAT-22152,Ancillary Supply,CT-3472-PNG,TRI
+Jose Ewing,TRI,2025-06-20,Culture Solution,Ancillary Supply,CT-8970-PLO,Rejected,CT-3472-PNG-SITE-301,2025-11-08,MAT-22152,Ancillary Supply,CT-3472-PNG,TRI
+Tyler Powers,TRI,2025-10-28,Culture Solution,Ancillary Supply,CT-8742-ECD,Rejected,CT-3472-PNG-SITE-302,2025-06-08,MAT-22152,Ancillary Supply,CT-3472-PNG,TRI
+Michael Harris,HAI,2025-11-03,Culture Solution,Ancillary Supply,CT-1696-SCY,Approved,CT-3472-PNG-SITE-303,2025-10-10,MAT-22152,Ancillary Supply,CT-3472-PNG,HAI
+George Fleming,LIB,2025-06-11,Culture Solution,Ancillary Supply,CT-8872-GKR,Approved,CT-3472-PNG-SITE-304,2024-11-16,MAT-22152,Ancillary Supply,CT-3472-PNG,LIB
+Megan Walker,LIB,2025-05-24,Culture Solution,Ancillary Supply,CT-8970-PLO,Rejected,CT-3472-PNG-SITE-305,2025-09-17,MAT-22152,Ancillary Supply,CT-3472-PNG,LIB
+Corey Williams,PUE,2025-06-21,Speech Patch,Ancillary Supply,CT-5806-JWO,Rejected,CT-3472-PNG-SITE-295,2025-08-29,MAT-45907,Ancillary Supply,CT-3472-PNG,PUE
+Kristie Ramirez,PUE,2025-06-06,Speech Patch,Ancillary Supply,CT-2004-PSX,Pending,CT-3472-PNG-SITE-296,2025-06-16,MAT-45907,Ancillary Supply,CT-3472-PNG,PUE
+Dr. Sara Adams,PUE,2025-07-18,Speech Patch,Ancillary Supply,CT-1816-RCG,Rejected,CT-3472-PNG-SITE-297,2025-06-25,MAT-45907,Ancillary Supply,CT-3472-PNG,PUE
+David Combs,FAL,2025-05-26,Speech Patch,Ancillary Supply,CT-1816-RCG,Rejected,CT-3472-PNG-SITE-298,2025-06-22,MAT-45907,Ancillary Supply,CT-3472-PNG,FAL
+Darryl Bass,FAL,2025-10-28,Speech Patch,Ancillary Supply,CT-3228-ZKT,Rejected,CT-3472-PNG-SITE-299,2025-05-21,MAT-45907,Ancillary Supply,CT-3472-PNG,FAL
+Steven Kim,TRI,2025-10-12,Speech Patch,Ancillary Supply,CT-7487-KNX,Rejected,CT-3472-PNG-SITE-300,2025-09-11,MAT-45907,Ancillary Supply,CT-3472-PNG,TRI
+Robert Waters,TRI,2025-06-28,Speech Patch,Ancillary Supply,CT-3395-UCM,Approved,CT-3472-PNG-SITE-301,2025-10-15,MAT-45907,Ancillary Supply,CT-3472-PNG,TRI
+Katherine Kelly,TRI,2025-06-10,Speech Patch,Ancillary Supply,CT-7484-BIH,Pending,CT-3472-PNG-SITE-302,2025-05-26,MAT-45907,Ancillary Supply,CT-3472-PNG,TRI
+Lindsey Hardy,HAI,2025-09-25,Speech Patch,Ancillary Supply,CT-3395-UCM,Rejected,CT-3472-PNG-SITE-303,2025-10-08,MAT-45907,Ancillary Supply,CT-3472-PNG,HAI
+Craig Watson,LIB,2025-10-04,Speech Patch,Ancillary Supply,CT-6592-IDY,Rejected,CT-3472-PNG-SITE-304,2025-07-09,MAT-45907,Ancillary Supply,CT-3472-PNG,LIB
+Michelle Jones,LIB,2025-09-17,Speech Patch,Ancillary Supply,CT-7487-KNX,Pending,CT-3472-PNG-SITE-305,2025-03-25,MAT-45907,Ancillary Supply,CT-3472-PNG,LIB
+Derek Taylor,PUE,2025-10-21,Floor Patch,Comparator,CT-3230-HFO,Rejected,CT-3472-PNG-SITE-295,2025-03-22,MAT-84153,Comparator,CT-3472-PNG,PUE
+Jared Fitzgerald,PUE,2025-08-27,Floor Patch,Comparator,CT-8970-PLO,Rejected,CT-3472-PNG-SITE-296,2024-11-28,MAT-84153,Comparator,CT-3472-PNG,PUE
+Brenda Moran,PUE,2025-09-14,Floor Patch,Comparator,CT-7484-BIH,Approved,CT-3472-PNG-SITE-297,2025-06-25,MAT-84153,Comparator,CT-3472-PNG,PUE
+Jodi Gonzalez,FAL,2025-07-31,Floor Patch,Comparator,CT-1816-RCG,Pending,CT-3472-PNG-SITE-298,2025-08-15,MAT-84153,Comparator,CT-3472-PNG,FAL
+Michael Davis,FAL,2025-08-07,Floor Patch,Comparator,CT-9831-IEW,Pending,CT-3472-PNG-SITE-299,2025-09-01,MAT-84153,Comparator,CT-3472-PNG,FAL
+Beverly Sandoval MD,TRI,2025-10-28,Floor Patch,Comparator,CT-6910-RDE,Rejected,CT-3472-PNG-SITE-300,2024-12-24,MAT-84153,Comparator,CT-3472-PNG,TRI
+Mr. Brandon Reeves,TRI,2025-10-17,Floor Patch,Comparator,CT-6592-IDY,Rejected,CT-3472-PNG-SITE-301,2024-11-25,MAT-84153,Comparator,CT-3472-PNG,TRI
+Cameron Price,TRI,2025-08-12,Floor Patch,Comparator,CT-3395-UCM,Rejected,CT-3472-PNG-SITE-302,2025-09-08,MAT-84153,Comparator,CT-3472-PNG,TRI
+Anna Elliott,HAI,2025-09-04,Floor Patch,Comparator,CT-9771-CZL,Approved,CT-3472-PNG-SITE-303,2024-12-19,MAT-84153,Comparator,CT-3472-PNG,HAI
+Timothy Jones,LIB,2025-09-13,Floor Patch,Comparator,CT-9781-BYC,Rejected,CT-3472-PNG-SITE-304,2025-02-25,MAT-84153,Comparator,CT-3472-PNG,LIB
+Patricia Rios,LIB,2025-08-19,Floor Patch,Comparator,CT-9831-IEW,Approved,CT-3472-PNG-SITE-305,2025-09-13,MAT-84153,Comparator,CT-3472-PNG,LIB
+David Kirby,ALB,2025-11-07,Trouble Capsule,Comparator,CT-3636-AVP,Pending,CT-9781-BYC-SITE-306,2025-05-05,MAT-31615,Comparator,CT-9781-BYC,ALB
+Michael Chavez,ALB,2025-06-19,Trouble Capsule,Comparator,CT-2004-PSX,Approved,CT-9781-BYC-SITE-307,2025-01-10,MAT-31615,Comparator,CT-9781-BYC,ALB
+Terry Jackson,ANG,2025-07-17,Trouble Capsule,Comparator,CT-3472-PNG,Approved,CT-9781-BYC-SITE-308,2024-12-19,MAT-31615,Comparator,CT-9781-BYC,ANG
+Claudia Beck,GRE,2025-10-07,Trouble Capsule,Comparator,CT-3636-AVP,Approved,CT-9781-BYC-SITE-309,2025-05-11,MAT-31615,Comparator,CT-9781-BYC,GRE
+Christopher Schultz,MOL,2025-08-12,Trouble Capsule,Comparator,CT-9781-BYC,Pending,CT-9781-BYC-SITE-310,2025-03-19,MAT-31615,Comparator,CT-9781-BYC,MOL
+Elizabeth Coleman,MOL,2025-08-13,Trouble Capsule,Comparator,CT-3472-PNG,Rejected,CT-9781-BYC-SITE-311,2025-03-13,MAT-31615,Comparator,CT-9781-BYC,MOL
+Terri May,NEW,2025-07-26,Trouble Capsule,Comparator,CT-1696-SCY,Rejected,CT-9781-BYC-SITE-312,2025-10-31,MAT-31615,Comparator,CT-9781-BYC,NEW
+Nathan Taylor,ALB,2025-09-03,Positive Injection,Ancillary Supply,CT-3228-ZKT,Rejected,CT-9781-BYC-SITE-306,2025-10-03,MAT-98864,Ancillary Supply,CT-9781-BYC,ALB
+Michael Harris,ALB,2025-09-19,Positive Injection,Ancillary Supply,CT-8872-GKR,Pending,CT-9781-BYC-SITE-307,2025-05-22,MAT-98864,Ancillary Supply,CT-9781-BYC,ALB
+Alexander Martinez,ANG,2025-09-20,Positive Injection,Ancillary Supply,CT-7487-KNX,Approved,CT-9781-BYC-SITE-308,2024-11-12,MAT-98864,Ancillary Supply,CT-9781-BYC,ANG
+Jenna Rodriguez,GRE,2025-07-18,Positive Injection,Ancillary Supply,CT-9831-IEW,Rejected,CT-9781-BYC-SITE-309,2025-05-23,MAT-98864,Ancillary Supply,CT-9781-BYC,GRE
+Veronica Reid,MOL,2025-07-19,Positive Injection,Ancillary Supply,CT-8970-PLO,Pending,CT-9781-BYC-SITE-310,2024-12-14,MAT-98864,Ancillary Supply,CT-9781-BYC,MOL
+Mitchell Nichols,MOL,2025-08-17,Positive Injection,Ancillary Supply,CT-8742-ECD,Rejected,CT-9781-BYC-SITE-311,2025-10-20,MAT-98864,Ancillary Supply,CT-9781-BYC,MOL
+Amber Roth,NEW,2025-08-16,Positive Injection,Ancillary Supply,CT-3472-PNG,Approved,CT-9781-BYC-SITE-312,2025-01-30,MAT-98864,Ancillary Supply,CT-9781-BYC,NEW
+Daniel Peters,ALB,2025-07-17,That Solution,Investigational Product,CT-7484-BIH,Approved,CT-9781-BYC-SITE-306,2025-01-22,MAT-59079,Investigational Product,CT-9781-BYC,ALB
+Sergio Soto,ALB,2025-10-06,That Solution,Investigational Product,CT-7047-GQC,Approved,CT-9781-BYC-SITE-307,2025-05-07,MAT-59079,Investigational Product,CT-9781-BYC,ALB
+Ashley Finley,ANG,2025-11-06,That Solution,Investigational Product,CT-3395-UCM,Pending,CT-9781-BYC-SITE-308,2025-10-15,MAT-59079,Investigational Product,CT-9781-BYC,ANG
+Heidi Simmons,GRE,2025-08-17,That Solution,Investigational Product,CT-9831-IEW,Approved,CT-9781-BYC-SITE-309,2025-10-01,MAT-59079,Investigational Product,CT-9781-BYC,GRE
+Michael Prince,MOL,2025-07-05,That Solution,Investigational Product,CT-3472-PNG,Approved,CT-9781-BYC-SITE-310,2025-10-12,MAT-59079,Investigational Product,CT-9781-BYC,MOL
+Jacqueline Baker,MOL,2025-07-05,That Solution,Investigational Product,CT-4229-AWU,Rejected,CT-9781-BYC-SITE-311,2024-12-07,MAT-59079,Investigational Product,CT-9781-BYC,MOL
+Douglas Douglas,NEW,2025-06-01,That Solution,Investigational Product,CT-3472-PNG,Pending,CT-9781-BYC-SITE-312,2025-04-17,MAT-59079,Investigational Product,CT-9781-BYC,NEW
+Casey Glass,ALB,2025-10-24,Compare Tablet,Ancillary Supply,CT-3395-UCM,Approved,CT-9781-BYC-SITE-306,2025-02-09,MAT-96156,Ancillary Supply,CT-9781-BYC,ALB
+Valerie Washington,ALB,2025-07-05,Compare Tablet,Ancillary Supply,CT-3395-UCM,Pending,CT-9781-BYC-SITE-307,2025-04-10,MAT-96156,Ancillary Supply,CT-9781-BYC,ALB
+Kimberly Summers,ANG,2025-07-19,Compare Tablet,Ancillary Supply,CT-3395-UCM,Rejected,CT-9781-BYC-SITE-308,2025-05-13,MAT-96156,Ancillary Supply,CT-9781-BYC,ANG
+Aaron Castaneda,GRE,2025-06-23,Compare Tablet,Ancillary Supply,CT-6109-EDZ,Approved,CT-9781-BYC-SITE-309,2025-08-08,MAT-96156,Ancillary Supply,CT-9781-BYC,GRE
+Rachel Griffin,MOL,2025-07-02,Compare Tablet,Ancillary Supply,CT-5806-JWO,Approved,CT-9781-BYC-SITE-310,2025-06-14,MAT-96156,Ancillary Supply,CT-9781-BYC,MOL
+Amy Mcgrath,MOL,2025-09-21,Compare Tablet,Ancillary Supply,CT-9781-BYC,Rejected,CT-9781-BYC-SITE-311,2025-01-14,MAT-96156,Ancillary Supply,CT-9781-BYC,MOL
+Abigail Rodriguez,NEW,2025-06-12,Compare Tablet,Ancillary Supply,CT-6592-IDY,Approved,CT-9781-BYC-SITE-312,2025-08-15,MAT-96156,Ancillary Supply,CT-9781-BYC,NEW

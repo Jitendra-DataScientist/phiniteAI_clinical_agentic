@@ -1,0 +1,76 @@
+Material Number,BOM Status,Label Material Status,LY Number,Created Date,SAP Assigned Material Description,PARENT Alt BOM Number,BOM Type,BOM Entered,BOM Approved,BOM Active,Label Material Number Description Due Date,Label Material Number,Assigned SAP Label Material Description,Trial Alias,Trial Number
+MAT-60599,Inactive,In Design,LY874466,2024-08-17,Traditional Patch,BOM-11868,Regular,2023-12-31,2025-02-19,Yes,Player Solution,LBL-56008,Traditional Patch,CT-2004-PSX,CT-2004-PSX
+MAT-32011,Pending,In Design,LY626777,2025-09-07,Offer Tablet,BOM-27513,Alternate,2024-08-22,2025-03-17,No,Hundred Solution,LBL-42948,Offer Tablet,CT-2004-PSX,CT-2004-PSX
+MAT-97442,Inactive,Available,LY296886,2025-08-24,Common Patch,BOM-73062,Alternate,2024-08-12,2025-01-15,No,Expect Tablet,LBL-94302,Common Patch,CT-2004-PSX,CT-2004-PSX
+MAT-49508,Inactive,Available,LY492628,2025-08-13,Able Patch,BOM-29949,Alternate,2024-11-08,2025-05-05,No,Common Patch,LBL-38429,Able Patch,CT-6592-IDY,CT-6592-IDY
+MAT-17085,Pending,In Design,LY565988,2024-09-24,Myself Capsule,BOM-59361,Alternate,2024-07-20,2025-03-19,No,Property Tablet,LBL-32104,Myself Capsule,CT-6592-IDY,CT-6592-IDY
+MAT-84265,Inactive,In Design,LY722141,2025-03-06,Help Solution,BOM-54704,Alternate,2024-10-22,2025-02-21,No,Sense Tablet,LBL-24290,Help Solution,CT-8970-PLO,CT-8970-PLO
+MAT-82398,Inactive,Available,LY360184,2024-04-24,Range Solution,BOM-41134,Regular,2024-03-23,2024-12-23,Yes,Traditional Patch,LBL-19686,Range Solution,CT-8970-PLO,CT-8970-PLO
+MAT-85304,Pending,In Design,LY514076,2024-11-18,Artist Solution,BOM-75648,Alternate,2024-01-26,2025-05-01,No,Indicate Patch,LBL-61487,Artist Solution,CT-8970-PLO,CT-8970-PLO
+MAT-86920,Active,Available,LY545969,2025-01-04,Various Solution,BOM-92348,Alternate,2024-07-26,2025-02-21,No,They Capsule,LBL-36541,Various Solution,CT-8970-PLO,CT-8970-PLO
+MAT-42350,Pending,Available,LY988983,2024-07-20,Figure Capsule,BOM-91082,Regular,2024-08-31,2025-04-27,Yes,Trouble Capsule,LBL-12858,Figure Capsule,CT-5806-JWO,CT-5806-JWO
+MAT-81584,Pending,In Design,LY454415,2025-06-26,Set Solution,BOM-33423,Alternate,2024-02-08,2024-12-14,No,Hundred Solution,LBL-31778,Set Solution,CT-5806-JWO,CT-5806-JWO
+MAT-26378,Active,Available,LY763101,2024-01-30,Shake Tablet,BOM-19891,Regular,2024-04-14,2025-01-29,Yes,Speech Patch,LBL-59616,Shake Tablet,CT-5806-JWO,CT-5806-JWO
+MAT-39857,Inactive,In Design,LY910397,2025-03-25,Age Tablet,BOM-83692,Alternate,2024-03-02,2025-01-31,No,Should Tablet,LBL-27661,Age Tablet,CT-5806-JWO,CT-5806-JWO
+MAT-91309,Inactive,Available,LY410045,2025-03-01,Simply Injection,BOM-35951,Alternate,2024-01-15,2025-04-13,Yes,Compare Tablet,LBL-86611,Simply Injection,CT-8015-GMQ,CT-8015-GMQ
+MAT-74459,Pending,Available,LY603043,2024-08-27,Memory Solution,BOM-41545,Alternate,2024-03-30,2024-12-12,Yes,Hundred Solution,LBL-44901,Memory Solution,CT-8015-GMQ,CT-8015-GMQ
+MAT-66331,Inactive,In Design,LY199162,2025-02-11,Step Solution,BOM-78330,Alternate,2024-01-19,2024-12-13,Yes,New Solution,LBL-47416,Step Solution,CT-8872-GKR,CT-8872-GKR
+MAT-23246,Inactive,Available,LY596043,2024-12-11,Type Injection,BOM-91914,Regular,2024-04-16,2024-11-14,Yes,Commercial Tablet,LBL-16267,Type Injection,CT-8872-GKR,CT-8872-GKR
+MAT-58804,Active,In Design,LY963510,2024-08-17,Sense Tablet,BOM-54181,Alternate,2024-06-23,2025-02-12,No,Better Tablet,LBL-46569,Sense Tablet,CT-8872-GKR,CT-8872-GKR
+MAT-14115,Inactive,Available,LY514930,2025-01-26,Property Tablet,BOM-84110,Regular,2024-06-29,2024-12-06,No,Reduce Solution,LBL-40535,Property Tablet,CT-1696-SCY,CT-1696-SCY
+MAT-78401,Active,In Design,LY500827,2024-01-11,Expect Tablet,BOM-90691,Regular,2024-10-02,2025-02-13,No,Receive Patch,LBL-25676,Expect Tablet,CT-1696-SCY,CT-1696-SCY
+MAT-30703,Pending,Available,LY115615,2024-05-15,Cold Injection,BOM-82550,Regular,2024-06-07,2024-12-03,Yes,Treat Tablet,LBL-59694,Cold Injection,CT-3228-ZKT,CT-3228-ZKT
+MAT-61362,Active,Available,LY233485,2024-12-25,Better Tablet,BOM-63706,Regular,2024-06-02,2025-01-16,No,Floor Patch,LBL-41045,Better Tablet,CT-3228-ZKT,CT-3228-ZKT
+MAT-18409,Pending,In Design,LY961264,2025-05-09,Commercial Tablet,BOM-90050,Alternate,2024-10-30,2025-01-19,Yes,Shake Tablet,LBL-70400,Commercial Tablet,CT-3228-ZKT,CT-3228-ZKT
+MAT-58266,Inactive,In Design,LY162246,2025-07-25,Tree Injection,BOM-44757,Alternate,2024-06-22,2025-05-04,Yes,Article Tablet,LBL-23884,Tree Injection,CT-3228-ZKT,CT-3228-ZKT
+MAT-23465,Pending,Available,LY196871,2024-04-07,Toward Injection,BOM-84594,Regular,2024-10-15,2025-01-31,No,Fund Tablet,LBL-22045,Toward Injection,CT-6910-RDE,CT-6910-RDE
+MAT-33689,Pending,In Design,LY982171,2024-03-01,South Capsule,BOM-37720,Regular,2024-11-05,2024-12-19,Yes,Figure Capsule,LBL-85759,South Capsule,CT-6910-RDE,CT-6910-RDE
+MAT-22108,Inactive,Available,LY726206,2023-12-18,Win Injection,BOM-31780,Regular,2023-11-30,2024-11-25,No,Property Tablet,LBL-79464,Win Injection,CT-6910-RDE,CT-6910-RDE
+MAT-93657,Inactive,Available,LY400206,2025-07-17,Dog Patch,BOM-31066,Alternate,2024-05-22,2024-12-06,Yes,Agency Injection,LBL-30864,Dog Patch,CT-6910-RDE,CT-6910-RDE
+MAT-16848,Active,In Design,LY112089,2024-05-05,Blue Patch,BOM-71963,Regular,2024-02-20,2024-12-18,Yes,Type Injection,LBL-77720,Blue Patch,CT-8742-ECD,CT-8742-ECD
+MAT-47254,Pending,Available,LY314474,2025-03-19,Article Tablet,BOM-62502,Alternate,2024-05-14,2025-04-11,No,Anyone Tablet,LBL-86887,Article Tablet,CT-8742-ECD,CT-8742-ECD
+MAT-15875,Inactive,Available,LY830764,2024-09-26,Happy Solution,BOM-64744,Regular,2023-11-18,2025-03-13,Yes,Light Tablet,LBL-52450,Happy Solution,CT-8742-ECD,CT-8742-ECD
+MAT-47140,Active,In Design,LY643883,2023-11-16,Side Capsule,BOM-45003,Alternate,2023-12-04,2024-12-23,Yes,Effort Capsule,LBL-75498,Side Capsule,CT-8742-ECD,CT-8742-ECD
+MAT-58634,Pending,Available,LY435267,2025-09-22,Impact Patch,BOM-44069,Regular,2024-09-03,2024-11-22,No,Offer Tablet,LBL-21591,Impact Patch,CT-7047-GQC,CT-7047-GQC
+MAT-18097,Pending,In Design,LY165302,2024-08-11,Enter Capsule,BOM-21859,Regular,2024-05-13,2025-05-07,No,Reduce Solution,LBL-43209,Enter Capsule,CT-7047-GQC,CT-7047-GQC
+MAT-92337,Active,Available,LY280298,2024-07-25,Beyond Solution,BOM-74379,Regular,2024-07-15,2025-03-28,No,Sense Tablet,LBL-92035,Beyond Solution,CT-7047-GQC,CT-7047-GQC
+MAT-37872,Inactive,Available,LY318190,2025-09-17,Effort Capsule,BOM-25178,Regular,2024-10-12,2025-04-02,No,Something Patch,LBL-42089,Effort Capsule,CT-1816-RCG,CT-1816-RCG
+MAT-55297,Inactive,Available,LY536385,2024-11-22,New Solution,BOM-49015,Regular,2024-02-16,2025-01-08,No,Impact Patch,LBL-37410,New Solution,CT-1816-RCG,CT-1816-RCG
+MAT-14039,Active,In Design,LY289295,2024-10-25,Should Tablet,BOM-98341,Regular,2024-07-08,2025-03-17,No,Expect Tablet,LBL-88511,Should Tablet,CT-6109-EDZ,CT-6109-EDZ
+MAT-86168,Pending,Available,LY398781,2024-10-30,Run Solution,BOM-66075,Regular,2024-08-17,2024-11-27,No,Cold Injection,LBL-62592,Run Solution,CT-6109-EDZ,CT-6109-EDZ
+MAT-16627,Active,Available,LY945032,2024-11-26,Receive Patch,BOM-12517,Alternate,2024-04-10,2025-01-13,No,Free Solution,LBL-37128,Receive Patch,CT-9831-IEW,CT-9831-IEW
+MAT-33775,Inactive,In Design,LY814687,2025-03-19,Something Patch,BOM-66223,Alternate,2023-12-02,2024-11-15,No,Continue Capsule,LBL-87234,Something Patch,CT-9831-IEW,CT-9831-IEW
+MAT-16078,Inactive,In Design,LY677542,2025-08-04,Stock Patch,BOM-95518,Regular,2023-11-30,2025-02-21,No,That Solution,LBL-96092,Stock Patch,CT-9831-IEW,CT-9831-IEW
+MAT-49651,Active,In Design,LY731015,2023-12-21,High Injection,BOM-90350,Alternate,2024-04-23,2025-05-06,No,Myself Capsule,LBL-42262,High Injection,CT-9831-IEW,CT-9831-IEW
+MAT-34899,Inactive,Available,LY614157,2024-05-22,Continue Capsule,BOM-51436,Regular,2024-08-07,2025-02-11,No,Great Patch,LBL-88551,Continue Capsule,CT-3395-UCM,CT-3395-UCM
+MAT-40706,Inactive,In Design,LY866171,2024-10-23,Keep Capsule,BOM-23219,Alternate,2024-02-28,2024-11-13,No,Range Solution,LBL-20831,Keep Capsule,CT-3395-UCM,CT-3395-UCM
+MAT-82814,Pending,In Design,LY536600,2025-07-29,Reduce Solution,BOM-84442,Alternate,2024-04-23,2024-12-25,No,Reduce Solution,LBL-14541,Reduce Solution,CT-3395-UCM,CT-3395-UCM
+MAT-40089,Active,Available,LY699618,2024-09-26,Pull Patch,BOM-47527,Alternate,2023-12-26,2025-01-06,Yes,Article Tablet,LBL-41276,Pull Patch,CT-4229-AWU,CT-4229-AWU
+MAT-47986,Active,In Design,LY540439,2025-01-20,Experience Tablet,BOM-84249,Regular,2024-08-02,2025-03-02,Yes,Anyone Tablet,LBL-70491,Experience Tablet,CT-4229-AWU,CT-4229-AWU
+MAT-30745,Inactive,In Design,LY375088,2024-10-13,Indicate Patch,BOM-24584,Alternate,2024-07-16,2025-03-19,No,Commercial Tablet,LBL-15009,Indicate Patch,CT-4229-AWU,CT-4229-AWU
+MAT-22354,Active,Available,LY261388,2025-02-26,Light Tablet,BOM-70685,Regular,2024-09-06,2025-01-17,No,Indicate Patch,LBL-41806,Light Tablet,CT-4229-AWU,CT-4229-AWU
+MAT-22610,Pending,In Design,LY726849,2025-04-24,Us Solution,BOM-92938,Regular,2024-08-12,2024-11-21,No,Free Solution,LBL-64541,Us Solution,CT-9771-CZL,CT-9771-CZL
+MAT-93544,Active,Available,LY210700,2023-12-17,Player Solution,BOM-35658,Alternate,2024-01-28,2024-12-02,No,Help Solution,LBL-60587,Player Solution,CT-9771-CZL,CT-9771-CZL
+MAT-39627,Inactive,Available,LY825862,2025-02-12,Fund Tablet,BOM-20181,Regular,2024-05-10,2025-04-19,Yes,Figure Capsule,LBL-82651,Fund Tablet,CT-5014-EEP,CT-5014-EEP
+MAT-53554,Inactive,In Design,LY505803,2025-09-09,They Capsule,BOM-67646,Alternate,2024-01-22,2025-05-07,No,Free Solution,LBL-14824,They Capsule,CT-5014-EEP,CT-5014-EEP
+MAT-46171,Inactive,Available,LY930222,2024-06-01,Though Solution,BOM-20887,Alternate,2024-08-17,2025-03-22,Yes,Compare Tablet,LBL-60437,Though Solution,CT-3636-AVP,CT-3636-AVP
+MAT-54383,Active,In Design,LY775394,2024-08-28,Agency Injection,BOM-38864,Regular,2023-12-04,2025-03-13,No,Age Tablet,LBL-79209,Agency Injection,CT-3636-AVP,CT-3636-AVP
+MAT-66257,Inactive,Available,LY802885,2024-05-15,Hundred Solution,BOM-15581,Regular,2024-03-15,2025-03-10,No,Stock Patch,LBL-65260,Hundred Solution,CT-7484-BIH,CT-7484-BIH
+MAT-66374,Pending,Available,LY200783,2024-08-18,Oil Tablet,BOM-64207,Alternate,2024-10-19,2025-03-18,Yes,Pull Patch,LBL-12159,Oil Tablet,CT-7484-BIH,CT-7484-BIH
+MAT-74247,Pending,In Design,LY218362,2025-02-08,Great Patch,BOM-96656,Regular,2024-06-28,2025-03-13,Yes,Impact Patch,LBL-21579,Great Patch,CT-7484-BIH,CT-7484-BIH
+MAT-18458,Active,In Design,LY471901,2025-02-01,Reason Tablet,BOM-83456,Alternate,2024-02-28,2025-02-04,No,Compare Tablet,LBL-33516,Reason Tablet,CT-7487-KNX,CT-7487-KNX
+MAT-56157,Active,Available,LY771149,2024-07-21,Contain Solution,BOM-23849,Alternate,2024-09-03,2025-04-12,Yes,Commercial Tablet,LBL-12519,Contain Solution,CT-7487-KNX,CT-7487-KNX
+MAT-59372,Inactive,In Design,LY807753,2024-10-28,Issue Patch,BOM-69249,Alternate,2024-04-15,2025-01-23,No,Impact Patch,LBL-47459,Issue Patch,CT-7487-KNX,CT-7487-KNX
+MAT-73628,Active,In Design,LY477444,2024-03-27,Health Solution,BOM-20862,Alternate,2024-01-11,2025-05-15,Yes,Positive Injection,LBL-85108,Health Solution,CT-3230-HFO,CT-3230-HFO
+MAT-68176,Pending,In Design,LY485180,2024-06-06,Treat Tablet,BOM-63241,Alternate,2024-08-23,2025-01-20,No,Run Solution,LBL-65023,Treat Tablet,CT-3230-HFO,CT-3230-HFO
+MAT-54713,Active,Available,LY188810,2024-02-13,Free Solution,BOM-23303,Regular,2024-02-11,2025-01-14,Yes,Experience Tablet,LBL-10970,Free Solution,CT-3230-HFO,CT-3230-HFO
+MAT-75647,Active,Available,LY660352,2025-06-17,Member Solution,BOM-48407,Regular,2024-07-28,2025-01-29,Yes,Us Solution,LBL-86755,Member Solution,CT-6551-IBW,CT-6551-IBW
+MAT-79992,Inactive,In Design,LY173643,2024-02-23,Anyone Tablet,BOM-14508,Regular,2024-02-23,2025-01-28,Yes,Cold Injection,LBL-85546,Anyone Tablet,CT-6551-IBW,CT-6551-IBW
+MAT-52579,Pending,In Design,LY730529,2024-05-23,Cell Tablet,BOM-22283,Regular,2024-01-13,2024-12-24,Yes,Should Tablet,LBL-61361,Cell Tablet,CT-6551-IBW,CT-6551-IBW
+MAT-22152,Inactive,In Design,LY441147,2024-05-25,Culture Solution,BOM-50881,Alternate,2024-04-18,2025-01-05,No,Age Tablet,LBL-71146,Culture Solution,CT-3472-PNG,CT-3472-PNG
+MAT-45907,Pending,Available,LY215347,2024-10-14,Speech Patch,BOM-48180,Regular,2023-12-06,2025-02-17,Yes,Reason Tablet,LBL-28987,Speech Patch,CT-3472-PNG,CT-3472-PNG
+MAT-84153,Pending,Available,LY964854,2025-09-14,Floor Patch,BOM-60930,Regular,2024-04-25,2025-01-02,No,Traditional Patch,LBL-55316,Floor Patch,CT-3472-PNG,CT-3472-PNG
+MAT-31615,Active,In Design,LY206635,2023-12-11,Trouble Capsule,BOM-69073,Alternate,2024-05-23,2025-01-24,No,Toward Injection,LBL-84265,Trouble Capsule,CT-9781-BYC,CT-9781-BYC
+MAT-98864,Inactive,Available,LY952746,2025-01-18,Positive Injection,BOM-43531,Regular,2024-03-25,2025-04-12,No,Indicate Patch,LBL-73243,Positive Injection,CT-9781-BYC,CT-9781-BYC
+MAT-59079,Active,Available,LY586231,2024-05-26,That Solution,BOM-72919,Regular,2024-02-04,2024-11-16,No,Able Patch,LBL-59853,That Solution,CT-9781-BYC,CT-9781-BYC
+MAT-96156,Active,In Design,LY503764,2024-05-11,Compare Tablet,BOM-17828,Alternate,2024-02-03,2025-03-12,No,Player Solution,LBL-99364,Compare Tablet,CT-9781-BYC,CT-9781-BYC

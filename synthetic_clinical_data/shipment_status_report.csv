@@ -1,0 +1,213 @@
+Status,Shipment,LPN#,LPN Status,Package Count,Type,Request Date,Date Accepted,Accepted By,Affiliate/Warehouse,Site,Investigator
+Ready,SHP-5135391,LPN7406233443,Quarantined,1,Depot,2025-02-09,2025-01-30,Dennis Gonzales,Coreyshire Logistics Center,Lake Evanmouth Medical Center,Dennis Gonzales
+Delivered,SHP-4406609,LPN1031138801,Dispensed,4,Depot,2025-06-09,2025-06-07,Anna Rich,Coreyshire Logistics Center,Port Johnmouth Medical Center,Anna Rich
+Ready,SHP-1101725,LPN9875947375,Available,3,Depot,2025-10-23,2025-10-16,Bailey Farmer,Coreyshire Logistics Center,Lake Laurastad Medical Center,Bailey Farmer
+Planning,SHP-9522024,LPN9005060665,Available,8,Return,2025-06-28,2025-06-15,Mary Brewer,Coreyshire Logistics Center,Woodwardfort Medical Center,Mary Brewer
+Ready,SHP-3399778,LPN1347772092,Dispensed,2,Depot,2025-07-10,2025-07-08,Janet Robertson,Coreyshire Logistics Center,Roblestown Medical Center,Janet Robertson
+Delayed,SHP-1655532,LPN8895434343,Quarantined,8,Site,2024-12-31,2024-12-27,Walter Clark,Coreyshire Logistics Center,Hillberg Medical Center,Walter Clark
+Shipped,SHP-3362400,LPN8676514704,Damaged,8,Site,2024-12-28,2024-12-19,Mr. Bryan Guerra,Coreyshire Logistics Center,Jacksonport Medical Center,Mr. Bryan Guerra
+Delivered,SHP-9156012,LPN9719173999,Damaged,1,Depot,2025-02-06,2025-02-18,David Rogers,Coreyshire Logistics Center,East Stephanie Medical Center,David Rogers
+Shipped,SHP-6930743,LPN2148695270,Quarantined,8,Depot,2025-04-06,2025-03-28,Krista Barry,Coreyshire Logistics Center,East Edward Medical Center,Krista Barry
+Planning,SHP-4532141,LPN6624945096,Dispensed,1,Depot,2025-11-20,2025-11-07,Andrea Ross,Coreyshire Logistics Center,Martinezfurt Medical Center,Andrea Ross
+Shipped,SHP-5726378,LPN7097146795,Damaged,9,Depot,2025-05-13,2025-05-09,Harry Walker,Coreyshire Logistics Center,Melanieview Medical Center,Harry Walker
+Planning,SHP-5706263,LPN6683296771,Quarantined,2,Site,2025-03-04,2025-03-10,Rachel Orr,Coreyshire Logistics Center,Davidberg Medical Center,Rachel Orr
+Ready,SHP-1383778,LPN1190613462,Dispensed,2,Return,2024-12-06,2024-12-03,Sherry Murphy,Coreyshire Logistics Center,New Joseph Medical Center,Sherry Murphy
+Shipped,SHP-9913936,LPN8263792639,Available,2,Depot,2025-09-27,2025-09-24,Amanda Martin,Coreyshire Logistics Center,Smithberg Medical Center,Amanda Martin
+Shipped,SHP-9427886,LPN2134878257,Available,4,Return,2025-11-13,2025-10-27,Melanie Carter,Coreyshire Logistics Center,Nathanbury Medical Center,Melanie Carter
+Ready,SHP-4550235,LPN7029823307,Damaged,6,Site,2025-10-16,2025-10-18,Ashley Lopez,Coreyshire Logistics Center,South Emily Medical Center,Ashley Lopez
+Delayed,SHP-4686133,LPN5921491775,Dispensed,10,Return,2025-04-23,2025-04-28,Amanda Robertson,Coreyshire Logistics Center,Lake Natalie Medical Center,Amanda Robertson
+Shipped,SHP-1985274,LPN2720648918,Dispensed,9,Return,2025-03-24,2025-03-13,Dr. Joseph Maldonado,Coreyshire Logistics Center,West Debra Medical Center,Dr. Joseph Maldonado
+Ready,SHP-9962121,LPN9608550091,Damaged,3,Return,2025-01-18,2025-01-04,Hannah Thompson,Coreyshire Logistics Center,South Samantha Medical Center,Hannah Thompson
+Shipped,SHP-8423123,LPN1349958312,Damaged,6,Depot,2025-05-02,2025-04-22,Julie Martin,Coreyshire Logistics Center,Shelbyport Medical Center,Julie Martin
+Delivered,SHP-2337305,LPN2147772371,Dispensed,1,Depot,2025-10-09,2025-10-02,Jenny Hill,Coreyshire Logistics Center,Brooksburgh Medical Center,Jenny Hill
+Planning,SHP-6613144,LPN6567099493,Quarantined,1,Return,2025-04-05,2025-03-20,Dana Goodman,Coreyshire Logistics Center,Weststad Medical Center,Dana Goodman
+Delayed,SHP-3166907,LPN9487941696,Quarantined,2,Depot,2024-12-27,2025-01-04,Brian Walls,Coreyshire Logistics Center,North Crystal Medical Center,Brian Walls
+Delivered,SHP-1448765,LPN2748853209,Quarantined,4,Return,2025-11-02,2025-10-30,Jesse Guzman,Coreyshire Logistics Center,Ramirezside Medical Center,Jesse Guzman
+Delivered,SHP-3234666,LPN8737991023,Available,10,Depot,2025-03-30,2025-04-07,Kimberly Richards,Coreyshire Logistics Center,Robertbury Medical Center,Kimberly Richards
+Delayed,SHP-9095184,LPN2487651682,Damaged,3,Site,2025-04-22,2025-04-13,Jorge Pena,Coreyshire Logistics Center,North Jamie Medical Center,Jorge Pena
+Planning,SHP-1139059,LPN6239054838,Dispensed,4,Depot,2025-01-07,2024-12-24,Melanie Carter,Coreyshire Logistics Center,Nathanbury Medical Center,Melanie Carter
+Shipped,SHP-6070348,LPN1259608724,Available,3,Depot,2025-02-16,2025-02-07,Brandon Randolph,Coreyshire Logistics Center,Dianetown Medical Center,Brandon Randolph
+Planning,SHP-5814817,LPN5721353412,Available,1,Site,2025-07-24,2025-07-14,Melissa Morris,Coreyshire Logistics Center,North Kimberly Medical Center,Melissa Morris
+Delayed,SHP-9126617,LPN1908238935,Available,4,Return,2025-07-07,2025-07-14,Marvin Alexander,Coreyshire Logistics Center,West Reneestad Medical Center,Marvin Alexander
+Delivered,SHP-9372351,LPN7282396965,Damaged,2,Return,2025-05-26,2025-05-27,Megan Smith,Coreyshire Logistics Center,Matthewside Medical Center,Megan Smith
+Planning,SHP-7422709,LPN4067457276,Quarantined,3,Site,2025-11-27,2025-11-21,Alyssa Guerrero,Coreyshire Logistics Center,Nolanton Medical Center,Alyssa Guerrero
+Delivered,SHP-7709722,LPN9091270731,Dispensed,5,Return,2025-09-04,2025-08-22,Erica Mora,Coreyshire Logistics Center,Lake Kevinchester Medical Center,Erica Mora
+Delivered,SHP-2200226,LPN9108216271,Damaged,6,Site,2025-05-24,2025-06-02,Katherine Reid,Coreyshire Logistics Center,Lake Jefferyton Medical Center,Katherine Reid
+Delivered,SHP-2647211,LPN4473852572,Damaged,5,Return,2025-07-29,2025-08-02,Melissa Morris,Coreyshire Logistics Center,North Kimberly Medical Center,Melissa Morris
+Shipped,SHP-4974531,LPN6028155994,Damaged,4,Return,2025-04-16,2025-04-04,Sherry Murphy,Coreyshire Logistics Center,New Joseph Medical Center,Sherry Murphy
+Delayed,SHP-1424048,LPN5509750674,Quarantined,3,Depot,2025-01-03,2025-01-12,Melissa Morris,Coreyshire Logistics Center,North Kimberly Medical Center,Melissa Morris
+Ready,SHP-8539282,LPN7657927218,Available,2,Depot,2025-01-11,2024-12-28,Kelly Nguyen,Coreyshire Logistics Center,Williamburgh Medical Center,Kelly Nguyen
+Delivered,SHP-2731324,LPN4999535236,Quarantined,7,Depot,2025-03-31,2025-04-02,Kyle Schmidt,Coreyshire Logistics Center,Cherylborough Medical Center,Kyle Schmidt
+Ready,SHP-7410956,LPN5585125808,Dispensed,2,Return,2025-02-25,2025-02-23,Meagan Johnson,Coreyshire Logistics Center,Smithfort Medical Center,Meagan Johnson
+Delivered,SHP-6178752,LPN6927765634,Available,5,Depot,2025-06-14,2025-06-03,Jorge Pena,Coreyshire Logistics Center,North Jamie Medical Center,Jorge Pena
+Ready,SHP-8391293,LPN1598366079,Quarantined,10,Return,2024-12-13,2024-12-15,Deborah Lopez,Coreyshire Logistics Center,East Alexander Medical Center,Deborah Lopez
+Shipped,SHP-2518445,LPN4656760215,Quarantined,10,Site,2025-09-02,2025-09-07,Dana Goodman,Coreyshire Logistics Center,Weststad Medical Center,Dana Goodman
+Shipped,SHP-3311517,LPN4266053093,Available,5,Site,2025-08-08,2025-07-30,Ryan Brown,Coreyshire Logistics Center,Newtonland Medical Center,Ryan Brown
+Ready,SHP-7409824,LPN2374252821,Available,5,Return,2025-08-10,2025-08-03,Walter Clark,Coreyshire Logistics Center,Hillberg Medical Center,Walter Clark
+Shipped,SHP-8897413,LPN9055733948,Quarantined,2,Site,2025-10-15,2025-10-11,Jose Wood,Coreyshire Logistics Center,North Heidi Medical Center,Jose Wood
+Ready,SHP-9316999,LPN9354462207,Dispensed,7,Site,2025-07-28,2025-07-12,Thomas Morales,Coreyshire Logistics Center,South Jasonmouth Medical Center,Thomas Morales
+Delivered,SHP-7678701,LPN9708881499,Dispensed,10,Site,2025-04-15,2025-04-06,Heather Lewis,Coreyshire Logistics Center,Port Malik Medical Center,Heather Lewis
+Delivered,SHP-9884087,LPN7935879064,Dispensed,10,Site,2025-04-18,2025-04-20,Belinda Gibson,Coreyshire Logistics Center,Elizabethland Medical Center,Belinda Gibson
+Planning,SHP-1818026,LPN6485426944,Quarantined,2,Site,2025-10-24,2025-11-03,Krista Barry,Coreyshire Logistics Center,East Edward Medical Center,Krista Barry
+Delivered,SHP-4597511,LPN6036951595,Available,7,Return,2025-01-29,2025-01-20,April Rivera,Coreyshire Logistics Center,South Kenneth Medical Center,April Rivera
+Delayed,SHP-4198052,LPN9229517715,Available,3,Return,2025-07-23,2025-07-26,Alexander Cox,Coreyshire Logistics Center,Lake Tiffanyport Medical Center,Alexander Cox
+Delivered,SHP-2021385,LPN4535566174,Available,10,Return,2025-03-20,2025-03-07,Darius Smith,Coreyshire Logistics Center,Reyesfort Medical Center,Darius Smith
+Ready,SHP-1173416,LPN1750603904,Available,5,Site,2025-08-16,2025-08-16,Renee Escobar,Coreyshire Logistics Center,Mollyland Medical Center,Renee Escobar
+Planning,SHP-8357432,LPN3497593078,Available,2,Site,2024-12-24,2024-12-18,Brandy Poole,Coreyshire Logistics Center,Lake John Medical Center,Brandy Poole
+Ready,SHP-3999145,LPN8062045537,Available,9,Site,2025-03-23,2025-03-17,Cameron Harris,Coreyshire Logistics Center,Lake Summerville Medical Center,Cameron Harris
+Shipped,SHP-3513035,LPN6307084179,Damaged,5,Site,2025-08-11,2025-07-31,Sean Ayala,Coreyshire Logistics Center,North Sharon Medical Center,Sean Ayala
+Ready,SHP-4684417,LPN5994524761,Dispensed,8,Site,2025-10-26,2025-10-28,Melanie Carter,Coreyshire Logistics Center,Nathanbury Medical Center,Melanie Carter
+Delayed,SHP-8809291,LPN5384097826,Dispensed,6,Depot,2025-07-11,2025-07-07,Deborah Lopez,Coreyshire Logistics Center,East Alexander Medical Center,Deborah Lopez
+Ready,SHP-7891140,LPN9853733790,Quarantined,6,Site,2025-08-12,2025-08-09,Amanda Martin,Coreyshire Logistics Center,Smithberg Medical Center,Amanda Martin
+Planning,SHP-7104027,LPN3077588660,Quarantined,6,Depot,2025-08-22,2025-08-14,Daniel Nichols,Coreyshire Logistics Center,North Kerryberg Medical Center,Daniel Nichols
+Planning,SHP-8152634,LPN7493981488,Available,10,Return,2025-02-05,2025-02-07,Sherry Long,Coreyshire Logistics Center,North Laurenview Medical Center,Sherry Long
+Shipped,SHP-2013058,LPN4273572117,Quarantined,4,Return,2025-02-07,2025-02-03,John Moore,Coreyshire Logistics Center,Chavezview Medical Center,John Moore
+Delivered,SHP-5957342,LPN3426745746,Damaged,10,Depot,2025-10-03,2025-09-26,Mr. Bryan Guerra,Coreyshire Logistics Center,Jacksonport Medical Center,Mr. Bryan Guerra
+Shipped,SHP-6962345,LPN8424170890,Quarantined,7,Return,2025-04-14,2025-04-12,Erica Mora,Coreyshire Logistics Center,Lake Kevinchester Medical Center,Erica Mora
+Delivered,SHP-3184055,LPN6812800393,Quarantined,10,Depot,2024-12-16,2024-12-26,Tabitha Walker,Coreyshire Logistics Center,Victorville Medical Center,Tabitha Walker
+Ready,SHP-6639592,LPN5145610936,Dispensed,1,Return,2025-01-04,2024-12-24,Andrea Ford,Coreyshire Logistics Center,North Ann Medical Center,Andrea Ford
+Planning,SHP-2918080,LPN1063276013,Quarantined,8,Site,2025-02-14,2025-02-06,Jessica Gutierrez,Coreyshire Logistics Center,Leeberg Medical Center,Jessica Gutierrez
+Delayed,SHP-2932019,LPN5930741214,Damaged,6,Depot,2025-04-03,2025-04-03,Sherry Murphy,Coreyshire Logistics Center,New Joseph Medical Center,Sherry Murphy
+Ready,SHP-3320672,LPN2417053178,Damaged,8,Depot,2025-07-19,2025-07-19,Jacob Brown,Coreyshire Logistics Center,Randolphfurt Medical Center,Jacob Brown
+Ready,SHP-7173653,LPN9622703703,Available,10,Depot,2024-12-16,2024-12-10,Catherine Miller,Coreyshire Logistics Center,Brittanyshire Medical Center,Catherine Miller
+Delivered,SHP-5862532,LPN8365506289,Dispensed,7,Site,2025-08-13,2025-08-18,Darius Smith,Coreyshire Logistics Center,Reyesfort Medical Center,Darius Smith
+Shipped,SHP-7088934,LPN2215694829,Dispensed,4,Return,2025-06-01,2025-06-08,Brandon Randolph,Coreyshire Logistics Center,Dianetown Medical Center,Brandon Randolph
+Planning,SHP-8874819,LPN5236012509,Available,8,Site,2025-05-11,2025-05-09,Eric Garner,Coreyshire Logistics Center,Jessicaville Medical Center,Eric Garner
+Ready,SHP-7221906,LPN6122075980,Quarantined,6,Depot,2025-09-29,2025-10-08,Steven Robinson,Coreyshire Logistics Center,Carrieland Medical Center,Steven Robinson
+Delayed,SHP-2554931,LPN9730589219,Available,4,Return,2025-10-28,2025-10-20,Kelly Nguyen,Coreyshire Logistics Center,Williamburgh Medical Center,Kelly Nguyen
+Delivered,SHP-3264670,LPN6321006078,Dispensed,3,Site,2025-09-04,2025-09-15,Holly Rich,Coreyshire Logistics Center,Rhondashire Medical Center,Holly Rich
+Delayed,SHP-3767097,LPN7747222782,Quarantined,9,Site,2024-12-16,2024-12-06,Melissa Morris,Coreyshire Logistics Center,North Kimberly Medical Center,Melissa Morris
+Delivered,SHP-6058224,LPN4574888145,Available,9,Depot,2025-05-21,2025-05-29,Ryan Brown,Coreyshire Logistics Center,Newtonland Medical Center,Ryan Brown
+Shipped,SHP-7614745,LPN1750569426,Damaged,5,Return,2025-03-17,2025-03-16,Tabitha Aguilar,Coreyshire Logistics Center,Patricialand Medical Center,Tabitha Aguilar
+Delivered,SHP-9300578,LPN3140692506,Quarantined,2,Depot,2024-12-16,2024-12-06,Wendy Boyd,Coreyshire Logistics Center,Mcleanport Medical Center,Wendy Boyd
+Delayed,SHP-2452314,LPN5931290514,Damaged,8,Site,2025-11-15,2025-11-01,Linda Grimes,Coreyshire Logistics Center,Scottfort Medical Center,Linda Grimes
+Delivered,SHP-3338828,LPN1196700438,Damaged,3,Return,2025-07-06,2025-06-22,Tabitha Aguilar,Coreyshire Logistics Center,Patricialand Medical Center,Tabitha Aguilar
+Shipped,SHP-9984622,LPN3525496615,Dispensed,4,Return,2025-07-17,2025-07-09,Stacy Murray,Coreyshire Logistics Center,Hammondberg Medical Center,Stacy Murray
+Planning,SHP-3236059,LPN7557641388,Damaged,9,Depot,2025-10-16,2025-10-18,Allen Mayer,Coreyshire Logistics Center,Lake Theresabury Medical Center,Allen Mayer
+Planning,SHP-3124947,LPN8509003512,Quarantined,2,Depot,2025-07-14,2025-07-15,Tabitha Aguilar,Coreyshire Logistics Center,Patricialand Medical Center,Tabitha Aguilar
+Delayed,SHP-2397689,LPN1683209464,Quarantined,1,Return,2025-07-31,2025-07-23,Deanna Miller,Coreyshire Logistics Center,Thompsontown Medical Center,Deanna Miller
+Shipped,SHP-9656432,LPN7611880440,Available,7,Depot,2025-06-01,2025-05-18,Michael Parker,Coreyshire Logistics Center,New Paul Medical Center,Michael Parker
+Ready,SHP-1943757,LPN2996304347,Quarantined,6,Site,2025-04-28,2025-04-16,Ruben Moore,Coreyshire Logistics Center,Joshuafurt Medical Center,Ruben Moore
+Shipped,SHP-9601503,LPN5244850266,Damaged,6,Return,2025-11-11,2025-10-25,Dr. Joseph Maldonado,Coreyshire Logistics Center,West Debra Medical Center,Dr. Joseph Maldonado
+Shipped,SHP-7282264,LPN1245186126,Quarantined,9,Return,2025-04-09,2025-03-27,Ralph Cabrera,Coreyshire Logistics Center,Christinabury Medical Center,Ralph Cabrera
+Shipped,SHP-8095970,LPN1473417295,Damaged,5,Return,2025-04-30,2025-04-13,Joanne Taylor,Coreyshire Logistics Center,Lake Autumnfurt Medical Center,Joanne Taylor
+Planning,SHP-7676278,LPN9693800865,Damaged,6,Return,2025-08-19,2025-08-19,Lisa Mcdonald,Coreyshire Logistics Center,Perryfurt Medical Center,Lisa Mcdonald
+Ready,SHP-8877056,LPN1604540630,Damaged,1,Site,2025-07-31,2025-07-12,Stacy Murray,Coreyshire Logistics Center,Hammondberg Medical Center,Stacy Murray
+Delivered,SHP-9144895,LPN9709990255,Dispensed,6,Return,2025-08-03,2025-07-25,Lisa Herman,Coreyshire Logistics Center,Port Teresastad Medical Center,Lisa Herman
+Ready,SHP-3079354,LPN1167339087,Damaged,9,Depot,2025-02-02,2025-01-25,Rodney Ortiz,Coreyshire Logistics Center,Curtisstad Medical Center,Rodney Ortiz
+Shipped,SHP-4280289,LPN9649391465,Available,4,Depot,2025-04-11,2025-03-26,Willie Moore,Coreyshire Logistics Center,Alexisfurt Medical Center,Willie Moore
+Delivered,SHP-3822991,LPN3618226580,Dispensed,2,Return,2025-01-23,2025-02-07,Dakota Cook,Coreyshire Logistics Center,South Briannaport Medical Center,Dakota Cook
+Delivered,SHP-7216176,LPN7094527814,Quarantined,1,Return,2025-01-02,2024-12-23,Samuel Reeves,Coreyshire Logistics Center,Loganchester Medical Center,Samuel Reeves
+Delivered,SHP-2490039,LPN5025605662,Available,7,Depot,2024-12-31,2025-01-03,Meagan Johnson,Coreyshire Logistics Center,Smithfort Medical Center,Meagan Johnson
+Delayed,SHP-7548457,LPN3566788813,Available,10,Depot,2025-10-23,2025-10-19,Jerry Drake,Coreyshire Logistics Center,North Danielhaven Medical Center,Jerry Drake
+Delayed,SHP-6240958,LPN7059746885,Dispensed,3,Site,2024-12-12,2024-12-13,Dale Warren,Coreyshire Logistics Center,Garciashire Medical Center,Dale Warren
+Planning,SHP-7592001,LPN6835670029,Damaged,9,Return,2025-03-03,2025-03-04,Heather Lewis,Coreyshire Logistics Center,Port Malik Medical Center,Heather Lewis
+Planning,SHP-3019101,LPN5027619527,Damaged,2,Depot,2025-07-04,2025-06-22,Laura Sanders,Coreyshire Logistics Center,Wilkinsfurt Medical Center,Laura Sanders
+Ready,SHP-7013758,LPN1878368026,Damaged,3,Depot,2025-08-10,2025-08-18,Alexander Cook,Coreyshire Logistics Center,South Bonnie Medical Center,Alexander Cook
+Delayed,SHP-9281985,LPN1749018962,Quarantined,7,Depot,2025-01-31,2025-02-08,Rodney Ortiz,Coreyshire Logistics Center,Curtisstad Medical Center,Rodney Ortiz
+Delayed,SHP-8002484,LPN1367434959,Damaged,8,Depot,2025-05-25,2025-05-23,Darius Smith,Coreyshire Logistics Center,Reyesfort Medical Center,Darius Smith
+Planning,SHP-4783131,LPN2142516257,Quarantined,6,Depot,2025-05-01,2025-05-03,Kenneth Thomas,Coreyshire Logistics Center,North Christian Medical Center,Kenneth Thomas
+Delayed,SHP-5334407,LPN4814120009,Available,4,Return,2025-07-06,2025-06-26,Luke Shelton,Coreyshire Logistics Center,Port David Medical Center,Luke Shelton
+Planning,SHP-9193984,LPN1298421344,Dispensed,10,Site,2025-08-11,2025-08-10,Michael Anderson,Coreyshire Logistics Center,Kathyshire Medical Center,Michael Anderson
+Delivered,SHP-8483360,LPN4276574287,Available,1,Site,2024-12-24,2024-12-11,Andrea Ross,Coreyshire Logistics Center,Martinezfurt Medical Center,Andrea Ross
+Delivered,SHP-3927575,LPN2059507167,Damaged,8,Depot,2025-07-12,2025-06-27,Kimberly Bowman,Coreyshire Logistics Center,Carolfort Medical Center,Kimberly Bowman
+Planning,SHP-6275384,LPN9556807804,Dispensed,2,Site,2025-06-14,2025-06-16,Nathan Fitzgerald,Coreyshire Logistics Center,Lake Charles Medical Center,Nathan Fitzgerald
+Planning,SHP-5503169,LPN1331509642,Available,6,Depot,2025-04-20,2025-04-22,Jacob Sullivan,Coreyshire Logistics Center,West Kirkview Medical Center,Jacob Sullivan
+Planning,SHP-7905438,LPN5142458998,Dispensed,2,Depot,2025-02-18,2025-02-28,Brandy Poole,Coreyshire Logistics Center,Lake John Medical Center,Brandy Poole
+Planning,SHP-2896990,LPN8769045920,Quarantined,1,Site,2025-03-03,2025-02-15,Katherine Reid,Coreyshire Logistics Center,Lake Jefferyton Medical Center,Katherine Reid
+Planning,SHP-7283210,LPN2082106614,Available,4,Site,2025-08-24,2025-08-14,Rachel Orr,Coreyshire Logistics Center,Davidberg Medical Center,Rachel Orr
+Delivered,SHP-5156045,LPN8023308887,Available,10,Depot,2025-10-22,2025-10-10,Alicia Callahan,Coreyshire Logistics Center,North Davidfort Medical Center,Alicia Callahan
+Delivered,SHP-7637578,LPN7097709611,Available,8,Depot,2025-05-28,2025-05-21,Megan Hicks,Coreyshire Logistics Center,East Mitchellhaven Medical Center,Megan Hicks
+Shipped,SHP-4715873,LPN2111067028,Available,6,Return,2025-06-09,2025-05-24,Thomas Adams,Coreyshire Logistics Center,Carterville Medical Center,Thomas Adams
+Ready,SHP-6879309,LPN6588657982,Available,7,Return,2025-04-11,2025-04-05,Renee Escobar,Coreyshire Logistics Center,Mollyland Medical Center,Renee Escobar
+Planning,SHP-7475705,LPN5975939580,Damaged,7,Site,2025-07-17,2025-07-06,David Atkinson,Coreyshire Logistics Center,Manuelview Medical Center,David Atkinson
+Delivered,SHP-1625415,LPN9686439781,Quarantined,7,Return,2025-03-10,2025-03-06,Mr. Bryan Guerra,Coreyshire Logistics Center,Jacksonport Medical Center,Mr. Bryan Guerra
+Shipped,SHP-2558002,LPN5496358536,Quarantined,7,Site,2025-02-13,2025-02-10,Sean Ayala,Coreyshire Logistics Center,North Sharon Medical Center,Sean Ayala
+Delayed,SHP-5887112,LPN4409397864,Damaged,1,Depot,2025-04-14,2025-04-12,Kelly Nguyen,Coreyshire Logistics Center,Williamburgh Medical Center,Kelly Nguyen
+Ready,SHP-1924964,LPN8604516703,Quarantined,4,Return,2025-02-07,2025-02-09,Melanie Carter,Coreyshire Logistics Center,Nathanbury Medical Center,Melanie Carter
+Ready,SHP-2176195,LPN7758314638,Damaged,6,Return,2025-01-19,2025-01-20,Samantha Spence,Coreyshire Logistics Center,Mercadoburgh Medical Center,Samantha Spence
+Delayed,SHP-6373914,LPN6438471160,Available,10,Return,2025-08-20,2025-08-06,Willie Moore,Coreyshire Logistics Center,Alexisfurt Medical Center,Willie Moore
+Ready,SHP-6434087,LPN3803527699,Damaged,10,Depot,2025-10-30,2025-10-26,Lisa Mcdonald,Coreyshire Logistics Center,Perryfurt Medical Center,Lisa Mcdonald
+Planning,SHP-6648513,LPN4705336925,Dispensed,6,Depot,2025-08-19,2025-08-07,Dakota Cook,Coreyshire Logistics Center,South Briannaport Medical Center,Dakota Cook
+Delivered,SHP-1866491,LPN9243561762,Dispensed,9,Return,2025-07-08,2025-06-26,Luke Shelton,Coreyshire Logistics Center,Port David Medical Center,Luke Shelton
+Ready,SHP-3573815,LPN5336054555,Available,7,Depot,2025-01-08,2025-01-04,Melanie Carter,Coreyshire Logistics Center,Nathanbury Medical Center,Melanie Carter
+Delayed,SHP-5461189,LPN3224041823,Dispensed,4,Site,2025-01-14,2025-01-17,Michael Anderson,Coreyshire Logistics Center,Kathyshire Medical Center,Michael Anderson
+Shipped,SHP-5004045,LPN3502277518,Dispensed,9,Site,2024-12-15,2024-12-18,Michael Anderson,Coreyshire Logistics Center,Kathyshire Medical Center,Michael Anderson
+Shipped,SHP-4057072,LPN1240743479,Quarantined,5,Return,2025-11-09,2025-11-05,Daniel Nichols,Coreyshire Logistics Center,North Kerryberg Medical Center,Daniel Nichols
+Delivered,SHP-9146939,LPN2120598295,Dispensed,8,Return,2025-01-29,2025-02-03,Sherry Murphy,Coreyshire Logistics Center,New Joseph Medical Center,Sherry Murphy
+Shipped,SHP-6986735,LPN2508742863,Dispensed,4,Site,2025-10-15,2025-10-21,Harry Walker,Coreyshire Logistics Center,Melanieview Medical Center,Harry Walker
+Planning,SHP-4189652,LPN4905728315,Available,2,Site,2025-10-25,2025-10-30,Deanna Miller,Coreyshire Logistics Center,Thompsontown Medical Center,Deanna Miller
+Planning,SHP-8994646,LPN1975616592,Damaged,3,Site,2025-06-27,2025-06-28,Anna Hudson,Coreyshire Logistics Center,Port Katie Medical Center,Anna Hudson
+Ready,SHP-7447335,LPN2835990544,Quarantined,4,Return,2025-08-07,2025-08-07,Michael Anderson,Coreyshire Logistics Center,Kathyshire Medical Center,Michael Anderson
+Delivered,SHP-1857934,LPN7031587172,Quarantined,5,Depot,2025-02-05,2025-02-07,Hannah Thompson,Coreyshire Logistics Center,South Samantha Medical Center,Hannah Thompson
+Shipped,SHP-5052069,LPN5333170045,Quarantined,3,Site,2025-06-17,2025-06-06,Krista Barry,Coreyshire Logistics Center,East Edward Medical Center,Krista Barry
+Planning,SHP-3810291,LPN8064259736,Available,7,Return,2025-01-01,2025-01-05,Daniel Patel,Coreyshire Logistics Center,Greenmouth Medical Center,Daniel Patel
+Planning,SHP-9958689,LPN7710125327,Damaged,4,Site,2025-08-25,2025-08-15,Anna Ross,Coreyshire Logistics Center,New Matthew Medical Center,Anna Ross
+Delayed,SHP-7315104,LPN4278493995,Dispensed,5,Return,2025-02-26,2025-02-25,Kevin Freeman,Coreyshire Logistics Center,North Laurie Medical Center,Kevin Freeman
+Delivered,SHP-4008105,LPN7468682887,Quarantined,9,Depot,2025-07-02,2025-06-22,Jenny Hill,Coreyshire Logistics Center,Brooksburgh Medical Center,Jenny Hill
+Shipped,SHP-6769376,LPN4030842327,Damaged,6,Site,2025-10-21,2025-10-16,Andrea Ford,Coreyshire Logistics Center,North Ann Medical Center,Andrea Ford
+Ready,SHP-7627644,LPN6115565172,Damaged,1,Return,2025-05-02,2025-04-23,Derrick Hebert,Coreyshire Logistics Center,Desireeburgh Medical Center,Derrick Hebert
+Shipped,SHP-6954055,LPN9309607139,Quarantined,7,Depot,2025-05-04,2025-05-09,Jenny Hill,Coreyshire Logistics Center,Brooksburgh Medical Center,Jenny Hill
+Delayed,SHP-9953381,LPN8275175042,Damaged,1,Return,2025-04-26,2025-04-15,Kayla Gonzalez,Coreyshire Logistics Center,Amberfort Medical Center,Kayla Gonzalez
+Ready,SHP-5904048,LPN6098026972,Dispensed,2,Site,2025-10-14,2025-10-27,Jennifer Henry,Coreyshire Logistics Center,Michelleville Medical Center,Jennifer Henry
+Planning,SHP-4296934,LPN8639901426,Dispensed,2,Depot,2025-08-12,2025-08-09,Kimberly Richards,Coreyshire Logistics Center,Robertbury Medical Center,Kimberly Richards
+Planning,SHP-9675454,LPN6476832355,Quarantined,4,Return,2025-11-08,2025-11-01,Scott Allen,Coreyshire Logistics Center,Katherinemouth Medical Center,Scott Allen
+Delivered,SHP-1732330,LPN3214922408,Damaged,5,Depot,2025-09-25,2025-09-23,Samuel Reeves,Coreyshire Logistics Center,Loganchester Medical Center,Samuel Reeves
+Delivered,SHP-8496979,LPN9088742756,Damaged,9,Return,2025-04-09,2025-03-31,Marvin Alexander,Coreyshire Logistics Center,West Reneestad Medical Center,Marvin Alexander
+Ready,SHP-8561632,LPN1556832809,Damaged,8,Depot,2025-01-14,2025-01-14,Debbie Adams,Coreyshire Logistics Center,Spencermouth Medical Center,Debbie Adams
+Planning,SHP-3288794,LPN2938854938,Damaged,3,Return,2025-02-01,2025-01-09,Harry Walker,Coreyshire Logistics Center,Melanieview Medical Center,Harry Walker
+Delivered,SHP-6334950,LPN2775942443,Damaged,2,Site,2025-02-21,2025-02-17,Erica Mora,Coreyshire Logistics Center,Lake Kevinchester Medical Center,Erica Mora
+Ready,SHP-5331498,LPN9647261868,Damaged,1,Return,2025-07-14,2025-07-06,Andrew Garcia,Coreyshire Logistics Center,East Jenna Medical Center,Andrew Garcia
+Delivered,SHP-6304763,LPN6263887310,Available,7,Site,2025-09-13,2025-09-10,Kyle Schmidt,Coreyshire Logistics Center,Cherylborough Medical Center,Kyle Schmidt
+Ready,SHP-6646751,LPN6927595441,Damaged,4,Site,2024-12-26,2024-12-28,Sherry Long,Coreyshire Logistics Center,North Laurenview Medical Center,Sherry Long
+Ready,SHP-3857914,LPN6534583359,Damaged,4,Depot,2025-06-18,2025-06-08,Kimberly Bowman,Coreyshire Logistics Center,Carolfort Medical Center,Kimberly Bowman
+Planning,SHP-6285175,LPN6591124624,Quarantined,6,Depot,2025-02-02,2025-02-05,Kimberly Richards,Coreyshire Logistics Center,Robertbury Medical Center,Kimberly Richards
+Delayed,SHP-4286248,LPN9722831895,Damaged,9,Return,2025-03-07,2025-02-26,Samantha Jones,Coreyshire Logistics Center,Jeffersonville Medical Center,Samantha Jones
+Planning,SHP-4964314,LPN3999858754,Damaged,10,Depot,2025-01-16,2025-01-15,Melissa Morris,Coreyshire Logistics Center,North Kimberly Medical Center,Melissa Morris
+Ready,SHP-4250583,LPN4193883628,Damaged,7,Return,2024-12-09,2024-12-06,Dr. Melissa Donovan,Coreyshire Logistics Center,New Amberhaven Medical Center,Dr. Melissa Donovan
+Shipped,SHP-9553602,LPN5708514090,Quarantined,8,Site,2025-04-01,2025-04-08,Michael Anderson,Coreyshire Logistics Center,Kathyshire Medical Center,Michael Anderson
+Delivered,SHP-4203050,LPN3471833759,Damaged,10,Site,2025-06-12,2025-06-08,Heather Lewis,Coreyshire Logistics Center,Port Malik Medical Center,Heather Lewis
+Planning,SHP-3665874,LPN9205414670,Quarantined,6,Site,2025-08-22,2025-08-02,Dale Warren,Coreyshire Logistics Center,Garciashire Medical Center,Dale Warren
+Shipped,SHP-6281663,LPN5417374989,Quarantined,10,Depot,2025-01-29,2025-01-10,Samantha Jones,Coreyshire Logistics Center,Jeffersonville Medical Center,Samantha Jones
+Delivered,SHP-8425009,LPN4054853219,Available,3,Return,2025-10-31,2025-10-23,Deborah Edwards,Coreyshire Logistics Center,Port Patrickport Medical Center,Deborah Edwards
+Delayed,SHP-4826000,LPN5213446066,Quarantined,6,Site,2025-01-15,2025-01-27,Faith Hill,Coreyshire Logistics Center,East Brian Medical Center,Faith Hill
+Ready,SHP-9606987,LPN4408659453,Dispensed,3,Site,2025-11-20,2025-11-17,Crystal Evans,Coreyshire Logistics Center,Lake Loganport Medical Center,Crystal Evans
+Ready,SHP-3885304,LPN6672614235,Available,3,Return,2025-02-11,2025-02-07,Sherry Murphy,Coreyshire Logistics Center,New Joseph Medical Center,Sherry Murphy
+Ready,SHP-2917942,LPN4015484395,Quarantined,10,Return,2025-06-12,2025-05-26,Allen Mayer,Coreyshire Logistics Center,Lake Theresabury Medical Center,Allen Mayer
+Shipped,SHP-3909369,LPN6028213667,Dispensed,5,Depot,2025-02-03,2025-01-21,William Hernandez,Coreyshire Logistics Center,Douglaston Medical Center,William Hernandez
+Shipped,SHP-4986663,LPN3559253129,Damaged,7,Site,2025-11-01,2025-10-25,Edward Watson,Coreyshire Logistics Center,Trevorside Medical Center,Edward Watson
+Delayed,SHP-7694278,LPN3468506873,Damaged,5,Depot,2025-08-31,2025-09-01,Dylan Brooks,Coreyshire Logistics Center,South James Medical Center,Dylan Brooks
+Shipped,SHP-9682275,LPN5148287568,Available,9,Depot,2025-05-11,2025-05-07,Dakota Cook,Coreyshire Logistics Center,South Briannaport Medical Center,Dakota Cook
+Delivered,SHP-8621812,LPN4226956708,Damaged,6,Depot,2025-11-20,2025-11-17,Angela Greene,Coreyshire Logistics Center,Mackbury Medical Center,Angela Greene
+Planning,SHP-2655995,LPN5597374945,Damaged,3,Depot,2025-03-28,2025-04-14,John Smith,Coreyshire Logistics Center,Brownborough Medical Center,John Smith
+Shipped,SHP-6625107,LPN1903818272,Available,10,Depot,2025-10-07,2025-10-12,Kenneth Thomas,Coreyshire Logistics Center,North Christian Medical Center,Kenneth Thomas
+Delayed,SHP-4022412,LPN7326617514,Dispensed,5,Depot,2025-02-26,2025-02-18,Lawrence Sanchez,Coreyshire Logistics Center,New Micheleview Medical Center,Lawrence Sanchez
+Ready,SHP-5930785,LPN3788575907,Dispensed,2,Site,2025-03-03,2025-02-20,Allen Mayer,Coreyshire Logistics Center,Lake Theresabury Medical Center,Allen Mayer
+Delayed,SHP-1382518,LPN2830049169,Damaged,3,Site,2025-06-18,2025-06-13,Amy Haney,Coreyshire Logistics Center,West Rebeccabury Medical Center,Amy Haney
+Delivered,SHP-8832361,LPN7826254890,Damaged,10,Depot,2025-06-01,2025-05-29,John Smith,Coreyshire Logistics Center,Brownborough Medical Center,John Smith
+Ready,SHP-3644772,LPN4333372668,Quarantined,2,Depot,2024-12-30,2024-12-08,Logan Rogers,Coreyshire Logistics Center,Rickport Medical Center,Logan Rogers
+Delayed,SHP-1387707,LPN6194990483,Damaged,8,Site,2025-07-20,2025-07-02,Cameron Harris,Coreyshire Logistics Center,Lake Summerville Medical Center,Cameron Harris
+Delivered,SHP-5566946,LPN6683126840,Dispensed,6,Site,2025-03-10,2025-03-11,Carol Campbell,Coreyshire Logistics Center,West Kristin Medical Center,Carol Campbell
+Planning,SHP-9182038,LPN6316416769,Available,10,Site,2025-07-11,2025-07-15,Alan Strong,Coreyshire Logistics Center,West Brian Medical Center,Alan Strong
+Shipped,SHP-6845535,LPN7432757746,Damaged,8,Return,2024-12-20,2024-12-07,Scott Allen,Coreyshire Logistics Center,Katherinemouth Medical Center,Scott Allen
+Shipped,SHP-6598865,LPN7910731429,Dispensed,1,Site,2025-05-15,2025-05-07,Jesse Guzman,Coreyshire Logistics Center,Ramirezside Medical Center,Jesse Guzman
+Shipped,SHP-7162968,LPN8984132558,Available,5,Depot,2025-11-05,2025-11-13,Steven Jackson,Coreyshire Logistics Center,New Linda Medical Center,Steven Jackson
+Planning,SHP-8889301,LPN6280132847,Damaged,3,Site,2025-07-29,2025-07-13,Kelsey Thomas,Coreyshire Logistics Center,North Feliciaville Medical Center,Kelsey Thomas
+Delivered,SHP-8528927,LPN3843376181,Quarantined,8,Depot,2025-05-05,2025-05-01,Jennifer Clark,Coreyshire Logistics Center,Kimberlychester Medical Center,Jennifer Clark
+Ready,SHP-3054749,LPN3446749363,Dispensed,8,Site,2025-06-23,2025-07-02,April Rivera,Coreyshire Logistics Center,South Kenneth Medical Center,April Rivera
+Delivered,SHP-7219203,LPN4296875735,Damaged,3,Return,2025-10-07,2025-10-06,Lisa Mcdonald,Coreyshire Logistics Center,Perryfurt Medical Center,Lisa Mcdonald
+Delayed,SHP-9622020,LPN3789946543,Damaged,3,Depot,2025-02-23,2025-03-02,Sarah Aguirre,Coreyshire Logistics Center,Reginachester Medical Center,Sarah Aguirre
+Ready,SHP-9258821,LPN2141836247,Dispensed,7,Return,2025-08-24,2025-08-28,Jose Wood,Coreyshire Logistics Center,North Heidi Medical Center,Jose Wood
+Shipped,SHP-1525492,LPN7607806558,Dispensed,2,Return,2025-01-04,2024-12-30,Tommy Dawson,Coreyshire Logistics Center,Lake Matthewfort Medical Center,Tommy Dawson
+Delayed,SHP-4221413,LPN1665904461,Quarantined,7,Return,2025-06-21,2025-06-08,Luke Shelton,Coreyshire Logistics Center,Port David Medical Center,Luke Shelton
+Delayed,SHP-6016626,LPN8743824535,Available,6,Return,2025-10-12,2025-10-19,Sarah Richardson,Coreyshire Logistics Center,West Melanie Medical Center,Sarah Richardson
+Shipped,SHP-3263783,LPN6155664820,Available,5,Depot,2025-03-19,2025-03-08,Jeffrey Jimenez,Coreyshire Logistics Center,Ramirezfurt Medical Center,Jeffrey Jimenez
+Planning,SHP-9686706,LPN9929281353,Available,6,Return,2025-11-26,2025-11-10,Sarah Richardson,Coreyshire Logistics Center,West Melanie Medical Center,Sarah Richardson
+Shipped,SHP-5314596,LPN7199526251,Damaged,2,Depot,2025-10-04,2025-10-15,Megan Hicks,Coreyshire Logistics Center,East Mitchellhaven Medical Center,Megan Hicks
+Delayed,SHP-5767519,LPN5498602030,Available,3,Depot,2025-01-26,2025-01-18,Paul Burke,Coreyshire Logistics Center,Ramirezview Medical Center,Paul Burke
+Shipped,SHP-9395484,LPN7457004542,Available,4,Return,2025-02-06,2025-01-20,Logan Rogers,Coreyshire Logistics Center,Rickport Medical Center,Logan Rogers
+Ready,SHP-8535972,LPN9673604047,Quarantined,1,Depot,2025-05-01,2025-04-17,Michael Santiago,Coreyshire Logistics Center,East Christopherchester Medical Center,Michael Santiago
+Ready,SHP-2946968,LPN4281169352,Dispensed,8,Depot,2025-12-03,2025-11-20,Heather Lewis,Coreyshire Logistics Center,Port Malik Medical Center,Heather Lewis
+Delayed,SHP-1290186,LPN6874137729,Quarantined,3,Return,2025-07-26,2025-07-20,Deborah Lopez,Coreyshire Logistics Center,East Alexander Medical Center,Deborah Lopez
+Ready,SHP-3721076,LPN2007888873,Dispensed,10,Site,2025-02-14,2025-02-16,Kenneth Thomas,Coreyshire Logistics Center,North Christian Medical Center,Kenneth Thomas
+Delivered,SHP-9893465,LPN1093107075,Quarantined,2,Site,2025-07-16,2025-07-10,Melissa Morris,Coreyshire Logistics Center,North Kimberly Medical Center,Melissa Morris
