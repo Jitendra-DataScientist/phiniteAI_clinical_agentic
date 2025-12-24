@@ -20,6 +20,11 @@ class Config:
     # Data directory
     DATA_DIR = os.getenv('DATA_DIR', './synthetic_clinical_data')
 
+    # Email settings
+    SENDER_EMAIL = os.getenv('sender_email')
+    APP_PASSWORD = os.getenv('app_password')
+    RECIPIENT_EMAILS = os.getenv('recipient_emails')  # Comma-separated string
+
     @classmethod
     def get_connection_string(cls):
         """Get SQLAlchemy connection string."""
@@ -35,3 +40,10 @@ class Config:
             'user': cls.DB_USER,
             'password': cls.DB_PASSWORD
         }
+
+    @classmethod
+    def get_recipient_list(cls):
+        """Parse comma-separated recipient emails into a list."""
+        if cls.RECIPIENT_EMAILS:
+            return [email.strip() for email in cls.RECIPIENT_EMAILS.split(',')]
+        return []

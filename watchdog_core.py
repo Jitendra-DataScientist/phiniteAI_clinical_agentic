@@ -6,6 +6,8 @@ import pandas as pd
 from sqlalchemy import create_engine, URL, text
 from config import Config
 import json
+import threading
+from mail_sender_util import send_gmail_html_multi
 
 
 class SupplyWatchdog:
@@ -294,6 +296,232 @@ class SupplyWatchdog:
 
         return payload
 
+    def generate_html_email(self, payload):
+        """Generate HTML email content from watchdog payload."""
+        run_id = payload['run_id']
+        run_timestamp = payload['run_timestamp']
+        summary = payload['summary']
+        expiry_alerts = payload['expiry_alerts']
+        shortfall_predictions = payload['shortfall_predictions']
+
+        # Color scheme
+        colors = {
+            'CRITICAL': {'bg': '#ffcccc', 'text': '#cc0000'},
+            'HIGH': {'bg': '#ffe6cc', 'text': '#ff6600'},
+            'MEDIUM': {'bg': '#fff9cc', 'text': '#cc9900'}
+        }
+
+        # Start HTML
+        html = f"""
+        <html>
+        <head>
+            <style>
+                body {{ font-family: Arial, sans-serif; margin: 20px; }}
+                h1 {{ color: #333; }}
+                h2 {{ color: #555; margin-top: 30px; }}
+                .summary-box {{
+                    background-color: #f2f2f2;
+                    padding: 15px;
+                    border-radius: 5px;
+                    margin: 20px 0;
+                }}
+                table {{
+                    border-collapse: collapse;
+                    width: 100%;
+                    margin: 20px 0;
+                    font-size: 14px;
+                }}
+                th {{
+                    background-color: #f2f2f2;
+                    border: 1px solid #ddd;
+                    padding: 10px;
+                    text-align: left;
+                }}
+                td {{
+                    border: 1px solid #ddd;
+                    padding: 8px;
+                }}
+                .footer {{
+                    margin-top: 40px;
+                    padding-top: 20px;
+                    border-top: 1px solid #ddd;
+                    color: #666;
+                    font-size: 12px;
+                }}
+            </style>
+        </head>
+        <body>
+            <h1>Supply Watchdog Alert Report</h1>
+            <p><strong>Run ID:</strong> {run_id}</p>
+            <p><strong>Timestamp:</strong> {run_timestamp}</p>
+
+            <div class="summary-box">
+                <h3>Summary</h3>
+                <p><strong>Total Alerts: {summary['total_alerts']}</strong></p>
+                <p style="color: {colors['CRITICAL']['text']};">CRITICAL: {summary['critical']}</p>
+                <p style="color: {colors['HIGH']['text']};">HIGH: {summary['high']}</p>
+                <p style="color: {colors['MEDIUM']['text']};">MEDIUM: {summary['medium']}</p>
+            </div>
+        """
+
+        # Check if there are any alerts
+        if summary['total_alerts'] == 0:
+            html += """
+            <p>All systems normal. No expiry or shortfall alerts detected.</p>
+            """
+        else:
+            # Expiry Alerts Section
+            total_expiry = len(expiry_alerts['critical']) + len(expiry_alerts['high']) + len(expiry_alerts['medium'])
+            if total_expiry > 0:
+                html += """
+                <h2>🔴 Expiring Batches</h2>
+                <table>
+                    <tr>
+                        <th>Severity</th>
+                        <th>Trial</th>
+                        <th>Location</th>
+                        <th>Batch Lot</th>
+                        <th>Material</th>
+                        <th>Expiry Date</th>
+                        <th>Days Left</th>
+                        <th>Quantity</th>
+                        <th>Action</th>
+                    </tr>
+                """
+
+                # Add alerts by severity
+                for severity in ['critical', 'high', 'medium']:
+                    for alert in expiry_alerts[severity]:
+                        bg_color = colors[severity.upper()]['bg']
+                        text_color = colors[severity.upper()]['text']
+                        html += f"""
+                    <tr style="background-color: {bg_color};">
+                        <td style="color: {text_color}; font-weight: bold;">{alert['severity']}</td>
+                        <td>{alert['trial_alias']}</td>
+                        <td>{alert['location']}</td>
+                        <td>{alert['batch_lot']}</td>
+                        <td>{alert['material_description']}</td>
+                        <td>{alert['expiry_date']}</td>
+                        <td>{alert['days_until_expiry']}</td>
+                        <td>{alert['current_quantity']}</td>
+                        <td>{alert['recommended_action']}</td>
+                    </tr>
+                        """
+
+                html += """
+                </table>
+                """
+
+            # Shortfall Predictions Section
+            total_shortfall = len(shortfall_predictions['critical']) + len(shortfall_predictions['high']) + len(shortfall_predictions['medium'])
+            if total_shortfall > 0:
+                html += """
+                <h2>📉 Stock Shortfall Predictions</h2>
+                <table>
+                    <tr>
+                        <th>Severity</th>
+                        <th>Trial</th>
+                        <th>Location</th>
+                        <th>Material</th>
+                        <th>Current Stock</th>
+                        <th>Weekly Usage</th>
+                        <th>Weeks Left</th>
+                        <th>Stockout Date</th>
+                        <th>Action</th>
+                    </tr>
+                """
+
+                # Add alerts by severity
+                for severity in ['critical', 'high', 'medium']:
+                    for alert in shortfall_predictions[severity]:
+                        bg_color = colors[severity.upper()]['bg']
+                        text_color = colors[severity.upper()]['text']
+                        html += f"""
+                    <tr style="background-color: {bg_color};">
+                        <td style="color: {text_color}; font-weight: bold;">{alert['severity']}</td>
+                        <td>{alert['trial_alias']}</td>
+                        <td>{alert['location']}</td>
+                        <td>{alert['material_description']}</td>
+                        <td>{alert['current_quantity']:.1f}</td>
+                        <td>{alert['weekly_consumption_rate']:.2f}</td>
+                        <td>{alert['weeks_until_stockout']:.1f}</td>
+                        <td>{alert['projected_shortage_date']}</td>
+                        <td>{alert['recommended_action']}</td>
+                    </tr>
+                        """
+
+                html += """
+                </table>
+                """
+
+        # Footer
+        html += f"""
+            <div class="footer">
+                <p>This is an automated alert from Supply Watchdog</p>
+                <p>Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}</p>
+                <p>Check database for full details</p>
+            </div>
+        </body>
+        </html>
+        """
+
+        return html
+
+    def _send_email_thread(self, payload):
+        """
+        Thread target function to send email alerts.
+        This runs in a separate thread to avoid blocking the main process.
+
+        Args:
+            payload: The JSON payload with all alerts
+        """
+        try:
+            # Generate dynamic subject line
+            summary = payload['summary']
+            if summary['total_alerts'] == 0:
+                subject = "Supply Watchdog: No alerts detected"
+            else:
+                subject = f"Supply Watchdog Alert: {summary['critical']} CRITICAL, {summary['high']} HIGH, {summary['medium']} MEDIUM"
+
+            # Generate HTML body
+            html_body = self.generate_html_email(payload)
+
+            # Load email configuration
+            sender_email = Config.SENDER_EMAIL
+            app_password = Config.APP_PASSWORD
+            recipient_list = Config.get_recipient_list()
+
+            if not sender_email or not app_password or not recipient_list:
+                print("✗ Email configuration missing. Please check .env file.")
+                return
+
+            # Send email with retry logic
+            success = send_gmail_html_multi(
+                sender_email=sender_email,
+                app_password=app_password,
+                recipient_list=recipient_list,
+                subject=subject,
+                html_body=html_body
+            )
+
+            if success:
+                print("✓ Email alerts sent successfully")
+            else:
+                print("✗ Failed to send email after all retry attempts")
+
+        except Exception as e:
+            print(f"✗ Unexpected error in email thread: {e}")
+
+    def send_email_alerts(self, payload):
+        """
+        Launch email sending in a separate thread.
+
+        Args:
+            payload: The JSON payload with all alerts
+        """
+        email_thread = threading.Thread(target=self._send_email_thread, args=(payload,))
+        email_thread.start()
+
     def run(self):
         """Execute the watchdog monitoring cycle."""
         print("\n" + "=" * 60)
@@ -322,11 +550,17 @@ class SupplyWatchdog:
         payload = self.generate_json_payload(all_alerts)
 
         # Save JSON to file
+        print("\n6. Saving JSON payload...")
         output_file = f"watchdog_output_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
         with open(output_file, 'w') as f:
             json.dump(payload, f, indent=2)
 
         print(f"✓ JSON payload saved to: {output_file}")
+
+        # Send email alerts in background
+        print("\n7. Sending email alerts in background...")
+        self.send_email_alerts(payload)
+        print("✓ Email thread started (sending in background)")
 
         print("\n" + "=" * 60)
         print("Supply Watchdog - Monitoring Cycle Complete")
